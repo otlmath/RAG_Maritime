@@ -2,23 +2,22 @@ import os
 import numpy as np
 import faiss
 import pickle
-from transformers import AutoTokenizer, AutoModel
+from sentence_transformers import SentenceTransformer
 import math
-import torch.nn.functional as F
+import torch
 
 # --- Configuration ---
 TXT_DIRECTORY = './TXT_DATA'
 EMBEDDING_MODEL_NAME = 'nomic-ai/nomic-embed-text-v1'
-MODEL_MAX_LENGTH = 8192 # Max sequence length for nomic-embed-text-v1
-FAISS_INDEX_FILE = 'vector_store_hf.index'
-CHUNK_DATA_FILE = 'chunks_hf.pkl'
+FAISS_INDEX_FILE = 'vector_store_st.index'
+CHUNK_DATA_FILE = 'chunks_st.pkl'
 SPLIT_DELIMITER = '############\n'
 CHUNK_SIZE = 3
-EMBEDDING_BATCH_SIZE = 16
+EMBEDDING_BATCH_SIZE = 32  # SentenceTransformers often handles larger batches well
 
 # --- Initialization ---
 
-# Check for GPU availability
+# Check for GPU availability (SentenceTransformers uses PyTorch)
 if torch.cuda.is_available():
     device = torch.device("cuda")
     print("Using GPU:", torch.cuda.get_device_name(0))
@@ -26,41 +25,13 @@ else:
     device = torch.device("cpu")
     print("Using CPU")
 
-print(f"Loading Hugging Face tokenizer and model: {EMBEDDING_MODEL_NAME}")
+print(f"Loading Sentence Transformer model: {EMBEDDING_MODEL_NAME}")
 try:
-    # Trust remote code for Nomic model
-    tokenizer = AutoTokenizer.from_pretrained(EMBEDDING_MODEL_NAME, trust_remote_code=True)
-    model = AutoModel.from_pretrained(EMBEDDING_MODEL_NAME, trust_remote_code=True)
-    model.to(device) # Move model to GPU if available
-    model.eval() # Set model to evaluation mode
-    # Add the encode method if it's not directly available in the model
-    if not hasattr(model, 'encode'):
-        def encode(texts, batch_size=EMBEDDING_BATCH_SIZE, show_progress_bar=False, device=device, normalize_embeddings=True):
-            all_embeddings = []
-            num_batches = math.ceil(len(texts) / batch_size)
-            for i in range(num_batches):
-                start_index = i * batch_size
-                end_index = min((i + 1) * batch_size, len(texts))
-                batch = texts[start_index:end_index]
-                encoded_input = tokenizer(batch, padding=True, truncation=True, max_length=MODEL_MAX_LENGTH, return_tensors='pt').to(device)
-                with torch.no_grad():
-                    model_output = model(**encoded_input)
-                    # Perform mean pooling (as the original code did)
-                    token_embeddings = model_output[0]
-                    input_mask_expanded = encoded_input['attention_mask'].unsqueeze(-1).expand(token_embeddings.size()).float()
-                    sum_embeddings = torch.sum(token_embeddings * input_mask_expanded, 1)
-                    sum_mask = torch.clamp(input_mask_expanded.sum(1), min=1e-9)
-                    embeddings = sum_embeddings / sum_mask
-                    if normalize_embeddings:
-                        embeddings = F.normalize(embeddings, p=2, dim=1)
-                all_embeddings.append(embeddings.cpu().numpy())
-            return np.concatenate(all_embeddings, axis=0)
-        model.encode = encode
-
-    print("Model and tokenizer loaded.")
+    model = SentenceTransformer(EMBEDDING_MODEL_NAME, device=str(device), trust_remote_code=True)
+    print("Sentence Transformer model loaded.")
 except Exception as e:
-    print(f"Error loading model or tokenizer: {e}")
-    print("Ensure you have 'transformers>=4.36' installed and internet connection.")
+    print(f"Error loading Sentence Transformer model: {e}")
+    print("Ensure you have 'sentence-transformers' installed and internet connection.")
     exit()
 
 all_chunks = []
@@ -102,8 +73,8 @@ if not all_chunks:
 
 print(f"Total chunks created: {len(all_chunks)}")
 
-# --- 2. Generate Embeddings using Hugging Face (in batches using .encode()) ---
-print(f"Generating embeddings using {EMBEDDING_MODEL_NAME} (Batch size: {EMBEDDING_BATCH_SIZE})...")
+# --- 2. Generate Embeddings using Sentence Transformers ---
+print(f"Generating embeddings using {EMBEDDING_MODEL_NAME}...")
 
 # Nomic requires adding "search_document: " prefix for document embeddings.
 prefixed_chunks = ["search_document: " + text for text in all_chunks]
@@ -111,7 +82,6 @@ prefixed_chunks = ["search_document: " + text for text in all_chunks]
 embeddings = model.encode(prefixed_chunks,
                          batch_size=EMBEDDING_BATCH_SIZE,
                          show_progress_bar=True,
-                         device=device,
                          normalize_embeddings=True)
 
 print(f"Embeddings generated. Shape: {embeddings.shape}")

@@ -16,7 +16,7 @@ FAISS_INDEX_FILE = 'vector_store_hf.index'
 CHUNK_DATA_FILE = 'chunks_hf.pkl'
 EMBEDDING_MODEL_NAME = 'nomic-ai/nomic-embed-text-v1'
 MODEL_MAX_LENGTH = 8192 # Nomic's context length (for embedding)
-TOP_K = 5          # Number of chunks to retrieve
+TOP_K = 25          # Number of chunks to retrieve
 GEMINI_MODEL_NAME = 'gemini-1.5-flash-latest' # Or 'gemini-1.0-pro', etc.
 API_KEY_FILENAME = 'gemini_api_key.txt' # <<< Name of the file containing the key
 
@@ -230,7 +230,7 @@ def query():
 
     query_embedding = embed_query(user_query)
     retrieved_texts, _ = retrieve_chunks(query_embedding)
-
+    print(retrieved_texts)
     if not retrieved_texts:
         response = "Could not retrieve any relevant context from your documents."
     else:
