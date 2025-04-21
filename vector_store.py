@@ -7,15 +7,14 @@ from transformers import AutoTokenizer, AutoModel
 import math
 
 # --- Configuration ---
-TXT_DIRECTORY = './TXT_DATA'  # <<< CHANGE THIS
-# Using a model designed for long contexts and good performance
+TXT_DIRECTORY = './TXT_DATA' 
 EMBEDDING_MODEL_NAME = 'nomic-ai/nomic-embed-text-v1'
 MODEL_MAX_LENGTH = 8192 # Max sequence length for nomic-embed-text-v1
 FAISS_INDEX_FILE = 'vector_store_hf.index'
 CHUNK_DATA_FILE = 'chunks_hf.pkl'
 SPLIT_DELIMITER = '############\n'
 CHUNK_SIZE = 3
-EMBEDDING_BATCH_SIZE = 16 # Adjust based on your GPU/CPU memory
+EMBEDDING_BATCH_SIZE = 16 
 
 # --- Initialization ---
 
@@ -44,7 +43,6 @@ all_chunks = []
 chunk_metadata = []
 
 # --- 1. Read, Split, and Chunk Files ---
-# (This part remains the same as the previous script)
 print(f"Processing .txt files in directory: {TXT_DIRECTORY}")
 try:
     for filename in os.listdir(TXT_DIRECTORY):
@@ -56,10 +54,6 @@ try:
                     content = f.read()
                 sections = content.split(SPLIT_DELIMITER)
                 sections = [sec.strip() for sec in sections if sec.strip()]
-
-                if not sections:
-                    print(f"    Warning: No content sections found in {filename} after splitting.")
-                    continue
 
                 for i in range(len(sections) - CHUNK_SIZE + 1):
                     chunk_text = "\n\n".join(sections[i : i + CHUNK_SIZE])
