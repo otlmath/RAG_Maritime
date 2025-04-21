@@ -1,0 +1,1685 @@
+Marine Safety Manual Volume III: Marine Industry Personnel
+
+1.  PURPOSE. This Commandant Change Notice publishes a change to The Marine Safety Manual, Volume III, Marine Industry Personnel, COMDTINST M16000.8B.
+
+2.  ACTION. All Coast Guard unit commanders, commanding officers, officers-in-charge, deputy/assistant commandants, and chiefs of headquarters staff elements shall comply with the provisions of this Commandant Change Notice. Internet release is authorized.
+
+3.  DIRECTIVES AFFECTED. With the addition of this Commandant Change Notice, The Marine Safety Manual, Volume III, Marine Industry Personnel, COMDTINST M16000.8B, is updated.
+
+4.  DISCUSSION AND BACKGROUND. The Marine Safety Manual, Volume III, Marine Industry Personnel, COMDTINST M16000.8B, provides information and interpretations on international conventions and U.S. statutory and regulatory issues relating to marine industry personnel. The last revisions, Change-1, were released on 30 July 2014. Change-1 was presented in a new format, to facilitate future revisions by creating three distinct parts; Part A: Mariner Credentialing (Chapters 1-17), Part B: Vessel Manning (legacy Chapters 20-26, now Chapters 1-7), and Part C: Shipment and Service (legacy Chapters 18-19, now Chapters 1-2). The primary reasons for Change-2 are to update guidance to align with the Howard Coble Coast Guard and Maritime Transportation Act of 2014, include manning scales for inspected towing vessels, and to include various policy updates impacting vessel manning. The Coast Guard published a notice in the Federal Register announcing the availability of a draft Change-2 and requested public comments (See 81 FR 46042). Also, the Coast Guard sought input from the Towing Safety Advisory Committee (TSAC). The final Notice of Availability, including comments and material received from the public, as well as documents mentioned as being available in the docket, are part of docket USCG-2016-0669. Unless specifically stated otherwise, this Commandant Change Notice is effective as of the date of publication. Any discrepancies with vessel manning or endorsements should be brought to the attention of the owner/operator or Officer in Charge, Marine Inspection (OCMI) and discussed during the next scheduled Coast Guard attendance with a view of aligning with this revised guidance.
+
+5.  DISCLAIMER. This guidance is not a substitute for applicable legal requirements, nor is it itself a rule. It is not intended to nor does it impose legally binding requirements on any party. It represents the Coast Guard’s current thinking on this topic and may assist industry, mariners, the general public, and the Coast Guard, as well as other Federal and State regulators, in applying statutory and regulatory requirements. Members of the public may use an alternative approach if the approach satisfies the requirements of the applicable statutes and regulations.
+
+6.  MAJOR CHANGES. All changes are underlined in the final version and each changed page is annotated with CH-2 in the footer. For a summary of all of the changes, as well as to view any associated documents, go to http://www.regulations.gov, using “USCG-2016-0669” as the search term. Available for viewing in the public docket is a change matrix that provides a summary of each specific public comment and the corresponding Coast Guard response; the change matrix also lists and explains changes made by the Coast Guard but not prompted by public comments. Substantive changes to Part B and Part C of this Manual include:
+    a. Updated provisions to align with the Howard Coble Coast Guard and Maritime Transportation Act of 2014 Pub. L. 113-281; Sections 316, 319, and 601. Specifically, Section 316 made statutory changes which amended multiple paragraphs of 46 U.S.C. 8104. Section 319 amended 46 U.S.C. 4105 and Section 601 amended the 46 U.S.C. 8103 note.
+    b. Incorporates updated information on riding gangs, 46 U.S.C. 8106. Chapter B1, Section J.
+    c. Incorporates Guidelines for Liquefied Natural Gas Fuel Transfer Operations and Training of Personnel on Vessels Using Natural Gas as Fuel, by reference. Chapter B2, Section A.
+    d. Corrects a longstanding discrepancy between in the Tables of Additional Deckhands for small passenger vessels and the regulatory breakpoints established in 46 CFR Subchapters T and K. The tables have been adjusted to align with the regulatory breakpoints as well as the base thresholds originally established in the 1955 Merchant Marine Safety Manual (CG -203), per amendment #26 of 1973. Chapter B2, Sections C & D.
+    e. Updated policy reflecting the regulations for Offshore Supply Vessels of at Least 6,000 GT ITC (79 FR 48894, August 18, 2014]). Chapter B2, Section L.
+    f. Consolidates hydrofoils under a single header and incorporates High-Speed Craft. Chapter B2, Section T.
+    g. Having considered the recommendations of the Towing Safety Advisory Committee (TSAC), Tasks 13 -02 and 15-01, the Coast Guard has included manning scales for towing vessels inspected under 46 CFR Subchapter M, which comply with the current provisions of Title 46, U.S. Code (U.S.C.) Subtitle II, Part F. This includes scales for towing vessels of 300 GRT or more exclusively in Great Lakes service, which were not included in the TSAC recommendation. The scales are presented in a new standard format. Chapter B2, Section W.
+    h. Adds a figure for Tonnage Applicability: Dual-Tonnage Vessels. Chapter B3, Section B.
+    i. Clarifies the Federal and First -Class Pilot requirements. Chapter B3, Section I.
+    j. Adds clarification for Person in Charge of Medical Care. Chapter B3, Section Q.
+    k. Adds discussion on Port Relief Officers. Chapter B3, Section R.
+    l. Adds considerations for the assignment of Able Seamen (ABs) on vessels of limited size. Chapter B4, Section D.
+    m. Includes a section on Cadets, Student Observers & Apprentices. Chapter B4, Section G.
+    n. Revisions for the International Safety Management (ISM) Code, as amended by IMO Resolution MSC.353(92). Chapter B5, Section F.
+    o. Created Sample Reduced Scales for certain vessels with automated engineering systems. Chapter B6, Section A.
+    p. Adds an Abbreviations section, Suggested Manning Proposal Template, MMS Work Instruction, Master’s Field Guide, and a Manning Verification Check -sheet.
+
+7.  ENVIRONMENTAL ASPECT AND IMPACT CONSIDERATIONS.
+    a. The development of this Commandant Change Notice and the general policies contained within it have been thoroughly reviewed by the originating office in conjunction with the Office of Environmental Management, and are categorically excluded (CE) under current USCG CE # 33 from further environmental analysis, in accordance with Section 2.B.2. and Figure 2-1 of the National Environmental Policy Act Implementing Procedures and Policy for Considering Environmental Impacts, COMDTINST M16475.1 (series). Because this Commandant Change Notice contains guidance on, and provisions for, compliance with applicable environmental mandates, Coast Guard categorical exclusion #33 is appropriate.
+    b. This directive will not have any of the following: significant cumulative impacts on the human environment; substantial controversy or substantial change to existing environmental conditions; or inconsistencies with any Federal, State, or local laws or administrative determinations relating to the environment. All future specific actions resulting from the general policies in this Commandant Change Notice must be individually evaluated for compliance with the National Environmental Policy Act (NEPA), DHS and Coast Guard NEPA policy, and compliance with all other environmental mandates. Due to the administrative and procedural nature of this Commandant Change Notice, and the environmental guidance provided within it for compliance with all applicable environmental laws prior to promulgating any directive, all applicable environmental considerations are addressed appropriately in this Commandant Change Notice.
+4 8. DISTRIBUTION. No paper distribution will be made of this Commandant Change Notice. An electronic version will be located on the following Commandant (CG-612) web sites. Internet: http://www.dcms.uscg.mil/Our- Organization/Assistant-Commandant- for-C4IT -CG-6-/The-Office -of-Information -Management -CG-61/aboutCGDS/ , and CGPortal: https://cgportal2.uscg.mil/library/directives/SitePages/Home.aspx .
+
+9. PROCEDURE. Remove and replace the following sections of The Marine Safety Manual, Volume III, Marine Industry Personnel, COMDTINST M16000.8B:
+Remove Replace
+Forward Forward
+Contents IV-X Contents IV-X
+Chapters B1 -B7 Chapters B1 -B7
+Chapter C1 -C2 Chapter C1 -C2
+LIF-i LIF-i & ABB-i- ii
+ANNEX ANNEX
+
+10. RECORDS MANAGEMENT CONSIDERATIONS. This Commandant Change Notice has been thoroughly reviewed during the directives clearance process, and it has been determined there are further records scheduling requirements, in accordance with Federal Records Act, 44U.S.C. 3101 et seq., NARA requirements, and Information and Life Cycle ManagementManual, COMDTINST M5212.12 (series). This policy does not create significant or substantial change to existing records management requirements.
+
+11. FORMS/REPORTS. The forms referenced in this Manual are available in USCG Electronic Forms on the Standard Workstation or on CG Portal https://cgportal2.uscg.mil/delivery/Satellite/CG611/FORMS and Intranet at http://www.dcms.uscg.mil/Our- Organization/Assistant-Commandant- for-C4IT -CG-6- /The- Office -of-Information -Management -CG-61/aboutFormsManagement/ .
+
+12. REQUEST FOR CHANGES. Units and individuals may recommend changes via the chain of command to: CG-CVC-1@uscg.mil .
+
+P. F. THOMAS /s/
+Rear Admiral, U .S. C oast G uard
+Assistant Commandant for Prevention P olicy
+DISTRIBUTION – SDL No. 165
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+A
+B X X X X
+C X X X X
+D X X X
+E X X X X X X
+F X
+G
+H X COMDTCHANGE NOTE M16000
+30 JUL 2014
+COM
+MANDANT CHANGE NOTICE 16000
+Subj: CH-1 TO THE MARINE SAFETY MANUAL, VOLUME III, MARINE INDU STRY PERSONNEL, COMDTINST 16000.8B
+
+1. PURPOSE. This Commandant Change Notice publishes a change to The Marine Safety Manual, Volume III, Marine Industry Personnel, COMDTINST M16000.8B.
+
+2. ACTION. All Coast Guard unit commanders, commanding officers, of ficers- in-charge, deputy/assistant commandants, and chiefs of headquarters staff elements shall comply with the provisions of this Commandant Change Notice. Internet release is authorized.
+
+3. DIRECTIVES AFFECTED. With the addition of this Commandant Change Notice, The Marine Safety Manual, Volume III, Marine Industry Personnel, COMDTINST M16000.8B, isupdated. In addition, G- MOC Policy Letters 4 -00 REV -1 and 02- 03 as well as Enclosure (1) -Paragraph 13 of CG-543 Policy Letter 07- 02 and CG -CVC Policy Let ter 12 -05 are superseded and incorporated into this Change.
+
+4. DISCUSSION AND BACKGROUND. The Marine Safety Manual, Volume III, Marine Industry Personnel, COMDTINST M16000.8B, provides information and interpretations oninternational conventions and U.S. statutory and regulatory issues relating to marine industrypersonnel. The last revisions were released on 27 May 1999. The primary reasons for thesechanges are to incorporate the 2010 amendments to the International Convention on Standardsof Training, Certification and Watchkeeping for Seafarers, 1978, as amended (STCW Convention), update the provisions for vessel manning, revise the discussion on the impact of multiple international standards, to clarify the applicability of tonnage measurement systems toU.S. flag vessels, and to include changes resulting from the consolidation of merchant marinerqualification credentials. The Coast Guard published two notices in the Federal Register
+Commandant
+United States Coast Guard U.S. Coast Guard Stop 7501
+2703 Martin Luther King Jr Ave SE Washington, DC 20593-7501
+Staff Symbol: CG-CVC
+Phone: (202) 372-1224
+COM DTCHANGENOTE 16000
+2 announcing the availability of the changes to Part B (legacy chapters 20 – 26) and requested public comments (See 78 FR 48696 and 79 FR 14714) as well as input from the Merchant Marine Personnel Advisory Committee. The final Notice of Availability, including comments and material received from the public, as well as documents mentioned as being available in the docket, are part of docket USCG-2013- 0240. Unless specifically stated otherwise, this Commandant Change Notice is effective as of the date of publication. Any discrepancies with vessel manning or endorsements should be brought to the attention of the owner/operator or Officer in Charge, Marine Inspection (OCMI) and discussed during the next scheduled Coast Guard attendance with a view of aligning with this revised guidance.
+
+5. DISCLAIMER. This guidance is not a substitute for applicable legal requirements, nor is it itself a rule. It is not intended to nor does it impose legally binding requirements on any party. It represents the Coast Guard’s current thinking on this topic and may assist industry, mariners, the general public, and the Coast Guard, as well as other Federal and State regulators, inapplying statutory and regulatory requirements. Members of the public may use an alternative approach if the approach satisfies the requirements of the applicable statutes and regulations.
+
+6. MAJOR CHANGES. This Change is presented in a new format, to facilitate future revisions by creating three distinct parts; Part A: Mariner Credentialing (Chapters 1 -17), Part B: Vessel Manning (legacy Chapters 20-26, now Chapters 1-7), and Part C: Shipment and Service (legacy Chapters 18-19, now Chapters 1-2). This Change includes revisions to Part C, Chapters 1 and 2, to account for revised regulations, updated CG-Forms, and reformatting. Substantive changes to Part B, Chapters 1 -7, of this Manual include:
+a. Full alignment with Deputy Commandant for Operations Organization 3.0 for clarity of roles and responsibilities and facilitation of communications with appropriate offices in Headquarters.
+b. Updated general provisions for vessel manning, including guidance for the issuance of safe manning documents.
+c. Incorporates updated information on the Global Maritime Distress and Safety System (GMDSS).
+d. Revised discussion on the impact of multiple international standards, including; the Officer’s Competency Certificates Convention (OCCC) 1936, the International Convention for Safety of Life at Sea (SOLAS), and the Principles of Minimum Safe Manning (IMO Resolution A.1047(27)).
+e. Clarification on the applicability of tonnage m easurement systems to U.S. flag vessels.
+f. Changes resulting from the consolidation of merchant mariner qualification credentials, including the removal of references to the operator uninspected towing vessel (OUTV)endorsement.
+COMDTCHANGENOTE 16000
+3 g. Context on the allowable employment and conditions of a two- watch system for specific vessel types.
+h. Updated policy reflecting the regulations for the Implementation of the 2010 Amendments to the Inte rnational Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, (STCW) and Changes to National Endorsements (78 FR 1625-AA16, 247 [December 24, 2013]).
+
+7. ENVIRONMENTAL ASPECT AND IMPACT CONSIDERATIONS.
+a. The development of this Commandant Change Notice and the general policies contained within it have been thoroughly reviewed by the originating office in conjunction with the Office of Environmental Management, and are categorically excluded (CE) under current USCG CE # 33 from further environmental analysis, in accordance with Section 2.B.2. and Figure 2-1 of the National Environmental Policy Act Implementing Procedures and Policy for Considering Environmental Impacts, COMDTINST M16475.1 (series). Because this Commandant ChangeNotice contains guidance on, and provisions for, compliance with applicable environmentalmandates, Coast Guard categorical exclusion #33 is appropriate.
+b. This directive will not have any of the following: significant cumulative impacts on the human environment; substantial controversy or substantial change to existing environ mental conditions; or inconsistencies with any Federal, State, or local laws or administrative determinations relating to the environment. All future specific actions resulting from the general policies in this Commandant Change Notice must be individually evaluated for compliance with the National Environmental Policy Act (NEPA), DHS and Coast Guard NEPA policy, and compliance with all other environmental mandates. Due to the administrative and procedural nature of this Commandant Change Notice, and the environmental guidance provided within it for compliance with all applicable environmental laws prior to promulgating any directive, all applicableenvironmental considerations are addressed appropriately in this Commandant Change Notice.
+8. DISTRIBUTION. No paper distribution will be made of this Commandant Change Notice. An electronic version will be located on the following Commandant (CG-612) web sites. Internet: http://www.uscg.mil/directives/, and CGPortal: https://cgportal2.uscg.mil/library/directives/SitePages/Home.aspx.
+
+9. PROCEDURE. Remove and replace the following sections of The Marine Safety Manual, Volume III, Marine Industry Personnel, COMDTINST M16000.8B:
+
+Remove Replace
+Contents IV- VII Contents IV- VII
+Chapters 18-19 Chapters C1 -C2
+Chapters 20-26 Chapters B1 -B7
+List of Figures F-i List of Figures LIF -i
+IMO Resolution A.481(XII) Annex Index I-1 – I-18 *Removed
+
+10. RECORDS MANAGEMENT CONSIDERATIONS. This Instruction has been thoroughly reviewed during the directives clearance process, and it has been determined there are further records scheduling requirements, in accordance with Federal Records Act, 44 U.S.C. 3101 et seq., NARA requirements, and Information and Life Cycle Management Manual, COMDTINST M5212.12(series). This policy does not create significant or substantial change to existing records management requirements.
+
+11. FORMS/REPORTS. The forms referenced in this Manual are available in USCG Electronic Forms on the Standard Workstation or on the Internet: http://www.uscg.mil/forms/; CG Portal https://cgportal2.uscg.mil/delivery/Satellite/CG611/FORMS and Intranet at http://cgweb.comdt.uscg.mil/CGForms.
+
+12. REQUEST FOR CHANGES. Units and individuals may recommend changes via the chain of command to: CG-CVC-1@uscg.mil.
+
+P. F. THOMAS /s/
+Rear Admiral, U.S. Coast Guard
+Assistant Commandant for Prevention Policy
+
+A. Dealing With The Public. The Coast Guard's policy is to treat every member of the public with the utmost courtesy and professionalism. Every U.S. mariner has personal contact with one or more Regional Examination Centers (RECs) during his/her maritime career. Often, it is the person's only contact with the Coast Guard, and they form their impression of our service based solely on that contact. Courteous, professional service will make that impression a positive one.
+
+1. Seafarers are professionals. Inaccurate information provided by the RECs can have a damaging impact on their employment and advancement opportunities. If unsure of the regulations or policy on a particular matter, personnel should adequately research the issue before responding. Responding quickly to questions is only of value if the information is accurate.
+
+2. Recognizing that eighty-five percent of all maritime casualties are personnel related, the Coast Guard developed the concept of Prevention through People (PTP) to focus on the human element in reducing casualties and pollution. PTP stresses safe and profitable operations based on a balanced interaction between management, work environment, technology, and human behavior backed by a solid foundation of rules, regulations, and Standards. As part of the PTP implementation, the skills that mariners need and the best means of providing those skills must be addressed beyond traditional training methods.
+
+B. International Standards. Title 46 CFR Part 10 is designed to closely conform to the provisions of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 1978 as amended in 1995. The Convention was signed in June 1991 and went into effect for the United States in October 1991. The convention requires the issuance of certificates of competency to seafarers on board seagoing ships exclusive of public vessels, fishing vessels, pleasure yachts, and wooden ships of primitive build. See Chapter 9 for additional information on STCW.
+
+C. Coast Guard Licensing Facilities.
+
+1. Regional Examination Centers (RECs).
+a. Licensing and certification functions are performed at 17 RECs located in the following cities:
+
+Boston, MA Miami, FL Portland, OR
+New York, NY New Orleans, LA Seattle, WA
+Memphis, TN Houston, TX Honolulu, HI
+St. Louis, MO Toledo, OH Juneau, AK
+Baltimore, MD Long Beach, CA Anchorage, AK
+Charleston, SC San Francisco, CA
+
+b. A basic objective of the REC concept is to make the licensing and certification transaction as simple and fast as possible while ensuring the quality, competence, and professionalism of U.S. merchant mariners. The 17 RECs directly impact the field licensing and certification functions contained in the following publications:
+
+(1) Code of Federal Regulations (CFR), Parts 10, 12, 13, 14, 15, and 16; Navigation And Vessel Inspection Circulars (NVICs); and,
+
+(2) Commandant Instructions (COMDTINSTs), including the Marine Safety Manual (MSM).
+
+2. Monitoring Units (MUs). These facilities provide a limited range of services as specified by the parent REC.
+
+Monitoring Unit Parent REC
+Hampton Roads, VA Baltimore, MD
+San Juan, PR Miami, FL
+Guam Honolulu, HI
+Ketchikan, AK Juneau, AK
+
+3. Traveling Examination Teams (TETs). Traveling examination teams administer examinations to groups of applicants away from the REC. Refer to chapter 6 of this volume for specific information concerning TETs.
+
+D. Headquarters, District, and REC Responsibilities. Figure 1-1 presents the primary marine industry personnel functions of the local RECs, District (m) offices, National Maritime Center, and the Commandant.
+
+E. Appeals. Whenever an REC denies an application, the reason for denial will be set forth in writing to the applicant. The applicant will also be given a copy of the appeal rights. The applicant may submit an appeal following the procedures specified by the regulations (46 CFR 1.03). An applicant's first recourse is to request reconsideration by the Officer in Charge, Marine Inspection (OCMI).
+
+F. Fraudulent Applications. An application not completed truthfully may be considered fraudulent (see 18 U.S.C. 1001). An initial license or Certificate of Registry (COR) that was issued based upon a fraudulent application may be considered "null and void ab initio," (from the beginning) as if the license was never issued; [see Commandant Decision on Appeal 2025]. When a fraudulent application is discovered, the applicant shall be notified that the license or COR issued based upon it, is considered invalid, if it is an initial issue license. Such a license or COR shall be returned to the Coast Guard. If it is discovered that a license or COR was reissued based on a fraudulent or incomplete application, that license or COR may be "revoked" using the suspension and revocation (S & R) procedures found in 46 CFR Part 5. In such cases, the mariner must be provided with an administrative hearing where the license or COR may be revoked for misconduct based on the fraudulent application. The S & R process should also be sought when it is discovered upon reissue of a license that the applicant's original license was initially issued by fraudulent means. Licensed mariners holding second and later issuance licenses have acquired "property interest" in the license. This "property interest" is protected by the due process requirements of the Fifth and Fourteenth Amendments of the Constitution. In such cases the Coast Guard Senior Investigating Officer (SIO) shall be notified by the Chief, Regional Exam Center.
+
+1. Fraudulent License or COR Returned. If a fraudulently obtained license or COR is voluntarily returned, not revoked in a suspension or revocation proceeding, it shall be canceled. The applicant may re-apply by submitting a proper application. The OCMI may issue a new license or COR if the applicant meets the minimum requirements including character and habits of life. If appropriate, the OCMI may assign an "assessment period", the length of which shall be within the parameters of 46 CFR Table 10.201(h) and 46 CFR Table 10.201(i).
+2. Suspension and Revocation Proceedings.
+Jurisdiction for suspension and revocation proceedings exists when the possession of a certain document, COR or license is a prerequisite for the application or when an applicant is renewing a license, COR, or MMD. In such cases, the matter should be discussed with the unit's Senior Investigating Officer to determine what, if any, action is appropriate under 46 CFR Part 5.
+
+G. Determining Eligibility.
+All applicants must, to the satisfaction of the OCMI, possess all the qualifications necessary for the license or COR.
+
+1. License and Renewal Application.
+Every mariner seeking an original license or certificate, raise in grade, renewal, increase in scope, or other endorsement shall complete an application form. The applicant must prepare the application form and conduct whatever research is necessary. An application shall not be accepted until it is complete.
+
+ a. Changes To An Application.
+Any changes to an application should be made and initialed by the applicant. If this is not feasible due to mailing problems or if corrections are made by REC personnel, REC personnel should initial the changes. Items that do not apply should be marked "Not applicable" or "N/A."
+
+b. Character Record.
+As per 46 CFR 10.201(h), every applicant must mark the proper "yes" or "no" box for the convictions and usage of narcotics questions and initial the answer. Chapter 3 of this volume gives specific guidance for evaluating character.
+
+c. Character References.
+Character references are required for all original licenses and CORs. For many licenses, 46 CFR 10.205(f)(1) identifies from whom an applicant must have recommendations. Letters must have original signatures. However, they need not be notarized.
+
+d. Signing Applications.
+Evaluators should endeavor to verify the identity of the person signing an application by reasonable means. There is no requirement that a signature must be notarized.
+
+e. Listing Sea Service.
+Applicants must provide all the information requested when listing sea service on the appropriate section of the application. In the event that the gross tonnage is not available (as for public vessels), the displacement tonnage should be provided. The proper information is often obtainable from the Marine Safety Information System (MSIS), or other authoritative sources.
+
+2. Processing Applications.
+As stated in 46 CFR 10.202(a), an application will remain valid for one year from the date it is approved. An approved application shall contain all the paperwork and service required by law or regulation. Qualifying factors such as recency, physical examination, drug test, required training, etc. will be considered valid as long as the application is valid. Applicants should meet all eligibility requirements for a license before sitting for the examination. (OCMIs may make an exception and allow applicant's to examine for the license or document, if the applicant is in need of firefighting and/or radar training. Applicants that are never able to pass the examination would lose a considerable amount of money having already obtained this relatively expensive training.)
+
+############
+a. Seaman Locator and Wanted Lists.
+Every license or COR transaction should include a check of the Locator and Wanted Lists. If the applicant is listed, the command that made the entry on the list must be notified immediately.
+
+b. National Driver's Register (NDR) Check.
+All applicants for any transaction involving a license must sign the NDR release section of the application (CG -719b).
+
+c. Drug Use and Convictions.
+Title 46 U.S.C. 7503 gives the Coast Guard authority to deny a license, or a certificate of registry or MMD to an individual who has been convicted of violating a dangerous drug law of the United States or of a State. This section also allows the Coast Guard to deny a license, COR or MMD to an individual who has been a user of, or addicted to, dangerous drugs, who has not proven cure. Military non- judicial punishment is not considered to be a conviction. However, a special or general courts -martial is to be considered a conviction. A discharge from military service as the result of drug use should be considered as a history of drug use, but not as a drug conviction. See Chapter 3 of this volume for guidance on evaluating cases involving illegal drugs.
+
+d. Required Training.
+
+(1) Firefighting. Only training courses approved by the Coast Guard can be used to meet the requirement for firefighting training. Military or foreign firefighting training may not be substituted unless it is Coast Guard approved.
+
+(2) Cardiopulmonary Resuscitation and First Aid. Acceptable training is listed in 46 CFR 10.205(h). Medical doctors, registered nurses, and licensed physician assistants (not all states have licensed physician assistants) need not take the courses if they have had training in emergency medicine. Emergency Medical Technicians need not take the courses.
+
+(3) Radar Observer. Only training courses approved by the Coast Guard can be used to meet the requirement for radar observer training. Military or foreign radar observer training may not be substituted unless it has C.G. approval.
+
+(4) STCW. Certain license applicants must comply with STCW requirements. See applicable NVICs and policy.
+
+e. Minimum Age.
+46 CFR 10.201(f) contains the minimum age requirements for issuance of any license including radio or staff officers. The only license, for which the OCMI has the discretion to lower the age requirement, is operator of uninspected passenger vessels. See 46 CFR 10.202(h).
+
+3. Creditable Service.
+
+a. Documenting Service.
+Applicants must present documentation of their service when making application. The OCMI must be satisfied that the documentation is authentic and may make inquiries to verify any documentation considered suspect. If documentation is in the form of a letter from an employer, only original letters (not photocopies) on company letterhead should be accepted. Chapter 2 of this volume discusses documenting military service. Chapters 10 and 13 discuss self certification of service for masters, mates and operators of uninspected pass enger vessel licenses respectively.
+
+b. Age Considerations.
+Neither the law, nor regulations specify a minimum age for accepting service as creditable. However, the regulations are clear that applicants must satisfy the OCMI that they possess all the qualif ications necessary for a license. Certainly the age at which the majority of the service was obtained should be part of the OCMI's evaluation. Each application must be evaluated on its own merit.
+
+############
+c. Time and A Half Credit.
+OCMIs should be cautious when giving time and a half credit for service submitted for evaluation. See chapter 2 of this manual for a discussion of when time and a half credit is appropriate.
+
+d. Recency of Experience.
+46 CFR 10.202(e) requires three months qualifying service on vessels of appropriate tonnage (deck licenses) or horsepower (engineer licenses) within the three years preceding the license application. There is no time limit in which the remaining qualifying service may have been completed.
+
+(1) Tonnage/Horsepower of Recent Service. The regulations specify the tonnage or horsepower of qualifying experience for various licenses. Apply the same rules to the required recent service. For example, to qualify as Third Mate, any gross tons (GT), an applicant must have all of their experien ce on vessels over 200 GT with at least half of that time on vessels over 1600 GT. This also applies to the recency requirement where all of the recent experience must be on vessels over 200 GT with at least half of that time (45 days) on vessels over 1600 GT.
+
+(2) Nature of Recent Service. Only actual underway time may be used to satisfy recency requirements. Underway service completed as part of an approved course is acceptable. Simulator training may not satisfy recency requirements. Such underway service i s noted on the approved course list (also see 46 CFR 10.304(b) r (d)).
+
+e. Special Limitations.
+When an REC intends to issue a license with a limited route or other special limitations, the OCMI for the inspection zone that covers the intended area of operation shall be consulted. The local OCMI will generally have better on -scene experience and knowledge of the hazards and operating conditions involved. Likewise, the local OCMI will make the determination as to what is considered to be a formal camp, as r eferred to in 46 CFR 10.429, 10.456 and 10.466(g). Factors to be considered by the OCMI when issuing this designation include the number of personnel involved in the operation, the safety procedures followed during normal operations, the structure of the organization, the number of times the operation takes place and any other factors the OCMI feels are relevant to the determination.
+
+f. Removing Special Limitations.
+An REC shall not remove special limitations, such as those discussed in the preceding paragr aph, which were placed on a license by another REC without consulting that REC.
+
+g. Foreign Sea Service.
+Experience or service acquired on foreign vessels is creditable, subject to evaluation by the OCMI. It must be a fair and reasonable equivalent to servi ce acquired on merchant vessels of the United States with respect to grade, tonnage, horsepower, waters and operating conditions. An applicant who has obtained qualifying experience on foreign vessels shall submit satisfactory documentary evidence of such service (including any necessary translation into English) in a form that satisfies the OCMI as to the authenticity of the service. An original license or certificate of registry shall not be issued to any naturalized citizen on less experience in any gra de of capacity than would have been required of a United States citizen by birth. Also, a U.S. license will not be issued in a grade higher than that upon which he or she has actually served while acting under the authority of a foreign license or in a hi gher grade than the foreign license the applicant holds.
+4. Citizenship.
+No certificate of registry of license other than Operator of Uninspected Passenger Vessels (OUPV) may be issued to anyone who is not a citizen of the United States. OUPV licenses issued to non-U.S. Citizens must be limited to uninspected vessels not documented under the laws of the United States. Refer to the non-citizen notation in section "P.8" of this chapter for the proper wording. 46 CFR 10.205(c) discusses proof of citizenship.
+
+5. Chemical Testing for Dangerous Drugs.
+All applications for licenses or CORs, except those found in 1.G.5.c of this volume, including requests for license upgrades or renewals must be accompanied by proof that the individual is free of dangerous drugs. The "Dangerous drugs" tested for under the DOT rules are: marijuana, cocaine, opiates, phencyclidine (PCP) and amphetamines. A positive test for some other drug may not be grounds for denial of a license under the drug test regulations. (Applicants that may use or be addicted to other drugs should have their character and habits of life evaluated under the guidelines in chapter 3). Drug tests are valid for six months from the date the sample was taken.
+
+a. Approved Drug Testing Laboratories.
+All tests, except those done for active duty military personnel, must be done by laboratories certified by the Substance Abuse and Mental Health Services Administration (SAMHSA), an agency of the Department of Health and Human Services (DHHS). Tests done by Department of Defense (DOD) approved laboratories are only acceptable for active duty military personnel.
+
+(1) SAMHSA, DHHS Labs. SAMHSA, DHHS approved labs are listed in the Federal Register during the first week of each month. It is not uncommon for a lab to lose its SAMHSA, DHHS approval. RECs should keep the lists for six months and refer to the proper one to verify the lab was approved at the time the test was done. Verification of current SAMHSA, DHHS approval can also be made by calling their Drug Free Workplace Hotline, 1-800-843-4971.
+
+(2) DOD Labs. According to the Office of the DOD Coordinator for Drug Enforcement Policy and, only active duty status military personnel can be tested at DOD approved drug testing laboratories. For a current listing of DOD approved laboratories or any questions regarding these labs, contact NMC -4C.
+
+b. Acceptable Proof of Drug Tests.
+Acceptable evidence that an applicant has passed a required drug test is listed below. The evidence described in paragraphs (1) through (6) may be accepted by fax from the originator and RECs may verify the authenticity by calling the source. A fax copy hand carried by an applicant is not acceptable.
+
+(1) A completed drug test form (report or letter) signed by the medical review officer (MRO) or authorized representative of a consortium showing the applicant has passed a chemical test for dangerous drugs conducted in accordance with 49 CFR 40 within the previous six months.
+
+(2) A letter on company or consortium stationary signed by an authorized official that administers the drug testing program stating that the applicant passed a test for dangerous drugs within the previous six months with no subsequent positive drug tests during the remainder of the six month period.
+
+(3) A letter on company or consortium stationary, signed by an authorized official that administers the drug testing program, stating that the applicant has been subject to random drug testing for at least 60 days during the previous 185 days, has not failed any tests, and has not refused to participate in any required test.
+
+(4) For military members, active duty or reserve, a letter from the applicant's command stating that the applicant has passed a required chemical test for dangerous drugs within the previous six months.
+
+(5) For active duty military members, a letter from the applicant's command stating that the applicant has been subject to random drug testing for the past six months and has not failed any tests. Being subject to random testing is not accepted for reserve military members.
+
+(6) By current law, civilian government mariners are not required to provide positive drug test results to another government agency. This includes the Coast Guard. For licensed civilian government mariners of the Military Sealift Command, U.S. Army Corps of Engineers, and National Oceanic and Atmospheric Administration, RECs may accept a letter from the applicant's command/headquarters/home office as proof that the mariner has been enrolled in a bona fide drug testing program and has been subject to random drug testing for at least 60 days during the previous 185 days. The letter shall also certify that the mariner has not failed or refused participation in a chemical test for dangerous drugs. See 46 CFR 16.210(b)(2).
+
+c. License Transactions Which Do Not Require Drug Tests.
+Currently, license transactions that do not require a drug test are those involving the following: inactive renewal, issuance of a duplicate license or COR or obtaining endorsements such as assistance towing, auxiliary sail, tonnage increase, horsepower increase, route increase or adding a lesser license to an existing license.
+
+d. Positive Results From Drug Tests.
+Positive results from a test for dangerous drugs for a holder of a license, COR or MMD should be immediately reported to the Senior Investigating Officer for investigation.
+
+H. Issuance Of Licenses Or Certificates Of Registry (COR).
+A person who meets all the requirements of the regulations is issued an appropriate license or COR valid for a term of five years. If the status of a foreign national changes while holding a license, the license is no longer valid. For other exceptions see 46 U.S.C. 7106 and 46 U.S.C. 7107.
+
+1. Preparation Of Licenses and CORs.
+Licenses and CORs shall be typed. There shall be no erasures or whiteouts. Female licensees shall be accommodated when requesting the printed "HE" be crossed out and "SHE" typed onto their license or COR while it is being prepared. Unused words or spaces and unused lines on the face of a license or COR shall be lined out to prevent improper additions. If the license description is too long to fit on the face of the form, the last line on the face shall end with "(continued on reverse)." Endorsements added to a current license, are put on the back of the license form. Unused space on the back of the license form shall not be lined out, so that further endorsements can be added. Endorsements and license descriptions continued from the face shall end with the signature of the issuing officer. All issuing officer signatures shall be impressed with the Coast Guard seal. A license or COR recipient shall sign the back of the license or COR where indicated. There is no requirement to put a thumb print on a license or COR.
+
+2. Citizenship.
+U.S. Citizenship is required for all licenses and CORs except for an operator of an undocumented, uninspected passenger vessel (OUPV) as noted in 46 CFR 10.201(e). However, there are certain circumstances where a limited scope license may be issued to a non-U.S. citizen. Such cases should be referred to the NMC.
+
+a. Verification Of Citizenship.
+Acceptable evidence of citizenship is listed in 46 CFR 10.205(c). Evidence of citizenship must be an original document or a copy certified by the agency that issued the original. The OCMI may reject any evidence of citizenship that is not believed to be authentic. A provision for acceptance of a delayed certificate of birth is found in 46 CFR 10.205(c)(1)(vii). Some states issue delayed certificates of birth that do not indicate the evidence upon which they were granted. The Commandant considers such a certificate to be acceptable provided it is issued under a state seal.
+
+b. Evidence Of Citizenship To Be Noted On Licenses and CORs.
+When a license or COR is issued, the reverse shall note the evidence of citizenship presented within the operational parameters of MMLD.
+3. Name Changes.
+When the name that an applicant uses is different from what appears on the proof of citizenship, the applicant must show that the name has been legally changed. Certified copies of a court order or other official document, such as a marriage license, effecting a name change must be presented. Without this documentation, the name on the proof of citizenship must be used.
+
+4. Social Security Numbers.
+Each license or COR must show the applicant's social security number on the line for "2 or Book Number" if it is different from the MMD or Book Number or if the applicant does not hold an MMD or continuous discharge book. A social security card is not required; however, applicants for an original license must present satisfactory evidence of their social security number. Accurate numbers are essential since the license, COR and MMD records are all keyed to social security numbers.
+
+5. Issue Numbers.
+Issue numbers for all licenses are now a single number. The issue number shows how many licenses of that group have been issued to the mariner. Licensed groups are listed in section N. of this chapter. Previously, deck, engineer and OUTV licenses had two part issue numbers. The first number indicated the number of licenses that had been issued to the holder in that grade. The second number indicated the total number of licenses in all grades of that group that had been issued to the mariner. For instance, if a second mate's license has an issue number of 3 -5, it is the third second mate license and the fifth deck license. When that license is renewed or raised in grade, the issue number will be - 6-. OCMIs may issue a license with a two part issue number if a mariner specifically requests it.
+
+6. Oaths.
+Whenever an original license or COR is issued, 46 U.S.C. 7105 requires the applicant to take the oath in section VII of the license application form. The penalty for willfully and knowingly making false statements is contained in 18 U.S.C. 1001.
+
+a. Oaths For Renewals.
+The oath is not required for license or COR renewals because the oath taken for the original license or COR is considered to remain in effect until it is renounced in writing to the OCMI by the license holder.
+
+b. Authority To Administer Oaths.
+Commissioned and warrant officers assigned to REC duty are authorized by the Commandant under 14 U.S.C. 636 to administer all oaths required by law in the licensing and certification of merchant mariners. In such cases, officers shall use their military rank, rather than signing "for the OCMI." Civilians and other designated representatives may also administer the oath with written authorization from the OCMI. When an applicant is not appearing in person, the oath must be administered and verified by a certified notary public and signed by the applicant. RECs shall ensure that oaths are signed and properly witnessed.
+
+7. Fingerprints.
+Applicants for an original Coast Guard license or COR will have their fingerprints taken and sent to Commanding Officer, National Maritime Center (NMC -4A), for an FBI criminal history evaluation. See chapter 8 for exceptions and instructions for preparing fingerprint cards.
+
+8. License Signatures.
+All licenses and CORs are to be signed by the OCMI. Additions made on the reverse of licenses must also be signed by the OCMI. The OCMI may designate officers, warrant officers, and civilians of their staffs to sign Coast Guard licenses, certificates of registry, and seaman's documents, "By direction." Authorization to sign by direction shall be by letter of designation from the OCMI.
+
+9. Coast Guard Seal.
+Each signature of the OCMI or OCMI designee on the face or reverse of a license or COR shall be impressed with the Coast Guard seal.
+
+10. Disposition Of Exchanged Licenses and CORs.
+When a new license or COR is issued to replace an unexpired license or COR, the old one will be stamped "canceled" on the back. Expired licenses do not need to be canceled. Canceled or expired licenses or CORs may be returned to the holder. If the holder does not want the old license or COR, it shall be placed in the mariner's file.
+
+11. Acknowledgments Upon Receiving Licenses and CORs.
+To help eliminate misunderstandings, mariners should verbally acknowledge the following when they receive their license or COR.
+
+a. The expiration date.
+b. That it has no authority beyond the expiration date.
+c. It is solely the mariner's responsibility to renew it.
+d. There will be additional requirements for licenses that are expired for over one year and,
+e. That if a radar observer is normally needed, but was not renewed, an acknowledgment that the holder may not serve under the license on radar equipped vessels of 300 GT or over, or radar equipped uninspected towing vessels of at least 26 feet length.
+
+I. License and COR Renewals.
+Every applicant for renewal of a license or COR shall submit an application form. The completed form is retained in the applicant's file at the REC that issues the renewed license or COR. The applicant shall furnish all information required by the form. The sea service section and employment /training blocks shall be completed for all license renewal applications.
+
+1. Professional Requirements For Renewal.
+Applicants must prove they possess all the requirements for renewal. Sea service shall be verified by certificates of discharge and where appropriate, letters of service. Employment closely related to the operation, construction or repair of vessels shall be verified by a letter from the employer. Applicants who can not or do not meet the professional requirements for renewal may renew for continuity purposes.
+
+2. File Verification.
+Mariners may have their license or COR renewed at any REC. If only a copy of the license is submitted and the license file is located at another REC, a phone call or E -mail verification of the license is required. When licenses or CORs are renewed, applicants should be asked where they would like their files maintained.
+
+3. Notarized Applications Not Required.
+Mariners that submit renewal applications by mail do not need to have their signatures notarized. Sighting the original license or COR or verifying the file should be sufficient to ensure the validity of the application.
+
+4. Verification Of Pilot's Endorsements.
+When RECs renew a license with pilotage routes for another REC's zone, they must contact the appropriate REC by phone or E -mail to ensure that the route descriptions are still correct.
+
+5. Licenses With Waivers.
+When a license with a waiver is renewed, the waived condition must be reevaluated by the level of authority (REC or NMC) that approved the waiver.
+
+6. Denial Of Renewal Application.
+No license or COR shall be renewed if title to it has been forfeited or if facts that render renewal improper come to the attention of the Coast Guard. Refer to chapter 3 for guidance on evaluating character and living habits and chapter 4 for guidance on evaluating physical conditions. Applicants may submit statements or evidence in their behalf with their applications. Whenever applications are denied, applicants must be advised of their appeal rights. (See section 1.E.)
+
+J. Duplicate Licenses Or CORs.
+A duplicate license or COR can be issued to replace a lost or mutilated license or COR. Mutilated licenses and CORs shall be canceled when a duplicate is issued.
+
+1. Preparing Duplicate Licenses and CORs.
+The issue number and date of the duplicate shall be the same as on the license or COR being replaced. That it is a duplicate shall be noted on the bottom of the license or COR face with the wording "This license (or certificate) replaces license (or certificate) number (NO.) issued at GREC NAME) on the above date."
+
+2. Lost and Recovered Licenses and CORs.
+The OCMI is required to report the loss, theft, or recovery of any license or COR to the Commandant. The letter of transmittal shall contain all the facts incidental to the recovery. A copy of this letter shall be forwarded to Commandant, (NMC -4C). [Note: This policy does not apply to licenses or CORs held pending completion of disciplinary action, as is the case of a license turned in by the master of a vessel for failure to join, or desertion.] Any license or COR that is turned over to the OCMI or otherwise recovered shall be forwarded to the issuing REC. If a license re- issue has already occurred, the recovered license shall be voided out.
+
+K. Reissuing Revoked Or Surrendered Licenses and CORs.
+1.  Form.
+    A license or COR restored after surrender or revocation shall be issued as a duplicate issue if within the five-year term of the revoked or surrendered license or COR; otherwise it will be issued as a renewed license or COR.
+
+2.  Requirements.
+    a. If an individual is granted administrative clemency within five years of issuance of the revoked or surrendered license, there are no requirements other than submitting an application.
+    b. If administrative clemency is granted between five and six years after the license was issued (during the grace period), the application shall be treated in the same way as any renewal during the grace period.
+    c. If administrative clemency is granted more than six years after the license was issued, the application will be treated in the same way as any renewal beyond the grace period.
+
+L. Issuing Temporary Licenses.
+    Mariners that have had their license, COR or document revoked or suspended and are appealing that decision, may request temporary credentials. 46 CFR 5.707 governs issuance of temporary credentials. Upon presentation of an order for a temporary license or other credential from an administrative law judge or the Commandant, the OCMI will issue credentials in accordance with the order. A temporary credential will be valid for six months or upon service of the Commandant's decision on appeal, whichever occurs first. If it expires before the Commandant renders a decision on an appeal, it may be renewed if authorized by the Commandant. 46 CFR 5.715 governs issuance of credentials when appeals are made to the National Transportation Safety Board. Requests for temporary credentials are handled similarly except that the Commandant (G-MOA) will issue the order and the temporary credentials may be renewed for additional periods without special authorization. Temporary licenses and CORs will be numbered in the same way as duplicate licenses or CORs. Refer to section P.7. for the notation to be placed on temporary licenses and CORs. Refer to sections 2.H.6., and 2.H.7. of Volume V of this manual for additional information.
+
+M. Raises Of Grade and Endorsements.
+    "Endorsement" and "raise of grade" are both defined in the regulations. Interpreting the definitions however, is not always an easy matter. The definition of "endorsement" contains an example of a license within the same general tonnage category but "tonnage category" is not defined. Based on the evaluation and testing required to obtain each deck license, there are in practice, four tonnage categories:
+    1. Upper level,
+    2. Lower level over 1600 tons,
+    3. Lower level not more than 1600 tons but over 200 tons, and
+    4. Lower level not more than 200 tons.
+    There are only two categories of engineer licenses; upper level and lower level. A license in one category is distinct from a license in another. For example, an unlimited ocean master's license is not merely a 100-ton master's license with a different route and a different tonnage limit. It is a completely different license with wholly different capabilities and responsibilities associated with it. The different experience, training, and knowledge requirements for the licenses reflect those differences. Refer to Figures 1-2 and 1-3 for assistance in determining if an applicant is obtaining an endorsement or a raise of grade. Apply that determination for the entire licensing process; determining professional requirements, applying user fees, and issuing a new license or endorsement.
+
+1.  Raises Of Grade.
+    Advancing to a higher level of authority (e.g., mate to master, assistant engineer to chief engineer) is always a raise of grade. Advancing to a higher category license (e.g., master 1600 to third mate - unlimited, master 200 to mate 500, or chief engineer (limited- oceans) to second assistant) is always a raise of grade.
+
+2.  Issuing Raises Of Grade.
+    The existing license will be withdrawn and canceled. A new license will be reflecting the raise of grade and new expiration date. This is true even if the raise of grade is not for the highest license on the form. (EXAMPLE: A mariner licensed as master 1600 GT and second mate, raises the grade of the second mate to chief mate. A new license, valid for five years, is issued as master 1600 GT and chief mate.) By obtaining a raise of grade, an applicant has essentially fulfilled all the requirements for a renewal and the entire license should therefore be issued for five more years.
+
+3.  Endorsements.
+    An "endorsement" is a provision added to a license or COR that alters its scope or application. Adding an endorsement of any type does not extend the life of the license or COR. Examples of endorsements are: a tonnage limitation increase within a general tonnage category, a route increase, or a radar observer qualification.
+
+4.  Issuing Endorsements.
+    Endorsements are added to the reverse of existing licenses. They do not extend the life of the license. To avoid confusion, especially with radar observer endorsements that expire independently of the license, each endorsement added to a license should end with the expiration date of the license, "(License expires / / )." The words "See reverse" should be added to the front of the license.
+
+5.  Additional License Authority.
+    Some licenses do not fit neatly into the ranking of license seniority. An example would be a 200-ton master obtaining an OUTV license. The two licenses require different types and amounts of qualifying service, different examinations and each authorize the license holder to serve on vessels that the other license would not. Figures 1-2 and 1-3 classify cases involving no clear seniority as "Additional License Authority." These are instances where the regulations, license qualification requirements, examination requirements, nor the license authority indicate a relative seniority of licenses. These licenses, while not actually a raise of grade, should be handled as such since the service and examination requirements justify issuing a new license valid for five years.
+
+N. License Groups.
+    The following license groups have been established for the issuance of licenses.
+    1. Group A. Deck officer licenses
+    2. Group B. Engineer officer licenses
+    3. Group C. Radio officer licenses
+    4. Group D. Operator of uninspected passenger vessel licenses
+    5. Group E. Operator of uninspected towing vessel licenses
+
+O. Combining Licenses.
+    Since there is a fee for each license form issued, mariners may, in some cases, have licenses from different groups put on the same license form. As an example:
+    1. An engineer holds first assistant steam and second assistant motor, these two licenses may be combined into one. Designated Duty Engineers (DDE) may be added to any engineer license.
+    2. A license in any lower grade may be added to a higher grade in the same group
+    3. A license as pilot may be added to any existing deck license or to a license as Operator, Uninspected Towing Vessels.
+    4. Operator, Uninspected Towing Vessels may be added to any master or mate license.
+    5. No license may be added to an Operator, Uninspected Passenger Vessel (OUPV) license. An OUPV license may only have an increase in scope to operate in another geographic area or assistance towing added to it. If the holder of an OUPV license qualifies for any other license, a separate license reflecting the other qualifications is issued. The OUPV license may be canceled and the OUPV authority added to a deck license.
+    6. Radio officers who qualify for any other license are issued a separate license to show the additional qualifications. Other qualifications are never added to a radio officer license.
+
+P. Notations and Limitations.
+    The following notations or limitations will be placed on licenses when appropriate. Except for the COLREGS, color blindness, non-citizen, temporary license and Boy Scout/Sea Explorer notations, they shall be on the reverse side. When there are limitations or notations on the reverse of a license, "See reverse" shall be put on the face of the license form following the license description.
+1.  Corrective Lenses.
+Applicants who must wear corrective lenses under 46 CFR 10.202(f) shall have the following notation on their license: "Corrective lenses to be worn with spare glasses carried on board."
+
+2.  Vision Waiver.
+Applicants granted a vision waiver under 46 CFR 10.205(d)(4) shall have the following notation on their license: "Vision Waiver - Corrective lenses to be worn with spare glasses carried on board."
+
+3.  Physical Waiver.
+Applicants granted a physical waiver under 46 CFR 10.205(d)(4) shall have the following notation on their license: "Physical Waiver -- Report any change in the waived condition to the issuing office within 30 days." If the Commandant's letter granting the waiver includes any special conditions or requirements, they shall be noted as well.
+
+4.  Hearing Waiver.
+Applicants granted a hearing waiver under 46 CFR 10.205(d)(4) shall have the following notation on their license: "Hearing Waiver." If the waiver requires that a hearing aid be worn the notation shall be: "Hearing Waiver -- Hearing aid(s) to be worn with spare batteries carried on board."
+
+5.  Color Blindness.
+Certain applicants such as Masters, mates, pilots or operators of vessels up to 100 GT or OUTV on river routes, who do not meet the color sense requirements may be issued a restricted license. These licenses shall have the following notation on the front of the license: "Limited to daylight hours only."
+
+6.  Continuity Renewal Notations.
+Licenses renewed for continuity purposes under 46 CFR 10.209, shall have the following notation: "License renewed for continuity purposes only; service under the authority of this license is prohibited." If all the requirements to renew the license are later met, the following notation shall be added: "All renewal requirements met; service under the authority of the license is permitted."
+
+7.  Temporary License Or COR Notation.
+Temporary licenses issued to mariners appealing their suspension or revocation shall have any text describing a five-year term of validity lined out. Beneath the line showing the date the license or COR was issued, add the notation, "Temporary license (or certificate) issued under 46 CFR 5.707 (or 5.715) to expire in accordance with present regulations or upon service of the Commandant's (or NTSB's) decision on appeal, whichever occurs first. Replaces license (or certificate) # issued at on _."
+
+8.  Non-Citizen Notation.
+Operator of uninspected passenger vessel licenses issued to non-U.S. citizens as allowed by 46 CFR 10.201(e) shall have the following restriction added to the vessel description on the face of the license: "...limited to uninspected vessels not documented under the laws of the United States."
+
+9.  COLREG Notation.
+There are some inland waters where the 72 COLREGS apply. Therefore licenses issued to masters, mates, pilots and operators with rivers or inland waters routes that have not been tested on both Inland Rules and COLREGS shall have the following notation added to the route: "...excepting waters subject to the International Regulations for Preventing Collisions at Sea, 1972." The notation need not be added if the route already precludes operation on COLREGS waters. [EXAMPLES: pilot licenses with routes that do not include COL REGS waters; operator licenses limited to a summer camp or marina.]
+
+10. OUTV Oral Examination Notation.
+If an OUTV was administered by an oral examination due to an inability to read as discussed in section 13.B.4, the license shall have the following notation: "Transportation of barges carrying dangerous cargo regulated under 46 CFR Subchapter O is prohibited."
+
+11. Licenses Limited To Boy Scout/Sea Explorer Vessels.
+The Inspection and Certification Agreement dated October 1, 1979 between the Coast Guard and the Boy Scouts of America has been canceled. Reference should be made to Navigation and Vessel Inspection Circular (NVIC) 7- 94 "Guidance on the Passenger Vessel Safety Act of 1993", regarding the definition of "Passenger" and "Passenger for Hire". If a vessel owned and operated by the Boy Scouts or Sea Explorers is carrying only scouts, the scouts are considered "passengers" and not "passengers for hire". Such a vessel is not required to be Coast Guard inspected nor is the operator of the vessel required to be licensed by the Coast Guard. However, if the Boy Scouts of America or Sea Explorers charter a vessel (demise or non-demise charter) for their use, the inspection/licensing requirements may change accordingly; (See NVIC 7 -94).
+
+Q. Wording Of Licenses.
+
+1. Master Licenses.
+Upper level masters without tonnage limitations will have their licenses issued on form CG-5205, License for Master, unless they specifically request form CG -2849, License for Merchant Marine Officer, be used. Prepare form CG -5205, License for Master, in the following manner.
+    a. On the blank line list any other authorities held;
+    b. List the radar observer endorsement;
+    c. Some examples of license descriptions are:
+        (1) "MASTER OF STEAM OR MOTOR VESSELS OF ANY GROSS TONS UPON OCEANS; RADAR OBSERVER (UNLIM1TED) EXPIRES APRIL 2003."
+        (2) "MASTER OF STEAM OR MOTOR VESSELS OF ANY GROSS TONS UPON OCEANS; BALLAST CONTROL OFFICER; RADAR OBSERVER (UNLIMITED) EXPIRES AUGUST 2003."
+
+2. Deck Officer Licenses.
+For deck officers, prepare form CG -2849, License For Merchant Marine Officer, in the following manner.
+    a. List the grade, for example, "MASTER," "THIRD MATE," "MATE," "OFFSHORE INSTALLATION MANAGER"; then,
+    b. State the propulsion mode or other appropriate vessel description, for example, "STEAM OR MOTOR," "STEAM, MO TOR OR SAIL," "BOTTOM BEARING UNITS ON LOCATION"; then,
+    c. State the tonnage limitation, for example, "OF ANY GROSS TONS" or "OF NOT MORE THAN 4000 GROSS TONS"; then,
+    d. State the type of waters, for example, "OCEAN" or "NEAR COASTAL", "GREAT LAKES AND INLAND "; then
+    e. List any additional license authorities. Any license as master takes precedence over any other grade and therefore will always be listed first on the face of the license; then
+    f. List the radar observer endorsement.
+    g. Some examples of license descriptions are:
+        (1) "CHIEF MATE OF STEAM OR MOTOR VESSELS OF ANY GROSS TONS UPON NEAR COASTAL WATERS; RADAR OBSERVER (UNLIMITED) EXPIRES OCTOBER 2003. ";
+        (2) "MATE OF STEAM OR MOTOR VESSELS OF NOT MORE THAN 1600 GROSS TONS UPON NEAR COASTAL WATERS; RADAR OBSERVER (UNLIMITED) EXPIRES DECEMBER 2003. ";
+        (3) "MASTER OF STEAM OR MOTOR VESSELS OF NOT MORE THAN 100 GROSS TONS UPON NEAR COASTAL WATERS. "FOR DOMESTIC VOYAGES ONLY, THE HOLDER OF THIS LICENSE MEETS THE STCW 1995 REGULATIONS WITHOUT FURTHER ENDORSEMENT.";
+        (4) "MASTER OF STEAM OR MOTOR VESSELS OF ANY GROSS TONS UPON GREAT LAKES AND INLAND WATERS; RADAR OBSERVER (UNLIMITED) EXPIRES MARCH 2003.";
+        (5) "MASTER OF STEAM OR MOTOR VESSELS OF NOT MORE THAN 500 GROSS TONS UPON NEAR COASTAL WATERS; THIRD MATE OF STEAM OR MOTOR VESSELS OF ANY GROSS TONS UPON OCEANS; RADAR OBSERVER (UNLIMITED) EXPIRES SEPTEMBER 2003."
+
+3. First Class Pilot Licenses.
+Each license description or endorsement specifically authorizes an individual to serve as first class pilot upon a specific body of water ( or waters as the case may be) aboard a particular type of vessel (with appropriate tonnage limitations if applicable). Consequently, each license description or endorsement must be complete in itself and written in a manner that is both concise and accurate. For first class pilots, prepare form CG-2849, License For Merchant Marine Officer, in the following manner.
+    a. State the grade, which will always be "FIRST CLASS PILOT," then
+    b. The license shall state "OF VESSELS," in lieu of "STEAM OR MOTOR" however, "OF TUG AND BARGE COMBINATIONS" may sometimes be appropriate, then
+    c. State the tonnage limit for the route, then
+    d. Describe the route. If the type of vessel and tonnage limit is the same for all routes, list all the routes one after another. If the vessel type or tonnage limit is not the same for all routes, that information must precede the appropriate routes.
+    e. List the radar observer endorsement.
+    f. Some examples of license descriptions are:
+        (1) "FIRST CLASS PILOT OF VESSELS OF ANY GROSS TONS UPON NEW YORK HARBOR, UPPER AND LOWER BAY; RADAR OBSERVER (UNLIMITED) EXPIRES MAY 2003."
+        (2) "FIRST CLASS PILOT OF VESSELS OF ANY GROSS TONS UPON NEW YORK HARBOR, UPPER AND LOWER BAY; ALSO, OF NOT MORE THAN 3000 GROSS TONS HUDSON RIVER TO YONKERS, NY; ALSO, NOT MORE THAN 2000 GROSS TONS EAST RIVER TO WELFARE ISLAND; RADAR OBSERVER (UNLIMITED) EXPIRES FEBRUARY 2003."
+        (3) "THIRD MATE OF STEAM OR MOTOR VESSELS OF ANY GROSS TONS UPON OCEANS; FIRST CLASS PILOT OF VESSELS OF ANY GROSS TONS UPON NEW YORK HARBOR, UPPER AND LOWER BAY; ALSO, OF NOT MORE THAN 3000 GROSS TONS HUDSON RIVER TO YONKERS, NY; ALSO, OF NOT MORE THAN 3000 GROSS TONS EAST RIVER TO WELFARE ISLAND; RADAR OBSERVER (UNLIMITED) EXPIRES NOVEMBER 2003."
+4. Chief Engineer Licenses.
+
+Upper level chief engineers without horsepower (power rating) limitations will have their licenses issued on form CG -5206, License for Chief Engineer, unless they specifically request that form CG 2849, License for Merchant Marine Officer, be used. Prepare form CG-5206, License for Chief Engineer, in the following manner.
+
+ a. In the blank following "Chief Engineer of United States," state the propulsion mode, either, "STEAM," "MOTOR" or "STEAM and MOTOR"; then
+
+ b. List any other engineer licenses held.
+
+ c. Some examples of license descriptions are:
+
+ (1) "CHIEF ENGINEER OF STEAM AND MOTOR VESSELS OF ANY HORSEPOWER";
+
+(2) "CHIEF ENGINEER OF STEAM AND MOTOR VESSELS OF ANY HORSEPOWER; ASSISTANT ENGINEER OF SELF- PROPELLED MOBILE OFFSHORE DRILLING UNITS";
+
+(3) "CHIEF ENGINEER OF STEAM VESSELS OF ANY HORSEPOWER; THIRD ASSISTANT ENGINEER OF MOTOR VESSELS OF ANY HORSEPOWER."
+
+5. Engineer Officer Licenses.
+
+For engineer officers, prepare form CG -2849, License For Merchant Marine Officer, in the following manner:
+
+a. List the grade, for example, "CHIEF ENGINEER," "CHIEF ENGINEER (LIMITED - NEAR COASTAL)," "FIRST ASSISTANT ENGINEER," "DESIGNATED DUTY ENGINEER," or "ASSISTANT ENGINEER (LIMITED -OCEANS)"; then
+
+b. State the propulsion mode, either, "STEAM," "MOTOR" or "STEAM and MOTOR" for conventional vessels or "SELF PROPELLED" or "NON -SELF PROPELLED" for MODUs; then
+
+c. State the tonnage limitation, for example, "OF ANY GROSS TONS" or "OF NOT MORE THAN 4000 GROSS TONS"; then, State any restrictions as to type of vessel, "MOBILE OFFSHORE DRILLING UNITS" or "UNINSPECTED FISHING INDUSTRY VESSELS"; then
+
+ d. State the horsepower (power rating) limitation, for example, "OF ANY HORSEPOWER" or "OF NOT MORE THAN 4000 HORSEPOWER."
+
+ e. Where service in more than one grade is authorized, the senior grade should be first, regardless of any limitation, e.g., chief engineer (even if chief engineer (limited)), then first assistant engineer, etc. Designated duty engineer (DDE) should be listed after assistant engineer.
+
+f. Some examples of license descriptions are:
+
+ (1) "FIRST ASSISTANT ENGINEER OF STEAM VESSELS OF ANY HORSEPOWER"
+
+ (2) "SECOND ASSISTANT ENGINEER OF STEAM VESSELS OF ANY HORSEPOWER AND MOTOR VESSELS OF NOT MORE THAN 4000 HORSEPOWER";
+
+ (3) "CHIEF ENGINEER (LIMITED -- NEAR COASTAL) OF STEAM AND MOTOR VESSELS OF NOT MORE THAN 5000 HORSEPOWER; THIRD ASSISTANT ENGINEER OF STEAM A ND MOTOR VESSELS OF ANY HORSEPOWER";
+
+ (4) "ASSISTANT ENGINEER (LIMITED -OCEAN) OF MOTOR VESSELS OF ANY HORSEPOWER; DESIGNATED DUTY ENGINEER OF STEAM AND MOTOR VESSELS OF ANY HORSEPOWER."
+
+ (5) "DESIGNATED DUTY ENGINEER OF MOTOR VESSELS OF NOT MORE THAN 1000 HORSEPOW ER"; and,
+
+ (6) "CHIEF ENGINEER OF UNINSPECTED FISHING INDUSTRY VESSELS OF NOT MORE THAN 4000 HORSEPOWER."
+
+6. Radio Officer Licenses.
+
+When preparing form CG -2987, License For Radio Officer, if the applicant is a female and so requests, draw a line through the w ord "HE" and type above it the word "SHE."
+
+7. Operator Of Uninspected Passenger Vessel Licenses.
+
+Prepare form CG -2849, License For Merchant Marine Officer, as in the following examples:
+
+ a. "OPERATOR OF UNINSPECTED PASSENGER VESSELS AS DEFINED IN 46 U.S.C. 2101 (42) UPON NEAR COASTAL WATERS NOT MORE THAN 100 MILES OFFSHORE. "FOR DOMESTIC VOYAGES ONLY, THE HOLDER OF THIS LICENSE MEETS THE STCW 1995 REGULATIONS WITHOUT FURTHER ENDORSEMENT. ";
+
+ b. "OPERATOR OF UNINSPECTED PASSENGER VESSELS AS DEFINED IN 46 U.S.C. 2101 (42) UPON INLAND WATERS EXCEPT WATERS SUBJECT TO THE INTERNATIONAL REGULATIONS FOR PREVENTING COLLISIONS AT SEA, 1972"; and,
+
+c. “OPERATOR OF UNINSPECTED PASSENGER VESSELS AS DEFINED IN 46 U.S.C. 2101 (42) UPON INLAND WATERS LIMITED TO UNINSPECTED VESSELS NOT DOCUMENTED UNDER THE LAWS OF THE UNITED STATES."
+
+8. Operator Of Uninspected Towing Vessel Licenses.
+
+Prepare Form CG -2849, License For Merchant Marine Officer, as in the following examples:
+
+ a. "OPERATOR OF UNINSPECTED TOWING VESSELS UPON OCEANS (DOMEST IC TRADE) - LIMITED TO SERVICE ON VESSELS OF NOT MORE THAN 200 GROSS TONS WHEN ON OCEAN OR NEAR COASTAL ROUTES; RADAR OBSERVER (UNLIMITED) EXPIRES JULY 2003." "FOR DOMESTIC VOYAGES ONLY, THE HOLDER OF THIS LICENSE MEETS THE STCW 1995 REGULATIONS WITHOUT FURTHER ENDORSEMENT. ";
+
+b. "OPERATOR OF UNINSPECTED TOWING VESSELS UPON GREAT LAKES AND INLAND WATERS; RADAR OBSERVER (UNLIMITED) EXPIRES JUNE 2003." "FOR DOMESTIC VOYAGES ONLY, THE HOLDER OF THIS LICENSE MEETS THE STCW 1995 REGULATIONS WITHOUT FURTHER ENDORSE MENT. ";
+
+c. "SECOND- CLASS OPERATOR OF UNINSPECTED TOWING VESSELS UPON NEAR COASTAL WATERS - LIMITED TO SERVICE ON VESSELS OF NOT MORE THAN 200 GROSS TONS WHEN ON NEAR COASTAL ROUTES; RADAR OBSERVER (UNLIMITED) EXPIRES JANUARY 2003.""FOR DOMESTIC VOYAGES ONLY, THE HOLDER OF THIS LICENSE MEETS THE STCW 1995 REGULATIONS WITHOUT FURTHER ENDORSEMENT"; and
+
+d. "OPERATOR OF UNINSPECTED TOWING VESSELS UPON WESTERN RIVERS; RADAR OBSERVER (RIVERS) EXPIRES AUGUST 2003."
+
+9. Certificates Of Registry.
+
+Prepare form CG -887, Cer tificate of Registry, in the following manner.
+
+a. If the applicant is a female and so requests, draw a line through the word "HE" and type above it the word "SHE," and
+
+b. In the blank following the words "IN THE GRADE OF" state the grade of staff officer, for example, "CHIEF PURSER," "JUNIOR ASSISTANT PURSER," "PROFESSIONAL NURSE," then
+
+c. If the applicant also holds an endorsement as "MARINE PHYSICIAN ASSISTANT" or "HOSPITAL CORPSMAN" that endorsement will follow the staff officer grade.
+
+d. Above the text showing the issue date, type, "This certificate is valid for five years from this date and will expire on the day of, 200
+
+e. Some examples of certificate of registry descriptions are:
+
+(1) "MEDICAL DOCTOR";
+
+ (2) "CHIEF PURSER/MARINE PHYSICIAN ASSISTANT";
+
+ (3) "SENIOR ASSISTANT PURSER/HOSPITAL CORPSMAN."
+
+Figure 1- 2: Deck License Grades And Endorsements A1-21
+Figure 1- 3: Engineer License Grades And Endorsements A1-22
+Figure 2- 1: Suggested Acceptance Of Military Sea Service By Rating For License Qualifications A2-5
+Figure 2- 2: Examples Of Military Evaluations (Deck) A2-11
+Figure 2- 3: Examples Of Military Evaluations (Engine) A2-16
+Figure 4- 1: Comprehensive Diabetes Education Program A4-8
+Figure 4- 2: Recommended Checklist For Diabetes A4-9
+Figure 6- 1: Sample Response To Test Request A6-4
+Figure 6- 2: Sample Letter Of Undertaking (LOU) A6-5
+Figure 6- 3: TET Travel Log A6-6
+Figure 12- 1: Multiple Engineering License Examinations A12-3
+Figure B2- 1: Deck Officer Table B2-52
+Figure B2- 2: Engineer Officer Table B2-53
+Figure B2- 3: Towing Vessels (UTV or Subchapter M) Deck Officers B2-57
+Figure B2- 4: Towing Vessels (UTV or Subchapter M) Engineer Officers B2-58
+Figure B2- 5: Offshore Supply Vessels (OSV) Deck Officers B2-61
+Figure B2- 6: Offshore Supply Vessels (OSV) Engineer Officers B2-62
+Figure B3- 1: Tonnage Applicability: Dual- Tonnage Vessels B3-9
+Figure B3- 2: Towing Endorsement Table B3-18
+Figure B7- 1: Manning Requirements And References For Documented Uninspected Vessels (Including Certain Yachts) B7-8
+Figure C2- 1: Engineering Equivalents C2-4
+i
+CH-2 AB: Able Seaman ILO: International Labour Organization
+ACP: Alternate Compliance Program IMO: International Maritime Organization
+ACV: Air Cushion Vehicle ISM Code: Internationa l Safety Management Code
+A/E: Assistant Engineer ITB: Integrated Tug -Barge
+ARPA: Automatic Radar Plotting Aid ITC: International Convention on Tonnage Measurement
+of Ships, 1969
+ATB: Articulated Tug -Barge ITU: International Telecommunicatio n Union
+BCO: Ballast Control Officer kW: Kilowatt
+CBP: U.S. Customs and Boarder Protection LOU: Letter of Undertaking
+CDB: Continuous Discharge Book LTD: Limited
+C/E: Chief Engineer MAMS: Minimally Attended Machinery Space
+CEMS: Crew Endurance Management System MARAD: U.S. Maritime Administration
+CFR: Code of Federal Regulations MERPAC: Merchant Marine Personnel Advisory Committee
+CG-835: Vessel/Facility Inspection Requirements MI Notice: Marine Inspection Notice
+CGAA 2010: Coast Guard Authorization Act, 2010 MISLE: Marine Information for Safety and Law Enforcement
+CG-CVC: Office of Commercial Vessel Compliance MLC: Maritime Labour Convention, 2006
+CG-ENG: Office of Design and Engineering Standards MMC: Merchant Mariner Credential
+CG-MMC: Office of Merchant Mariner Credentialing MMD: Merchant Mariner Document
+CGMTA 2006: Coast Guard and Marine Transportation
+Act, 2006 MML: Merchant Mariner License
+CG-OES: Office of Operating and Environmental Standards MMLD: Merchant Mariner Licensing and Documentation
+COI: Certificate of Inspection MMS: Mission Man agement System
+COR: Certificate of Registry MOA: Memorandum of Agreement
+DDE: Designated Duty Engineer MODU: Mobile Offshore Drilling Unit
+DPS: Dynamic Positioning System MOU: Memorandum of Understanding
+DVT: Design Verification Test MSC: Marine Safety Center (USCG)
+DWTF: Distant Water Tuna Fleet MSC: Maritime Safety Committee (IMO)
+EEZ: Exclusive Economic Zone MSC: Military Sealift Command (U.S. Navy)
+EO: Executive Order MSM I: Marine Safety Manual Volume I; Administration and
+Management, COMDTINST M16000.6 (series)
+ETO: Electro -Technical Officer MSM II: Marine Safety Manual Volume II; Materiel
+Inspection, COMDTINST M16000.7 (series)
+ETR: Electro -Technical Rating MSM IV: Marine Safety Manual Volume IV; Technical,
+ii
+CH-2 OIM: Offshore Installation Manager
+O.N.: Official Number
+OPA 90: Oil Pollution Act, 1990
+OS: Ordinary Seaman
+OSRB: Oil Spill Response Barge
+OSRV: Oil Spill Response Vessel
+OSV: Offshore Supply Vessel
+OUPV: Operator Uninspected Passenger Vessel
+PAC: Persons in Addition to the Crew
+PIC: Person(s) In Charge
+PL: Policy Letter
+PSTP: Periodic Safety Test Procedure
+PUMS: Periodically Unattended Machinery Space
+PVSA: Passenger Vessel Safety Act, 1993
+QFA: Qualitative Fai lure Analysis
+QMED: Qualified Member of the Engine Department
+RFPEW: Rating Forming Part of an Engineering Watch
+RFPNW: Rating Forming Part of a Navigational Watch
+SD/FH: Stewards Depa rtment -Food Handler
+SMA: State Maritime Academy(ies)
+SMD: Safe Manning Document
+SML: Safe Manning L etter
+SMS: Safety Management System
+SOLAS: International Convention for the Safety
+of Life at Sea, 1974
+SPTT: South Pacific Tuna Treaty, 1987
+SPV: Small Passenger Vessel
+STCW: International Convention on Standards of Training,
+Certification and Watchkeeping for Seafarers, 1978
+TOAR: Towing Officer Assessment Record
+TSAC: Towing Safety Advisory Committee
+TWIC: Transportation Worker Identification Credential
+UFIV: Uninspected Fishing Industry Vessel
+UNLTD: Unlimited
+USACE: U.S. Army Corps of Engineers
+UR: Unified Requirement
+U.S.: United States
+U.S.C.: United States Code
+USCG: U.S. Coast Guard
+USCIS: U.S. Citizenship and Immigration Services
+UTV: Uninspected Towing Vessel
+WHO: World Health Organization
+
+ANNEX- 1
+CH-2
+
+ANNEX- 2
+CH-2
+
+ANNEX- 3
+CH-2
+
+MINIMUM SAFE MANNING DOCUMENT
+Issued under t he provision of regulation V/14 of the
+INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, as amended
+under the authority of the Government of THE UNITED STATES OF AMERICA
+by THE UNITED STATES COAST GUARD
+
+Vessel Name: (From Certificate of Docume ntation ) IMO N umber: (If Not Provided Indicate U.S. O.N. )
+Distinctive numbers or letters: (Call Sign) Port of Registry: (Hailing Port)
+Gross Tonnage: ______ (GRT) ______ (GT ITC) Main Propulsion Power: (Aggregate )(hp) / (Aggregate )(kW)
+Type of Vessel : (Primary Service) Periodically Unattended Machinery Space: (YES or NO)
+Trading Area: (e.g. Oceans/Unlimited ) Operating Company: _______________________________
+In accordance with th e principles and guidelines set out in Annex 1 and 2 of IMO Resolution A. 1047(27), the vessel
+named in this document is considered to be safely manned if, when it proceeds to sea, it carries not less than the number and grades/capacities of personnel speci fied in the table below. When on an ‘international voyage’, this vessel
+must be manned with the following licensed and unlicensed personnel, included in which there must be two (2)
+certificated lifeboatmen [Note: Ref. 46 CFR 15.845] , three (3) GMDSS Radio Operators [Note : Ref. Para B3.L ], and
+zero (0) certificated tankerman [Note: Ref. 46 CFR 15.860] :
+
+U.S. License/Rating STCW
+Grade/Capacity Certificate
+(STCW regulation) Number
+of Persons
+Master
+[Note: Ref. Para B3.C & G ] Master on vessels of 500 to 3,00 0 GT
+ITC or more II/2
+[Note: Ref. Para B3.B.2.a } 1
+Licensed Mate
+[Note: Ref. Para B3.D & G ] Officer in charge of a navigational
+watch of vessels over 500 GT ITC II/1
+[Note: Ref. Para B3.B.2.a ] 2*
+Able Seaman
+[Note: Ref. Para B4 .C & D] Rating forming par t of navigational
+watch II/4
+[Note: Ref. Para B4 .B.1.a ] 3*
+Chief Engineer
+(Motor/Unlimited hp)
+[Note: Ref. Para B3.E] Chief engineering officer, main
+propulsion machinery over 3,000 kW III/2
+[Note: Ref. Para B3 .B.2.b ] 1
+Licensed Engineer (Motor/
+Unlimited hp)
+[Note: Ref. Para B3.F] Officer in charge of an engineering
+watch of vessels over 750kW III/1
+[Note: Ref. Para B3 .B.2.b ] 2*
+Qualified Member of the
+Engine Department
+[Note: Ref. Para B4 .C & E] Rating forming part of an engineering
+watch III/4
+[Note: Ref. Para B4 .B.1.b] ---
+Special requirements and conditions:
+*In accordance with U .S. law, when on a voyage of less than 600 miles, manning may be reduced by one (1)
+Licensed Mate, one (1) GMDSS Radio Operator, one (1) Licensed Engineer , and one (1) Abl e Seaman . [Note:
+Ref. Para B5 .A.4.b ]
+
+Up to one (1) Ordinary Seamen with an STCW 95 endorsement attesting to “Rating forming part of a
+navigational watch” may be substituted for one (1) Able Seamen. [Note: Ref. Para B4 .B.1.a.(3) & B4.D.1]
+
+[Note: Ref. P ara B3.B.2 .d.(2)(b) for special requirements and conditions pertaining to the Canadian MPR]
+
+In addition, the vessel may carry xxxx (x) passengers, xxxx (x) other persons in crew, xxxx (x) persons in
+addition to the crew, and no others. Total persons allowed: xxxxx (xx).
+
+Issued at: ( Location of Unit) ___________________
+Date of Issue: _______________________________________
+XXXXXX XXXXX
+U.S. Coast Guard
+Offic er in Charge, Marine InspectionUnit Address Block
+Unit Address Block
+United States Coast Guard
+Unit address block
+Unit address block
+Staff Symbol: (sp)
+Unit phone
+Unit fax
+Unit e -mail
+1.  16711 / Insert Vsl name
+
+ANNEX- 4
+CH-2
+Vessel Operator Address Block
+Attn:
+Vessel Operator Address
+Vessel Operator Address
+Subj: SAFE MANNING LETTER (SML)  FOR VESSEL NAME,
+IMO Number: (If Not Provided Indicate U.S. O.N.)
+Dear Port State Control Official:
+We are providing this letter as a statement of fact for the referenced vessel regarding U .S. requirements for operation in oceans unrestri cted service on foreign/international voyages.  This commercial vessel was built / keel laid date[1] on ________________, is _______ GRT, ______ GT ITC, (Aggregate ) hp, and (Aggregate ) kW.  The vessel has / has not1 undergone any major modifications.
+
+The International Convention on Tonnage Measurement of Ships, 1969, came fully into force on 18 July 1994.  Under the provisions of this Convention, as supplemented by International Maritime Organization (IMO) Interim Schemes (Resolutions A.494 (XII) and A.541 (13)), a vessel meeting certain criteria may retain the gross tonnage assigned under the Flag State’s national tonnage system for the purpose of applying requirements of specific international conventions.2
+
+The U.S. Coast Guard acknowledges that the above mentioned vessel is currently of United States registry and qualifies for retaining national gross tonnage under the provisions of the International Convention on Tonnage Measurement of Ships, 1969, as supplemented by IMO Interim Schemes.  The national gr oss tonnage assigned to this vessel under the United States Regulatory Measurement System is __________  GRT.[2]
+
+Based on its size and current service the vessel is not required to be inspected and certificated by the U.S. Coast Guard under the laws of t he United States, nor does / do[1] SOLAS and MARPOL[3] require certification, including issuance of a Safe Manning Document.
+
+To assist P ort State Authorities and others that may have an interest in the operations of the subject vessel the below informatio n is provided regarding what requirements do apply to the vessel . The vessel must comply fully with the Flag State requirements for an uninspected vessel of this tonnage and service.  Those requirements are contained in Title 46 Code of U.S. Federal
+1 Delete as appropriate.
+2 Delete if interi m tonnage scheme does not apply.  See NVIC 11- 93 (series)
+3 Delete as appropriate for vessels >400 GT ITC Unit Address Block
+Unit Address Block
+United States Coast Guard
+Unit address block
+Unit address block
+Staff Symbol: (sp)
+Unit phone
+Unit fax
+Unit e -mail
+
+16711 / Insert Vsl name
+
+ANNEX- 5
+CH-2 Regu lations, Subchapter C (Part 24- 26).  Although no inspection certificate is required to be issued attesting to compliance, the U. S. Coast Guard does have authority to do boarding's of the vessel for the purpose of verification.  A properly displayed and va lid Uninspected Towing Vessel decal shows this vessel has voluntarily been examined and meets current applicable Flag State requirements.4  The vessel may engage in unrestricted international voyages provided that it is properly manned with credentialed cr ew as noted below:
+
+############
+1 Master (Oceans / Near Coastal[4]) of not more than _________ GRT, _________ GT ITC .
+1 Mate, OICNW (Oceans / Near Coastal[4]) of not more than _________ GRT , _________ GT ITC .
+
+1 Chief Engineer, of _________ hp, _________ kW.*
+1 Assist ant Engineer, of _________ hp, _________ kW.*
+
+2 Able -bodied Seaman (without STCW endorsements)
+
+*A Designated Duty Engineer (Unlimited / Limited[5]) may be substituted for a Chief Engineer and/or an Assistant Engineer on vessels below 500 GRT.
+
+Periodical ly Unattended Machinery Space[6]: YES / NO[4]
+
+STCW requires any rating forming part of any watch in a manned engine room or designated to perform duties in a periodically unmanned engine room powered by main propulsion machinery of 750 kW or more to meet certification requirements .  If the vessel employs a crewmember in this capacity that crewmember should have an MMC with appropriate STCW endorsements.  Deck ratings are not required to meet STCW if aboard a vessel of less than 500 GT ITC .
+
+The vessel shou ld maintain records indicating the work and rest hours of all credentialed watch standers.
+
+We respectfully request that P ort State Officials accept this letter as evidence of the Flag State’s requirements for the vessel to operate in unrestricted service. Questions concerning this letter may be directed to address and/or e -mail listed at the top of this letter.
+
+Sincerely,
+
+XXXXXXX XXXXXXXXX
+Insert rank , U. S. Coast Guard
+Officer in Charge, Marine Inspection
+4 Delete as appropriate.
+5 Delete as appropriate.  If limited, specify hp/kW limitation.
+6 PUMS Endorsement only necessary for voyages to Canada.
+
+ANNEX- 6
+CH-2 Sample: Consolidated Merchant Mariner Credential (MMC). (2014, 2017 )
+The merchant mariner credential or MMC combines the individual merchant mariner’s document, license, and certificate of registry enumerated in 46 U.S.C. S ubtitle II P art E as well as the STCW endorsement into a single credentia l that serves as the mariner’s qualification document, certificate of identification, and certificate of service.  The MMC is a seafarers’ identity document for the purpose of the Seafarer’s Identity Documents Convention (revised), 2003, of the International Labor Organization.  The MMC has the look and feel of a passport, however, it does NOT substitute for a passport.  The MMC retains much of the traditional artwork found on the current credentials.  The document is resistant to chemical solvents, oxidant s, acids and alkali.  Updated MMC booklets were issued starting March 22, 2016.  The new MMC booklet features an improved layout with graphic images of historic lighthouses, the Eads Bridge, the Merchant marine Emblem, and a first -order Fresnel lens.  Addi tionally, the cover of the MMC has been stiffened for greater durability.  All currently active credentials will remain valid until their printed expiration dates.
+[Due to scanning constraints, the color depicted here is not a true color match.]
+
+New MMC Booklet (March 22, 2016).
+
+ANNEX- 7
+CH-2 Personal Data. (2014)
+Personal information on the data page adheres to the requirements of ICAO 9303, Machine Readable Travel Documents, and includes all data elements required by the Seaf arers’ Identity Documents Convention (Revised) (ILO -185).  The MMC is not valid without signature of the holder.  Mariners should sign the document on receipt.
+
+############
+
+NOTE: MMCs issued after August 3, 2015 were produced using an improved laminate, which enhances print quality and security features.  The new laminate contains the Department of Homeland Security, Coast Guard, and the Merchant Marine seals as well as other features (example image not available for inclusion).  Laminate is used on the personal data page and all subsequent printed pages ending with the issuing official’s signature.  There were no changes made in the way endorsement labels are issued and applied to MMCs.  MMCs issued prior to August 3, 2015 will remain valid until the printed expir ation date.  Questions regarding the authenticity of a MMC should be directed to the NMC. (201 7)
+
+ANNEX- 8
+CH-2 Credential Data. (2014)
+This is an example of the data pages that will be printed on a credential with both International (STCW) and Domestic (Officer and Rating) Endorsements. Each page contains the reference number of the mariner and the serial number of the booklet.
+
+This page contains the International (STCW) Endorsement.
+
+ANNEX- 9
+CH-2 Credential Data (Con’t).
+This page contains the Domestic (Officer and Rating) Endorsements.  Domestic Officer and Rating Endorsements data are printed in terms of Capacities and Limitations much like the current STCW Certificates.
+
+NOTE: In accordance with 46 U.S.C. 7110, each holder of a license issued under Part E shall display, within 48 hours after employment on a vessel for which that license is required, the license in a conspicuous place on the vessel.  Mariners holding a consolidated MMC should display the officer endorsement page of the MMC, which is equivalent to the previous officer license.  As a security measure, mariners have been advised not to post their credentials while the vessel is visiting foreign ports. (2014)
+
+ANNEX- 10
+CH-2 Endorsement Label. (2014, 2017 )
+When a mariner applies for an endorsement or raise in grade, the NMC will produce a label to be added to the MMC.  The label will be mailed to the mariner with instructions for placement in the credential booklet.  Once the label has been adhered to the booklet, it cannot be removed without damaging the document .  When a mariner is provided a label to be added to the MMC, it will contain both the mariner's Coast Guard reference number, and the serial number of the MMC it is to be inserted into.  The numbers for the label must match those in the MMC it was added t o.
+
+ANNEX- 11
+CH-2 Sample: Medical Certificate. (2014)
+The medical certificate is a document issued by the Coast Guard under 46 CFR part 10, subpart C that serves as proof that the seafarer meets the medical and physical standards for merchant mariners. Because of differing legal requirements, each medical certificate will carry three expiration dates. One will be the expiration date for STCW (see 46 CFR 10.301(b)(1)), a second expiration date will be for First Class Pilotage under 46 CFR 15.812 (see 46 CFR 10.301(b)(2)), and the third will be the expiration date for all other purposes (see 46 CFR 10.301(b)(3)). A valid medical certificate must be carried when serving under the authority of a MMC [46 CFR 15.401(d); 15.403(a); 15.403(b)(1)]. The medical certifi cate will note any operational limitations on the mariner's authority to serve. The mariner is responsible for complying with any operational limitations or restrictions on the medical certificate.
+
+############
+
+* If “No Limitations/Restrictions” is “N” then a Limitation/Restriction should be listed. If “Y” then there are no Limitations/Restrictions.
+
+ANNEX- 12
+CH-2 NOTE: Medical Certificate, Transitional Provisions. (2014)
+Issuance of medical certificates to mariners holding only national endorsements will be phased -in over a five- year period. Beginning January 24, 2014, mariners with only national endorsements will be issued a medical certificate during their first credential transaction that requires a medical review. By January 24, 2019, all mariners holding only nati onal endorsements should have a valid medical certificate.  In most cases, mariners who have a credential with only national endorsements issued before January 24, 2014 won’t have a separate medical certificate until their next credential transaction that requires a medical review. This can be verified by checking the issuance date on the MMC Personal Data page.
+
+First Class Pilots and those acting as pilot under the provisions of 15.812 are required to have an annual physical examination which meets the r equirements of 46 CFR Part 10, Subpart C; however, they are only issued medical certificates every 2 years. The issuance of medical certificates to First Class Pilots will be phased -in over an 18 month period. Beginning January 24, 2014, First Class Pilots will be issued a medical certificate during their first credential transaction which requires a medical review OR at their first required submission of physical examination in accordance with 46 CFR 11.709( b) whichever is earlier . After July 24, 2015, all Pilots should have a valid medical certificate, however those national mariners holding but not acting under the authority of the pilot endorsement need only meet the 5 year phase -in allowance of the previous paragraph.
+
+Full implementation of the medi cal certificate requirements is based on the following schedule;
+
+STCW: Beginning on or about 1 January 2014, mariners with current STCW endorsements will be issued a medical certificate.  This process should be completed by 1 January 2015.  The issuance of STCW endorsements subsequent to that date will include a medical certificate.  Once issued, a valid medical certificate must be carried when serving under the authority of a MMC . All persons employed or engaged onboard vessels to which STCW applies must hold a valid medical certificate by 1 January 2017.
+
+National endorsement only: Once issued, a valid medical certificate must be carried when serving under the authority of a MMC. All mariners serving under their national endorsement should have a medical certificate no later than January 24, 2019.
+
+First Class Pilot (service): Once issued, a valid medical certificate must be carried when serving under the authority of their pilotage endorsement. All mariners serving under the authority of a pilotage endorsement should have a medical certificate by July 24, 2015.
+
+ANNEX- 13
+CH-2 Sample: Transportation Worker Identification Credential (TWIC). (2014)
+
+ANNEX- 14
+CH-2 Sample: Document of Continuity. (2014)
+When a mariner makes application to place any/all endorsements into continuity status they will be issued a Document of Continuity.  Like the MMC, this document will consolidate all Capacities and Limitations being placed into continuity status.  The Document of Continuity will have no expiration date.  A document of continuity does not entitle an individual to serve as a merchant mariner.
+
+############
+
+ANNEX- 15
+CH-2 Sample: Legacy merchant mariner licenses (MML), merchant mariner documents (MMD), certificates of registry (COR), and STCW certificates [which ceased to be valid after April 9, 2014]. (2014)
+
+Merchant Mariner License (MML). (2014)
+
+Sample: Merchant Mariner Document (MMD) [Front and Back]. (2014)
+
+ANNEX- 16
+CH-2 Sample: Certificate of Registry [Format]. (2014 )
+
+Sample: STCW Certificate. (2014)
+
+ANNEX- 17
+CH-2 Sample: Merchant Mariner Certificate Suitab le for Framing. (2014)
+Mariners who hold or have held a valid Merchant Mariner Credential (MMC) can download, save, print and display a merchant mariner certificate suitable for framing. The certificate, which is to be used for display purposes only, is not authorized as a substitute for a valid MMC and will not substitute for the MMC where the requirement to post a credential exists.
+
+ANNEX- 18
+CH-2 Common COI/SMD Sample Endorsements. (2014, 2017 )
+(Noninclusive.)
+
+Periodically unattended or minimally attende d machinery space. [MSM Vol. III, Part B, Chapter 6] (2014)
+
+APPROVED FOR [ PERIODICALLY UNATTENDED* ] OR [ MINIMALLY ATTENDED *] MACHINERY SPACE OPERATION.  THIS APPROVAL AND THE MINIMUM MANNING LEVEL SPECIFIED ON THIS CERTIFICATE OF INSPECTION ARE CONTINGENT UPON THE PROPER OPERATION OF THE AUTOMATED CONTROL/AUTOMATED MONITORING/AUTOMATED MACHINERY MANAGEMENT SYSTEM(S).  ANY MAJOR ALTERATION OR FAILURE MUST BE REPORTED IMMEDIATELY TO THE NEAREST OCMI.
+
+*Delete as appropriate
+
+Unattended machinery space, Subchapter L and M only. [500 GT ITC and above, endorsement aligns with SOLAS II- 1/46.3 and IMO Resolution A.1047(27) for international voyages] (2014, 2017 )
+
+[APPROVED FOR PERIODICALLY UNATTENDED MACHINERY SPACE OPERATION. THIS APPROVAL AND*] THE SPECIFIED MANNING LEVEL IS CONTINGENT UPON THE PROPER OPERATION OF THE ENGINEERING AUTOMATED CONTROL/MONITORING SYSTEMS. ANY MAJOR ALTERATION OR ESSENTIAL COMPONENT FAILURE MUST BE REPORTED IMMEDIATELY TO THE COGNIZANT OCMI.
+
+*Delete as appropriate
+
+Unattended m achinery space, Subchapter L and M only. [Less than 500 GT ITC or for domestic voyages] (2014, 2017 )
+
+THE SPECIFIED MANNING LEVEL IS CONTINGENT UPON THE PROPER OPERATION OF THE ENGINEERING AUTOMATED CONTROL/MONITORING SYSTEMS. ANY MAJOR ALTERATION OR ESSE NTIAL COMPONENT FAILURE MUST BE REPORTED IMMEDIATELY TO THE COGNIZANT OCMI.
+
+Foreign near -coastal voyages. [MSM Vol. III, Part B, Chapter 3] (2014)
+
+VESSEL LIMITED TO A NEAR COASTAL ROUTE WHEN OFFICERS HOLD NEAR COASTAL ENDORSEMENTS AND STCW CERTIFICATES. A NEAR COASTAL ROUTE IS THE LESSER OF 200 NM FROM SHORE OR THE DISTANCE AS DEFINED BY THE LOCAL COUNTRY WHERE THE VESSEL IS OPERATING.
+
+ANNEX- 19
+CH-2 Canadian Marine Personnel Regulations. [MSM Vol. III, Part B, Chapter 3] (2014)
+
+CHIEF ENGINEER, ASSISTANT ENGINEERS, OR DESIGNATED DUTY ENGINEERS NOT REQUIRED OTHER THAN ON VOYAGES TO CANADA IN ACCORDANCE WITH DIVISION 4 OF THE CANADIAN MARINE PERSONNEL REGULATIONS.
+
+Offshore supply vessels (OSV) and Mobile Offshore Drilling Units (MODU) foreign crew waiver. [M SM Vol. III, Part B, Chapter 1] (2014)
+
+WHEN OPERATING FROM A FOREIGN PORT, NOT ON U.S. WATERS, FOREIGN NATIONALS WITH VALID STCW CERTIFICATES, ISSUED BY A COUNTRY DEEMED BY THE IMO TO BE GIVING FULL AND COMPLETE EFFECT TO THE STCW CONVENTION, AS AMENDED, MAY SERVE AS AN OFFICER WITHOUT ADDITIONAL ENDORSEMENT, PROVIDED THE MASTER ADHERES TO TITLE 46, CODE OF FEDERAL REGULATIONS (CFR) 15.720(D). THE MASTER OF THE VESSEL MUST BE A U.S. CITIZEN, DULY CERTIFICATED BY THE UNITED STATES.
+
+############
+THIS ENDORSEMENT ESTA BLISHES CONFORMITY WITH THE SAFE MANNING REQUIREMENTS OF THE UNITED STATES PERTAINING TO 46 CFR 15.720(B) IN FULL CONSIDERATION OF THE GUIDING PRINCIPLES FOR PORT STATE CONTROL (APPENDIX 11, IMO RESOLUTION 1052(27), AS REVISED).
+
+Multi -Service (Certificat ed) Offshore Supply Vessels. [MSM Vol. III, Part B, Chapter 2 ] (2014)
+
+VESSEL IS MULTI -CERTIFICATED AS FREIGHT VESSEL, OFFSHORE SUPPLY VESSEL AND INDUSTRIAL VESSEL. VESSEL MUST CONFORM AT ALL TIMES TO THE MOST STRINGENT DESIGN AND EQUIPMENT STANDARDS OF T HE APPLICABLE RULES AND REGULATIONS, INCLUDING SOLAS, REGARDLESS OF WHICH SERVICE THE VESSEL IS IN. VARIATIONS FROM STANDARD OPERATING DETAILS AND MANNING ARE DEPICTED BELOW BASED ON SERVICE THAT THE VESSEL IS ACTUALLY ENGAGED IN. CHANGES IN SERVICE SHALL BE LOGGED IN THE VESSEL'S OFFICIAL LOG BOOK.
+
+ANNEX- 20
+CH-2 Permissive crewing . [MSM Vol. II, Section A, Chapter 3] (2014)
+Where a vessel owner/operator voluntarily elects to crew a barge not otherwise required to be crewed, the vessel's Route Permitted and Conditions of Operation section of the COI should be endorsed:
+
+**PERMISSIVELY MANNED**
+PERMISSIVE MANNING AUTHORIZED PROVIDED RESTRICTIONS ON THE CURRENT LOAD LINE CERTIFICATE ARE MET. THE VESSEL MAY CARRY [##] PERSONS AS MAINTENANCE PERSONS WITH NO DUT IES CONNECTED WITH THE NAVIGATION OF THE VESSEL.
+On seagoing barges over 100 G RT, the endorsement should include the statement:
+
+ALL MAI NTENANCE PERSONS MUST POSSESS MERCHANT MARINER CERTIFICATE S, AND A MINIMUM OF 75 PERCENT OF THOSE PERSONS ABOARD MUST BE U.S. CITIZENS.
+This endorsement may be further modified to limit the route on which personnel may be aboard based upon load line, lifesaving equipment, or other relevant factors.
+
+Specially Trained Ordinary Seamen (STCW). [MSM Vol. III, Part B, Chap ter 4] (2014)
+
+UP TO TWO ORDINARY SEAMEN WITH A STCW CERTIFICATE ENDORSED FOR REGULATION II/4 ‘RATING FORMING PART OF A NAVIGATION WATCH’ MAY BE SUBSTITUTED FOR TWO ABLE SEAMEN WITHOUT FURTHER ENDORSEMENT AS ABLE SEAFARER- DECK II/5.
+
+Speciall y Trained Ord inary Seamen ( Non-STCW ). [MSM Vol. III, Part B, Chapters 2, 4, 6] (2014, 2017)
+
+UP TO TWO ORDINARY SEAMEN MAY BE SUBSTITUTED FOR TWO ABLE SEAMEN.
+UNLICENSED SEAMEN PERFORMING NAVIGATIONAL WATCH KEEPING DUTIES MUST POSSESS MERCHANT MARINERS CREDENTIALS END ORSED AS ABLE SEAMAN OR ORDINARY SEAMAN WITH A LETTER OF QUALIFICATION AND SPECIAL TRAINING AS PROVIDED IN NAVIGATION INSPECTION CIRCULAR 3 -83.
+
+ANNEX- 21
+CH-2 Deck and Engine Maintenance -Person Endorsements. [MSM Vol. III, Part B, Chapter 4] (2014)
+
+ENGINE MAINT ENANCE -PERSONS MUST EACH HOLD A QMED ENDORSEMENT AS JUNIOR ENGINEER, DECK ENGINE MECHANIC, OILER, OR ENGINEMAN AND AN STCW ENDORSEMENT ATTESTING TO 'RATING FORMING PART OF A N ENGINE ERING WATCH'. WHEN CARRYING REFRIGERATED UNITS, ONE OF THE TWO ENGINE MAINTENANCE PERSONS MUST HOLD AN ENDORSEMENT AS A REFRIGERATION ENGINEER OR AS AN ELECTRICIAN.
+
+THREE OF SIX MAINTENANCE -PERSONNEL SHALL HOLD QUALIFIED MEMBER ENGINE DEPARTMENT RATINGS WITH ENDORSEMENTS AS EITHER JUNIOR ENGINEERS OR OILE RS. THE OTHER THREE MAI NTENANCE -PERSONNEL SHALL HOLD ABLE SEAMEN ENDORSEMENTS.
+
+Maintenance Department Endorsement. [MSM Vol. III, Part B, Chapter 4] (2014, 2017 )
+
+############
+THE ABOVE MANNING IS CONTINGENT UPON THE UTILIZATION OF A MAINTENANCE DEPARTMENT AS INDICATED IN THE VESSEL'S OPERATING MANUAL. ANY SUBSTANTIAL CHANGE IN THE OPERATION OF THIS DEPARTMENT MUST, PRIOR TO IMPLEMENTATION, BE REPORTED TO THE OCMI WHO ISSUED THE VESSEL'S CERTIFICATE OF INSPECTION.
+
+AT LEAST THREE OF THE REQUIRED MAINTENANCE- PERSONS MUST HOLD ENDORSEMENTS AS ABLE SEAMEN, EXCEPT THAT UP TO TWO OF THESE MAY BE QUALIFIED AS SPECIALLY TRAINED ORDINARY SEAMEN IN LIEU OF HOLDING ABLE SEAMAN ENDORSEMENTS. THREE MAINTENANCE -PERSONS MUST EACH HOLD A QMED ENDORSEMENT AS JUNIOR ENGINEER, DECK ENGINE MECHANIC, OILER, OR ENGINEMAN.
+
+Small Passenger Vessels and Passenger- Carrying Barges. [MSM Vol. III, Part B, Chapter 2] (2014)
+
+IF THE VESSEL IS AWAY FROM THE DOCK, OR PASSENGERS ARE ON BOARD OR HAVE ACCESS TO THE VESSEL FOR A PERIOD EXCEEDING 12 HOURS IN A 24 HOUR PERIOD AN ALTERNATE CREW SHALL BE PROVIDED.
+
+Oil Spill Response Barge s. [MSM Vol. III, Part B, Chapter 2] (2014)
+
+WHEN TRANSFERRING RECOVERED OILY LIQUIDS OR OIL TO OR FROM ANOTHER VESSEL OR FACILITY, A TANKERMAN- PERSON- IN-CHARGE SHALL BE PROVIDED.
+
+ANNEX- 22
+CH-2 Tow ing Vessel Worksite Exclusion. [MSM Vol. III, Part B, Chapter 7] (2017 )
+
+WHILE ENGAGED EXCLUSIVELY WITHIN AN OCMI SPECIFIED WORKSITE AS A WORKBOAT, A TOWING VESSEL INSPECTED UNDER SUBCHAPTER M MAY BE OPERATED IN ACCORDANCE WITH MSM Vol. III, Part B, Chapt er 7.B.2.
+
+Conditionally Occupied Barge. [MSM Vol. III, Part B, Chapter 2 & CG-CVC Policy Letter 16 -04] (2017)
+
+All ATB Barges
+
+WHILE OPERATING BEYOND THE BOUNDARY LINE, OR ON THE GREAT LAKES, THIS ATB BARGE MAY BE CONDITIONALLY OCCUPIED BY UP TO (SPECIFY A #) PERSONS.
+
+WHENEVER PERSONNEL ARE CONDITIONALLY OCCUPYING THE ATB BARGE, A PROPERLY CREDENTIALED CREW MEMBER HAVING A LIFEBOATMAN OR LIFEBOATMAN/LIMITED ENDORSEMENT SHOULD BE PRESENT ON THE BARGE.
+
+Additional for ATB Tank Barges
+
+WHENEVER PERSONNEL ARE CONDITIONALLY OCCUPYING THE ATB TANK BARGE TO OPERATE BARGE MACHINERY RELATED TO THE CARGO OR BALLAST WATER, AT LEAST ONE TANKERMAN- PIC, TANKERMAN- PIC (BARGE), OR RESTRICTED TANKERMAN- PIC SHOULD BE PRESENT ON BOARD THE BARGE.
+
+***DO NOT USE. NO LONGER AUTHORIZED FOR USE .***
+International Convention On Tonnage Measurement Of Ships, 1969 (ITC) . [MSM Vol. III, Part B, Chapter 3] (2014)
+
+ALL LICENSED INDIVIDUALS MUST HOLD LICENSES AUTHORIZING SERVICE ON VESSELS OF A TONNAGE AT LEAST EQUAL TO THE VESSEL'S U.S. REGULATORY TONNAGE AS INDICATED ON THIS CERTIFICATE OF INSPECTION AS PROVIDED FOR IN IMO RESOLUTION A.540(XIII) .
+
+***DO NOT USE. NO LONGER AUTHORIZED FOR USE .***
+
+ANNEX-23
+CH-2 ANNEX Attachments. (2017)
+ATTACHMENT (1): Suggested Template – Minimu m Safe M anning Proposal
+ATTACHMENT (2): MMS Work Instruction – Assignment of U.S. Vessel Manning
+ATTACHMENT (3): Master’s Field Guide – U.S. Vessel Manning
+ATTACHMENT (4): Safe Manning Verification Check -sheet
+Suggested Template: Minimum Safe M anning Proposal
+To Supplement the Application for Inspection of U.S. Vessel [CG-3 752/3752A]
+(Rev. 06-1 7) Vessel Name:
+IM
+O#/O.N. /CG# :
+Page 1 of 8 This suggested template may be used to prepare and submit a minimum safe manning proposal as outlined in Marine Safety Manual Volume III, Section s B1.C - F . It is not a required or OMB controlled form. The manning requirements for a particular vessel are determined by the Officer in Charge, Marine Inspection (OCMI) after consideration of the applicable laws, regulations, and all other factors involved, such as: emergency situations, size and type of vessel, installed equipmen t, proposed routes of operation including frequency of port calls, cargo carried, type of service in which employed, degree of automation, use of labor saving devices, and the organizational structure of the vessel. Pursuant to Title 46, Code of Federal Regulations (CFR) 15.501(b), this template may be used to provide the necessary information . In preparing the minimum safe manning proposal, it is recommended that the following relevant documents be referenced :
+• 46 U.S.C Chapter Part F – Manning of Vessels
+• 46 CFR Chapter I, Subchapter B – Merchant Marine Officers and Seamen
+• Marine Safety Manual Volume II: Materiel Inspection
+• Marine Safety Manual Volume III: Marine Industry Personnel
+• International Convention for the Safety of Life at Sea (SOLAS), 1974, as amended
+• International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 1978, as amended
+• Principles of Minimum Safe Manning, IMO Resolution A.1047(27), as amended
+Title 46 CFR 15.505 requires that all requests for changes in manning be made to the OCMI wh o last issued the Certificate of Inspection ( COI)1, unless the request is made in conjunction with an inspection for certification, in which case the request should be addressed to the OCMI conducting the inspection. Complete all applicable shaded areas for a single vessel. This template is not all- inclusive and may be modified as necessary. It is recommended that a copy be retai ned by the Company .
+1.  Administrative
+    1.1 Officer in Charge, Marine Inspection (OCMI) zone:
+    1.2 Company Point of Contact :
+    1.3 Date of Submittal (DD/MM/YYYY):
+    1.4 Specify Reason (i.e., New Construction, Reflag, Modification, Change in Service, Other) :
+2.  Operating Company Details2
+    2.1 Name of Registered Owner:
+        2.1.1 IMO Registered Owner #:
+        2.1.2 Address of Registered Owner:
+    2.2 Name of Operating Company:3
+        2.2.1 IMO Company #:
+        2.2.2 Address of Operating Company:
+    1 Includes Safe Manning Document (SMD) and Safe Manning Letter (SML)
+    2 Information same as Certificate of Documentation (COD) and Continuous Synopsis Record (CSR), as applicable.
+    3 Information same as Document of Compliance (ISM), as applicable.
+    Suggested Template: Minimum Safe Manning Proposal
+    To Supplement the Application for Inspection of U.S. Vessel [CG-3 752/3752A]
+    (Rev. 06-17) Vessel Name:
+    IMO#/O.N. /CG# :
+    Page 2 of 8 3.1 Vessel Details
+        3.1.1 Vessel Name and Call Sign:
+        3.1.2 IMO #:
+        3.1.3 Official Number (O.N.) or CG Number:
+        3.1.4 Hull Number (if available):
+        3.1.5 Class Identification Number (if available):
+        3.1.6 Hailing Port:
+        3.1.7 Vessel Service /Type :
+        3.1.8 Inspection Subchapter (s):4
+        3.1.9 Design Basis Agreement (DBA)? (Attach if applicable)
+        3.1.10 Multi-Service: Yes No
+        3.1.11 Alternate Compliance Program (ACP): Yes No
+        3.1.12 Maritime Security Program (MSP) [& MSP Select]: Yes No
+        3.1.13 Streamlined Inspection Program (SIP):5 Yes No
+        3.1.14 Safety Mgmt System (SMS) [ISM Code or Sub. M]? SMS TSMS N/A
+    3.2 Vessel Particulars
+        3.2.1 Route Permitted (incl. limitations) :
+        3.2.2 International Voyages: Yes No
+        3.2.3 Keel Laid Date (DD/MMM/YYYY):
+        3.2.4 Gross Tonnage: GRT - GT ITC -
+        3.2.5 Length: R - I -
+        3.2.6 Main Propulsion Power (aggregate): hp - kW -
+        3.2.7 Propulsion Type/Mode (Motor, Steam, Electric):
+        3.2.8 Sister Vessels (Name/IMO # or O.N., Hull #): (Attach list of necessary)
+4.  Recommended Attachments Attached?
+    4.1 Completed Station Bill: Yes No
+    4.2 Completed Watch Schedule (In Port & At Sea): Yes No
+    4.3 Record for Hours of Work and Rest or Software Details: Yes No
+    4.4 Shipboard Organization Chart and Position Description & Responsibility Details:6 Yes No
+    4 46 CFR Subchapters D/H/I/IA/K/L/M/R/T/U, Uninspected, etc.
+    5 D8/9 TBSIP not applicable.
+    6 Description of duties including routine maintenance, operational evolutions, and emergencies.
+    Suggested Template: Minimum Safe Manning Proposal
+    To Supplement the Application for Inspection of U.S. Vessel [CG-3 752/3752A]
+    (Rev. 06-17) Vessel Name:
+    IMO#/O.N. /CG# :
+    Page 3 of 8 5. Shipboard Equipment
+        5.1 Radiocommunications
+            5.1.1 GMDSS: Yes No
+            5.1.2 At-sea maintenance capability? Yes No
+            5.1.2 Radio Equipment by Sea Area (circle one): N/A A1 A2 A3 A47
+            5.1.3 Number of GMDSS Operators:8
+        5.2 Navigation Equipment
+            5.2.1 ECDIS: Yes No
+            5.2.2 Radar:9 Yes No
+            5.2.3 ARPA:10 Yes No
+            5.2.4 Dynamic Positioning System: Yes (Class: ) No
+        5.3 Lifesaving Equipment
+            5.3.1 Total number of persons for which lifesaving appliances are provided:
+            5.3.2 Lifeboats: Quantity: Capacity:
+            5.3.3 Rescue Boats/Platforms: Quantity: Capacity:
+            5.3.4 Inflatable Liferafts: Quantity: Capacity:
+            5.3.4 Life Floats/Buoyant Apparatus: Quantity: Capacity:
+            5.3.5 Inflatable Buoyant Apparatus: Quantify: Capacity:
+            5.3.6 Number of Lifeboatmen:11
+        5.4 Accommodation
+            5.4.1 Stability Letter - maximum number of persons (passengers and crew):
+            5.4.2 Maximum number of crew berths available:
+            5.4.3 Marine Sanitation Device – maximum number of persons rated for:
+        5.5 Vessel Combinations
+            5.5.1 Combination vessel (e.g., Articulated Tug/Barge)? Yes No
+            5.5.2 Name of other vessel: IMO#, O.N. or CG#:
+            5.5.3 Indicate if “permissive crewing” or “conditional occupancy” is requested:12
+            5.5.4 If yes, number of persons:
+    7 See Block 10.6 for vessels operating in Polar Waters.
+    8 See MSM III.B3.L. All deck officers, including the master, on seagoing vessels with GMDSS unless excluded by 46 CFR 15.105(f) & (g).
+    9 See MSM III.B3.J.
+    10 See MSM III.B3.K.
+    11 See Sample Manning Scales in MSM III.B2.
+    12 See MSM II.A3 for “permissive crewing” and CG- CVC Policy Letter 16-04 for “conditional occupancy.”
+    Suggested Template: Minimum Safe Manning Proposal
+    To Supplement the Application for Inspection of U.S. Vessel [CG-3 752/3752A]
+    (Rev. 06-17) Vessel Name:
+    IMO#/O.N. /CG# :
+    Page 4 of 8 6. Watch System
+        6.1 Will a watch system be adopted ?13 Yes No
+        6.2 If ‘yes,’ which watch system will be adopted? Two Three N/A
+        6.3 Is the vessel operating with a Periodically Unattended Machinery Space? Yes (See Block 7.10) No
+        6.4 Will the Master undertake a navigational watch? Yes No
+        6.5 Will the Chief Engineer undertake a watch? Yes No
+7.  Additional Engineering Details
+    7.1 Novel System(s) Yes No
+    7.2 Explain (include attachment if necessary) :
+    7.3 Total internal combustion engine prime movers:
+    7.4 Total electrical generators (SSDG):
+    7.5 Equipment powered by prime movers identified in 7.3 (not including SSDGs), incl. HP or kW (include attachment if necessary) :
+    7.6 Identify main control location (Bridge, ECR, etc.) :
+    7.7 Approved automation test procedures? Yes No
+    7.8 Qualitative failure analysis approved? Yes No
+    7.9 Design verification procedure/testing complete? Yes No
+    7.10 Periodically Unattended Machinery Space (PUMS)? Yes No
+    7.11 Minimally Attended Machinery Space (MAMS)? Yes No
+    7.12 MSP Reflag: Interim acceptance of PUMS/MAMS?14 Yes No N/A
+        7.12.1 If yes, identify gaps: (Attach list of necessary)
+    7.13 Planned maintenance program (describe) (include attachment if necessary) :
+    7.14 Reduced manning requested? Yes No
+    7.15 Describe arrangements for reductions based on limited route and availability of shore-based maintenance support (include attachment if necessary) :
+    7.16 Who is responsible for bunkering/fueling:
+    13 See MSM III.B5.A.
+    14 See NVIC 01 -13 CH -1, Enclosure (2)
+    Suggested Template: Minimum Safe Manning Proposal
+    To Supplement the Application for Inspection of U.S. Vessel [CG-3 752/3752A]
+    (Rev. 06-17) Vessel Name:
+    IMO#/O.N. /CG# :
+    Page 5 of 8 8. Cargo & Passenger Operations
+        8.1 Circle one: Cargo Vessel (incl. OSV & Towing) Oil Tanker Chemical Tanker Liquefied Gas Carrier Passenger Vessel Other:
+        8.2 Type of cargo to be carried?
+        8.3 Dangerous Goods? Yes No
+        8.4 What cargo handling gear is fitted?
+        8.5 Who operates it?
+        8.6 Who undertakes hold/tank cleaning?
+        8.7 Who secures the cargo?
+        8.8 Number of Tankerman (PICs) for manned tank vessel or tankship:
+        8.9 Number of decks with passenger access:
+        8.10 Other specialized equipment, explain (e.g., ROV, offshore crane, etc.):
+9.  Mooring Operations
+    9.1 Number of crew required for mooring operations:
+    9.2 Are constant/self tension winches fitted? Yes No
+    9.3 Number of bow thrusters?
+    9.4 Number of stern thrusters?
+    9.5 Number of tugs required for mooring operations?
+10. Additional Manning Factors
+    10.1 Who is responsible for onboard medical care?
+    10.2 Is the Vessel Security Officer identified in the Security Plan by position ?15 Yes No
+    10.3 Is there a Stewards Department? Yes No
+    10.4 If yes, describe?
+    10.5 If no, who is responsible for cooking/catering duties?
+    10.6 Operations in Polar Waters?16 Yes No
+    10.7 Polar Waters Operating Manual (PWOM)? Yes No
+    10.8 Documentary Evident of Polar Training:
+    10.9 Voluntary Maritime Labour Convention (MLC)?17 Yes No
+    15 See MSM III.B3.M.
+    16 See CG- OES Policy Letter 01 -16.
+    17 See Navigation and Vessel Inspection Circular (NVIC) No. 02 -13.
+    Suggested Template: Minimum Safe Manning Proposal
+    To Supplement the Application for Inspection of U.S. Vessel [CG-3 752/3752A]
+    (Rev. 06-17) Vessel Name:
+    IMO#/O.N. /CG# :
+    Page 6 of 8 11. Safe Manning Worksheet
+    The established manning level must not be less than the minimums stipulated by law or regulation. Fill out Section 12 (Alternate Manning Worksheet) if multiple manning levels are requested based on service, route or voyage length .18
+    Trading Area/Route: (Oceans, Coastwise, etc.) Voyage Length: (Unl, 600 NM, 12 hrs , etc.)
+    Grade Endorsement(s):
+    -Detail any additional endorsements (e.g., Towing )19
+    -Specify any trade restricted endorsements (e.g., OSV) Number of Persons STCW Reg.20
+```
+11.1 Deck Department
+Master MSM II I.B3.C
+Chief Mate MSM III.B3.D
+Second Mate MSM III.B3.D
+Third Mate(s) MSM III.B3.D
+Mate(s) MSM III.B3.D
+Master FCP(s)21 MSM III.B3.I
+Mate FCP(s)21 MSM III.B3.I
+FCP(s)21 MSM III.B3.I
+Able Seamen MSM III.B4.D
+Ordinary Seamen MSM III.B4.D
+Deckhands MSM III.B4.D
+Maintenance -Persons MSM III.B4.F
+
+11.2 Engine Department
+Chief Engineer MSM III.B3.E
+1st A/E21 MSM III.B3.F
+2nd A/E21 MSM III.B3.F
+3rd A/E(s)21 MSM III.B3.F
+Engineer(s) MSM III.B3.F
+DDE21 MSM III.C2.B
+QMED21 MSM III.B4.E
+Maintenance -Persons MSM III.B4.F
+
+18 Section 11 should reflect the highest, most stringent manning level based on service, route or voyage length.
+19 See Block 11A.1.
+20 Indicate appropriate STCW Reg. under which the crew is qualified to serve in the capacity assigned, as applicable; e.g. Master – STCW II/2 , Chief Engineer – STCW III/2, RFPNW – STCW II/4, etc. See Block 11A.3.
+21 FCP = First Class Pilot; A/E = Assistant Engineer; DDE = Designated Duty Engineer , QMED = Qualified Member of the Engine Department.
+Suggested Template: Minimum Safe Manning Proposal
+To Supplement the Application for Inspection of U.S. Vessel [CG-3 752/3752A]
+(Rev. 06-1 7) Vessel Name:
+IMO#/O.N. /CG# :
+Page 7 of 8
+
+11.3 Maintenance Department (Optional)
+Maintenance-Persons22 MSM III.B4.F
+
+11.4 Radio Department (Optional)
+Radio Officer/GMDSS At -Sea Maintainer23
+
+11.5 Others (Explain)
+
+11.6 Number of Crew (11.1 + 11.2 + 11.3 + 11.4 + 11.5) =
+
+11.7 Number of Passengers:
+
+11.8 Number of Other Persons in Crew (incl. Stewards Department) :
+
+11.9 Number of Persons in Addition to Crew:
+
+11.10 Number of Offshore Workers:
+
+11.11 Number of Industrial Personnel:
+
+11.12 Number of Scientific Personnel:
+
+11.13 Total Persons Allowed24 (11.6 + 11.7 + 11.8 + 11.9 + 11.10 + 11.11 + 11.12) =
+
+11A. Index of additional National Endorsements and STCW Endorsement Regulations
+11A.1 Additional National Endorsements: 11A.3 STCW Endorsements:
+Towing/TOAR
+High -Speed Craft (HSC)
+Offshore Installation Manager (OIM)
+Ballast Control Operator (BCO)
+Barge Supervisor (BS)
+Tankerman MSM III.B3.G
+MSM I II.B2.T
+MSM III.B2.O
+MSM III.B2.O
+MSM III.B2.O
+46 CFR 15.860 Reg. II/1 – Officer in Charge of a Navigational Watch (OICNW)
+Reg. II/2 – Master, Chief Mate
+Reg. II/3 – Master & OICNW < 500 GT ITC Near Coastal
+Reg. II/4 – Rating Forming Part of a Navigational Watch
+Reg. II/5 – Able Seafarer -Deck
+Reg. III/1 – Officer in charge of an Engineering Watch (OICEW)
+750 kW (1,000 HP) or More
+Reg. III/2 – Chief Engineer/Second Engineer Officer of 3,000 kW (4,000 HP) or More
+Reg. III/3 – Chief Engineer/Second Engineer Officer between 750 kW (1,000HP) and 3,000 kW (4,000 HP)
+Reg. III/4 – Rating Forming Part of an Engineering Watch (RFPEW)
+Reg. III/5 – Able Seafarer Engine 11A.2 Additional STCW Endorsements:
+Reg. IV/2 – GMDSS Operator or At-Sea Maintainer
+Reg. V/1-1 – Basic or Advanced Oil & Chemical Tanker Cargo Operation
+Reg. V/1-2 – Basic or Advanced Oil & Chemical Tanker Cargo Operation
+*Re
+v. V/2 – Passenger Vessel*25
+Re
+g. VI – Survival Craft, Rescue Boat, Fast Rescue Boat
+
+22 Include Maintenance Department operating manual or Safety Management System excerpt.
+23 In lieu of GMDSS Radio Operators, see Block 5.1.3. For detailed discussion see MSM III.B3.L.
+24 Should not exceed Blocks 5.3.1 & 5.4.3.
+25 Documentary evidence, see 46 CFR 15.1103(f) .
+Suggested Template: Minimum Safe Manning Proposal
+To Supplement the Application for Inspection of U.S. Vessel [CG-3 752/3752A]
+(Rev. 06-1 7) Vessel Name:
+IMO#/O.N. /CG# :
+Page 8 of 8
+
+12. Alternate Manning Worksheet
+The established manning level must not be less than the minimums stipulated by law or regulation. Explain any deviations or reductions in manning levels based on service, route or voyage length.
+Service: Grade:
+-Identify grade (e.g., Mate, Asst. Engineer, etc.) Number of Persons STCW Reg.26 Route:
+Voyage Length:
+(Unl, 600 NM, 12 hrs, etc.)
+
+13. U.S. Coast Guard Comments – Official Use Only
+13.1 Marine Inspector (Name) :
+13.2 Reviewed By (Supervisor):
+13.3 Date of Review (DD/MMM/YYYY):
+13.4 MISLE Activity Number:
+13.5 For vessels with ISM Code certification (Block 3.1.13) ;
+Verify Company procedure to ensure that the vessel is manned with qualified, certificated and medically fit seafarers under ISM Code C lause 6.2.
+Verify Company procedure, plans and instructions for key shipboard operations, including that they are assigned to qualified personnel u nder ISM Code Clause 7.
+13.6 For vessels under the TSMS option (Block 3.1.13);
+Verify Company Employment Procedures under 46 CFR 138.220(b).
+Verify Company procedures for Compliance with Subchapter M personnel requirements under 46 CFR 138.220(d).
+13.7 Comments:
+26 Indicate appropriate STCW Reg. under which the crew is qualified to serve in the capacity assigned, as applicable;
+e.g. Master – STCW II/2, Chief Engineer – STCW III/2, RFPNW – STCW II/4, etc. See Section 11A.3 .
+MPS -WI-CVC -02 (01)
+
+Page 1 of 8 Mission Management System (MMS)
+Work Instruction
+
+OBJECTIVE:
+
+The objective of this work instruction is to provide a uniform procedure for the assignment of U.S. vessel manning in accordance with Sections B1.C - F of Ref. (a) , which can be incorporated into a field -level Mission M anagement System (MMS). This instruction is not intended to provide detailed instruction on how to use the Marine Information for Saf ety and Law Enforcement (MISLE) .
+
+GOALS AND PURPOSE:
+
+This work instr uction details the procedure for the assignment of manning for U.S. vessels , including the administrative processing of associated documentation in accordance with Ref. (a) .
+
+NOTE 1: For the purposes of this work instruction, the generic use of the term “safe manning documentation” refers to C ertificate of Inspection (COI) , Safe Manning Document (SMD) and Safe M anning L etter (SML) as applicable.
+
+REFERENCES:
+
+a. Marine Safety Manual Volume III, Marine Industry Personnel: COMDTINST M16000.8B
+b. Principles of Minimum Safe Manning, IMO R esolution A.1047(27) , as amended
+c. MISLE 5.0 Vessel User Guide
+d. MISLE Vessel Inspection User Guide
+e. Marine Safety Manual Volume II, Materiel Inspection: COMDTINST M16000.7B
+
+INDEX OF RELEVANT DOCUMENTS:
+
+a. 46 U.S.C. Chapter F – Manning of Vessels
+b. 46 CFR Chapter I, Subchapter B – Merchant Marine Officers and Seamen
+c. International Convention for the Safety of Life at Sea (SOLAS), 1974, as amended
+d. International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 1978, as amended
+
+MPS -WI-CVC -02 (01)
+
+Page 2 of 8
+TERMS OF REFERENCE:
+
+a. CFR – Code of Federal Regulations
+b. CG-CVC – Office of Commercial Vessel Compliance
+c. CG-CVC- 1 – Domestic Vessel Compliance Division
+d. COD – Certificate of Documentation
+e. COI – Certificate of Inspection , Form CG -841
+f. COTP – Captain of the Port
+g. CSR – Continuous Synopsis Record
+h. DOC – Document of Compliance (ISM Code)
+i. GMDSS – Global Maritime Distress and Safety System
+j. HSC – High Speed Craft
+k. IMO – International Maritime Organization
+l. IO – U.S. Coast Guard Investigating Officer
+m. ISM – International Safety Management Code
+n. MI – U.S. Coast Guard Marine Inspector
+o. MISLE – Marine Information for Safety and Law Enforcement (MISLE)
+p. MMS – Mission Management System
+q. MSM – Marine Safety Manual
+r. OCMI – Officer in Charge, Marine Inspection
+s. PTP – Permit to Proceed to Another Port for Repairs (PTP), Form CG -948.
+t. SMC – Safety Management Certificate (ISM Code)
+u. SMD – Safe Manning Document
+v. SML – Safe Manning Letter
+w. SOLAS – International Convention for the Safety of Life at Sea
+x. STCW – International Convention on Standards of Training, Certification and Watchkeeping for S eafarers
+y. U.S.C. – United States Code
+z. USCG – United States Coast Guard
+aa. VCP – Vessel Critical Profile (MISLE)
+
+BACKGROUND:
+
+Under 33 CFR 1.01- 20, the OCMI is responsible for the enforcement of vessel inspection, navigation, and seamen's laws within a specific zone. In this capacity, the OCMI is responsible for establishing manning levels for various types of vessels. The Certificate of Inspection (COI), Form CG -841, states the minimum number of credentialed officers and crewmembers necessary for the safe operation of inspected vessels, as required by 46 U.S.C. 8101 and 46 CFR 15.501. Also, many uninspected U.S. merchant vessels are subject to the manning requirements of 46 U.S.C. 8103, 8104, 8304, 8701- 8703, 8903 and 8904. The International Convention for the Safet y of Life at Sea (SOLAS), Chapter V, Regulation 14 requires each vessel to which SOLAS Chapter I applies to be issued a "Safe Manning Document."
+
+MPS -WI-CVC -02 (01)
+
+Page 3 of 8
+AUTHORITY:
+
+The general regulations for manning of vessels are contained in 46 CFR, Part 15. Requirements concerning certificated lifeboatmen, fire patrolmen, and other vessel specific manning standards are detailed in the parts of the regulations dealing with the inspection of that particular type of vessel. The general manning and crewing requirements for vessels and facilities operating on the U.S. Outer Continental Shelf are contained in Part 141 of Title 33 (Subchapter N, Outer Continental Shelf Activities).
+
+AUDIENCE:
+
+Primary: Marine Inspectors (MI); Enlisted Assistant Marine Inspectors (EAMI); Investigating Officers (IO)
+Secondary: Officers in Charge, Marine Inspection (OCMI); Prevention Department Heads (PDH); Chiefs, Inspection Division (CID); Chiefs Investigations Division (CINV); Marine Inspection Training Officers (MITO)
+
+DISCLAIMER:
+
+This work instruction cannot address every scenario or procedure USCG personnel may encounter, nor is every example applicable depending on circumstance. Some situations will result in the need to deviate from guidance to accomplish the mission based on the totality of the circumstance and individual judgment. Personnel may have to deviate, as necessary, to complete the task with greater sa fety, effectiveness, or efficiency as judgment dictates. Personnel must temper the decision to deviate with maturity and a complete understanding of the mission, situational awareness, scope of practice capabilities, and available resources. Consult with the unit chain of command when feasible and practical.
+
+MI NOT LIMITED:
+
+The MI has a duty to act when a perceived unsafe condition or behavior may result in an inherently dangerous event. The MI should work with the Master to address immediate corrective action. Nothing in this instructio n should be construed as limiting the MI from making such tests or inspections as he/she deems necessary to be assured of the safety and seaw orthiness of the vessel. The MI consults with the Master of the vessel before requiring a drill or other test or procedure to be conducted to minimize disruption of operations and risk to life or property.
+
+MPS -WI-CVC -02 (01)
+
+Page 4 of 8
+GENERAL PROCEDURE :
+
+*As warranted.
+
+DETAILED PROCEDURE:
+```1.  ASSESSMENT & PROPOSAL
+
+1.1 To supplement a manning request or when alternatives to the sample manning scales are sought, the cognizant OCMI should request the company responsible for the operation of the vessel to prepare and submit its proposal for the mini mum safe manning of that vessel in accordance with Section B1. D of Ref. (a).
+
+1.2 In preparing a proposal for the minimum safe manning of a vessel engaged on an international voyage, the company should apply the principles, recommendations and guidelines contained in Ref. (b).
+
+1.3 A Suggested Template: Minimum Safe Manning Proposal is provided in the Annex of Ref. (a), which may be used to prepare and submit a minimum safe manning proposal.
+
+2.  PROPOSAL EVALUATION & APPROVAL
+
+2.1 In addition to statutory and regulatory requirements, the OCMI should consider the factors outlined in Section B1.C of Ref. (a). The established manning level must not be less than the minimums stipulated by law or regulation.
+
+2.2 The OCMI should evaluate the company’s minimum safe manning proposal to ensure that the provisions outlined in Section B1.E of Ref. (a) are adequately addressed.
+
+2.3 The sample manning sales and tables in Chapters B2 & B7 of Ref. (a) provide guidance on the numbers of credentialed deck and engineer officers, and ratings that may be considered appropriate for different sizes of vessels (tonnage), trading areas, and aggregate propulsion power.
+
+2.4 The proposal and resulting determination should be thoroughly documented in MISL E.
+
+2.5 If the company’s proposal is determined to be sufficient, proceed to Section 3 – Administrative Processing.
+
+2.6 If the company’s proposal is determined to be insufficient, the OCMI should respond providing justification and outline manning levels that are considered acceptable. This may include requesting an amended minimum safe manning proposal. This justification and any related correspondence should be documented in MISLE.
+
+2.7 In accordance with 46 CFR 1.03-20, any person directly affected by a decision or action of an OCMI may, after requesting reconsideration of the decision or action by the cognizant OCMI, make a formal appeal of that decision or action, via the office of the cognizant OCMI, to the District Commander of the district in which the office of the cognizant OCMI is located, or in the case of the Officer in Charge, Activities Europe, to the Atlantic Area Commander, in accordance with the procedures contained in 46 CFR 1.03–15.
+
+2.8 Contact the Cognizant District for information regarding waterway navigability determinations and designations.
+
+3.  ADMINISTRATIVE PROCESSING
+
+3.1 Preparing Safe Manning Documentation
+
+3.1.1 Inspected Vessels (COI)
+
+3.1.1.1 Ref. (c) [ MISLE 5.0 Vessels User Guide ] may be used when populating manning details in MISLE. Specifically: Section 4.6 – Manning Requirements; Section 4.7 – Additional Manning Requirements; and Secti on 4.8 – Routes and Conditions.
+
+3.1.1.2 Ref. (d) [ MISLE Vessel Inspection User Guide ] may be used for generating the COI in MISLE. Specifically: Section 2 – Navigate to Vessel Inspection Activity; Section 4 – Create/Edit Domestic Vessel Inspections; and Appendix F – Certificate of Inspection.
+
+3.1.2 Uninspected Vessels (SMD or SML)
+
+3.1.2.1 The SMD and SML should be drafted in accordance with the model templates in the Annex of Ref. (a). Working templa tes are available in CG Portal; Model Formats – Safe Manning Docs (SMD/SML)
+
+3.2 Formatting Safe Manning Documentation
+
+3.2.1 Safe manning documentation should be formatted with the most stringent manning level in the manning block. Record alternate manning reductions based on length of voyage, hours of operation, vessel service, and geographic limitation in the “Route and Conditions of Operations.”
+
+3.2.2 Format safe manning documentation for Credentialed Officers, including Mates and Engineers, in accordance with Chapter B3 of Ref. (a).
+
+3.2.3 Format safe manning documentation for GMDSS Operators in accordance with Section B3.L of Ref. (a).
+
+3.2.4 Format safe manning documentation for Credentialed Ratings, Non- Credentialed Crew, Maintenance -Persons and Maintenance Department in accordance with Chapter B4 of Ref. (a).
+
+3.2.5 Format safe manning documentation for HSC Type Rating in accordance with Section B2.T of Ref. (a).
+
+3.2.6 Format safe manning documentation for Certified Lifeboatmen based on the specific lifesaving equipment carriage requirements for the vessel, Chapter B2 of Ref. (a).
+
+NOTE 2: Where the “Crew Members” field appears in the manning block on the COI, it is intended to be the summation of the minimum required crew and not an individual or independent manning requirement. A future MISLE enhancement will eliminate this field. Any miss -assignment of an individual or independent manning requirement under the “Crew Members” field should be reconciled under the appropriate crew classification and amended.
+
+NOTE 3: A future MISLE enhancement will eliminate the “Non Licensed Engineer De[pts]” field. Any miss -assignment of an individual or independent manning requirement under this field should be reconciled under the appropriate crew classification and amended.
+
+3.3 Review & Approval
+
+3.3.1 The completed drafts should be routed to the OC MI, or delegate, via the unit chain of command.
+
+3.3.2 The routed package should include:
+    Minimum safe manning proposal with any attachments;
+    VCP;
+    MISLE activity summary;
+    Any related correspondence; and,
+    Draft manning documentation.
+
+3.3.3 Quality control reviewers should:
+    Verify that COI manning entries conform to Section A.3.H of Ref. (e);
+    Verify that manning requirements correspond with vessel route, particulars, and service;
+    Verify that any safe manning endorsements correspond with the Common COI/ SMD Sample Endorsements in the Annex of Ref. (a);
+    Verify that vessel particulars and owner/operator details are properly stated by comparing to VCP, COD, CSR, SMC/DOC, convention certificates and classification documents, as applicable;
+    Review the minimum safe manning proposal;
+    Verify safe manning documentation formatting in accordance with Ref. (a);
+    Review the associated MISLE activity and confirm that the minimum safe manning proposal is uploaded to the associated MISLE activity under “Documents.” Ref. (d) [ MISLE Vessel Inspection User Guide ] may be used for managing documents in MISLE. Specifically: Section 4.12 – Documents; and,
+    Ensure that the total number of persons allowed does not exceed the total number of persons for which lifesaving appliances are provided. Verify agreement with any applicable SOLAS safety equipment certificates.
+    Verify that the sum of the required manning, passengers, other persons in crew, persons in addition to crew, offshore workers, industrial and scientific personnel equals the total number of persons allowed. This includes any alternate manning reductions recorded in the “Route and Conditions of Operations.”
+
+3.3.4 Safe manning documentation should only be signed by the OCMI or authorized delegate.
+
+3.3.5 Signed safe manning documentation should be uploaded to MISLE under the associated activity. Ref. (d) [ MISLE Vessel Inspection User Guide ] may be used for managing documents in MISLE. Specifically: Section 4.12 – Documents
+
+3.3.6 Deliver the original safe manning documentation to the appropriate vessel representative. Additionally, the Master’s Field Guide to U.S. Vessel Manning, provided in the Annex of Ref. (a), should be distributed as an accompaniment.
+4. OVERSIGHT
+
+4.1 During inspection and investigation activities, Coast Guard personnel shall verify compliance with the manning level specified on the safe manning documentation, as well as with any other applicable manning regulations (i.e., watchkeeping, work hour provisions and rest periods, and shipboard maintenance) in accordance with Sections B1.F, B1.K, B5.F & B6.A of Ref. (a).
+
+4.1.1 Specifically, Section B1.F of Ref. (a) outlines specific instructions regarding the oversight of safe manning, including examples of clear grounds, expanded inspections and control procedures/deficiencies.
+
+4.1.2 Oversight may also arise from investigations into vessel casualties and reports by vessel crewmembers. While conducting marine casualty investigations, IOs should actively check for causal factors stemming from safe manning as well as with any other applicable manning regulations (i.e., watchkeeping, work hour provisions and rest periods, and shipboard maintenance). Any potential SMS deficiencies identified during a post-casualty investigation shall be immediately reported to the unit’s Inspections Division for potential follow-up actions.
+
+MPS-WI-CVC-02 (01)
+
+Page 8 of 8 NOTE 4: Reference Section A.6.B of Ref. (e) for specific instructions regarding the issuance of the Permit to Proceed to Another Port for Repairs (PTP), Form CG-948. In the case that the COI for a manned inspected vessel is withdrawn and replaced with a PTP, the OCMI should consider issuing a SMD or SML, as appropriate. A SMD should be issued in the case that the vessel is subject to Regulation V/14.2 of SOLAS.
+
+4.2 A Safe Manning Verification check-sheet, which may be used as a guide for oversight activities, is provided in the Annex of Ref. (a).
+
+5. AMENDMENTS
+
+5.1 Requests for amendments to safe manning documentation should be processed in accordance with Sections 1 – 3 of this work instruction.
+
+5.1.1 Title 46 CFR 15.505 requires that all requests for changes in manning be made to the OCMI who last issued the COI1, unless the request is made in conjunction with an inspection for certification, in which case the request should be addressed to the OCMI conducting the inspection.
+
+5.2 Ref. (d) [MISLE Vessel Inspection User Guide] may be used for generating the COI amendment in MISLE. Specifically: Section 2 – Navigate to Vessel Inspection Activity; Section 4 – Create/Edit Domestic Vessel Inspections; and Appendix F – Certificate of Inspection.
+
+5.3 Refer to Chapter B6 of Ref. (a) for machinery space attendance and/or reduced manning requests based on automated features.
+
+5.4 Refer to Sections B1.K.3, B5.F.3 and B6.A.5 of Ref. (a) for increases in manning levels. Involuntary increases in vessel manning must be substantiated by objective evidence and should be processed in accordance with Sections 1 – 3 of this work instruction.
+
+NOTE 5: Reference Section B1.F of Ref. (a) for specific instructions regarding safe manning, including examples of clear grounds, expanded inspections and control procedures/deficiencies.
+
+############
+
+SUGGESTIONS / CHANGES:
+
+CG-CVC-1 will maintain this work instruction. Direct any suggested improvements or comments to CG-CVC-1@uscg.mil by filing a Corrective Action Request (CAR).
+
+ATTACHMENT(S):
+
+None.
+
+1 Includes Safe Manning Document (SMD) and Safe Manning Letter (SML)
+
+Machinery Space Attendance, 46 CFR 15.715. Vessels authorized to operate with a minimally attended or periodically unattended machinery space (MAMS/PUMS) will have a “Conditions of Operation” endorsement on the COI or annotation on the SMD. Refer to MSM III.B6.A for details.
+
+Gross Tonnage Route Length of Voyage Watch System General
+<100 GRT Domestic - Any <12 Hours 1
+<100 GRT Domestic - Any >12 Hours 2
+>100 GRT Rivers, L/B/S <12 Hours 1
+>100 GRT Rivers, L/B/S >12 Hours 2
+>100 GRT Oceans/Great Lakes Any Length 3
+Towing Vessels
+<100 GRT Domestic - Any <12 Hours 1
+<100 GRT Domestic - Any >12 Hours 2
+<200 GRT Any Any Length 2
+>200 GRT Rivers, L/B/S Any Length 2
+>200 GRT Oceans/Great Lakes <600 Miles 2
+>200 GRT Oceans/Great Lakes >600 Miles 3
+Offshore Supply Vessels
+<100 GRT Domestic - Any <12 Hours 1
+<100 GRT Domestic - Any >12 Hours 2
+>100 GRT Any <600 Miles 2
+>100 GRT Any >600 Miles 3
+
+See 46 U.S.C. 8104 & 46 CFR 15.705 for Commercial Fishing, Fish Processing and Fish Tender Vessels. Commandant
+United States Coast Guard
+
+Master’s Field Guide: U.S. Vessel Manning
+
+An accompaniment to MSM Volume III: Marine Industry Personnel, COMDTINST M16000.8B Change 2.
+Introduction
+“The Company should ensure that each ship is manned with qualified, certificated and medically fit seafarers in accordance with national and international requirements.” –ISM Code Part A/6.2
+It is the responsibility of the owner, managing operator, master, or person in charge to ensure that their vessels are operated in accordance with the Safe Manning, Working Hours and Watchkeeping requirements of the applicable navigation and shipping laws & regulations. This includes the obligation to make certain that their vessels are crewed with personnel of appropriate grades who have been properly trained and certificated.
+The purpose of this Master’s Field Guide is to provide a reference to the laws, regulations & policy pertaining to U.S. vessel manning, credentials, watches, working hours and the shipment & discharge of mariners. It is not an all-inclusive guideline or policy. Credential images not to scale.
+
+Global Maritime Distress & Safety System (GMDSS) Radio Operator, 46 CFR 15.817.
+• The controlling authority for radio operators & installations is generally a function of the FCC.
+• All deck officers, including the master, on seagoing vessels equipped with a GMDSS, except those vessels listed in 46 CFR 15.105(f) & (g), must provide evidence of a valid STCW endorsement as GMDSS radio operator.
+• The requirement for such persons shall be noted on the vessel's COI or SMD.
+• Effective March 25, 2008, FCC GMDSS licenses are issued for the holder's lifetime.
+Refer to MSM III.B3.L for details.
+IV. Working Hours
+In addition to prescribing watch requirements, 46 U.S.C. 8104 sets limitations on working hours, prescribes certain rest periods, and prohibits unnecessary work on Sundays & certain holidays when the vessel is in a safe harbor. It is the responsibility of the master or person in charge to ensure that these limitations are met. Vessels subject to STCW have additional work hour limits & schedule/ recordkeeping requirements. The requirements for rest periods need not be maintained in the case of an emergency or in other overriding operational conditions. Refer to MSM III.B5 for details.
+V. Watches
+The master is responsible for ensuring that adequate watches are established for the both at-sea and in-port operations that necessitate watchkeeping personnel, including those whose duties involve designated safety, security and prevention of pollution functions. In exercising this responsibility, the master must take into account applicable statutory and regulatory provisions and international conventions. Refer to MSM III.B5 for details.
+
+############
+
+Transportation Worker Identification Credential (TWIC), 46 CFR 10.203.
+All mariners serving on vessels with a U.S. Coast Guard approved security plan, with secure areas, are required to hold a valid TWIC. Refer to MSM III.B3.P for details.
+Detach, 2-Sided Print, Flip on Short Edge in Landscape
+Specific inquiries should be addressed to your local Officer in Charge, Marine Inspection (OCMI).
+Rest hour violations should be accompanied by documented corrective action, including compensatory rest period records. Master’s are reminded to reference the company safety management system (SMS), as applicable, for vessel specific information.
+I. Vessel Manning
+Certificate of Inspection (COI), 46 CFR 15.105.
+The COI serves as the Safe Manning Document (SMD) for inspected U.S. vessels.
+
+Uninspected vessels operating on an international voyage may be issued a SM D in accordance with SOLAS Chapter V/14.
+ Review the COI/SMD for validity and accuracy.
+ Ensure that the number & composition of crew conforms to the COI/SMD.
+ Comply with the COI/SMD routes & conditions.
+Except as provided in 46 CFR 15.725, no vessel may be navigated unless it has in its service and onboard the crew complement required by the COI (46 CFR 15.515).
+Crew Vacancies & Sailing Short, 46 CFR 15.725.
+In certain cases, 46 U.S.C. 8101 permits a vessel to be navigated without all of the required positions being filled if the master determines that the vessel is sufficiently manned for the voyage. The master is required to report the shortage and explain the cause of it, in writing, to the nearest OCMI. Refer to MSM III.B1.I for details.
+II. Shipment & Discharge
+A person may not employ or engage an individual, and an individual may not serve, in a position for which a TWIC and/or MMC is required by law or regulation, unless the individual holds all required credentials authorizing service in that capacity and the individual serves within any restrictions placed on the credential (46 CFR 15.401). The original MMC, along with a valid medical certificate & TWIC must be presented to the master at the time of employment or before signing Articles. The MMC & TWIC should be verified as valid for the period of employment. If a medical certificate
+
+expires during a voyage, it will remain valid until the next U.S. port of call, provided that the period after expiration does not exceed 90 days (46 CFR
+15.1103(h)(3)). See also;
+
+Foreign Crewmembers  MSM III.B1.H & I
+Shipboard Familiarization  MSM III B5
+Articles  MSM III.C1.E
+Discharges  MSM III.C1.F
+Official Logbook  MSM III.C1.G
+Display of Credentials  MSM III Annex -9
+
+III. Credentials
+
+NOTE: After 1 January 2017 *, all mariners serving on vessels subject to STCW must meet the STCW Convention standards, including the 2010 Amendments.
+
+The personal information on the data page includes all data elements required by the Seafarers’ Identify Documents Conventions (Revised) (ILO- 185). The MMC is not valid without signature of the holder.
+Verify that all crew members hold signed, appropriate and valid credentials for the position in which they are engaged.
+This is an example of the endorsement data page that will be printed on a MMC. Each page contains the reference number of the mariner and the serial number of the booklet. The MMC contains both domestic & STCW endorsements.
+
+Medical Certificate, 46 CFR 10.301. Each medical certificate will have three expiration dates; STCW, First Class Pilotage & national. A valid medical certificate must be carried when serving under the authority of a MMC. The medical certificate will note any operational limitations on the mariner's authority to serve. See MSM III ANNEX -11 for details. The COI states the minimum numbers and categories of credentialed officers and crewmembers necessary for the safe operation of inspected vessels. It also lists maximum number of passengers and total persons that may be carried. The period of validity is stated on the certificate.
+
+Merchant Marine Credential (MMC), 46 CFR 10.201 - 205.
+Route
+Basic Training
+Tonnage
+Lifeboatman
+Grade Level /Capacity
+Security Training
+Propulsion Power
+Pilotage
+Propulsion Mode
+Radar Observer
+Trade Restrictions
+ARPA
+Limitations
+GMDSS
+Citizenship
+Tankerman
+Food Handler
+Towing/TOAR
+Crisis Management & Human Behavior (Passengers)
+Consider the following, not all inclusive list, when verifying crew credentials & training:
+Safe Manning Verification Check-sheet [MSM III.B1.F] (Not all inclusive).
+Section I: Vessel Particulars (From COI or SMD/SML.)
+Vessel Name:
+IMO Number: U.S. O.N. / State Number:
+Gross Tonnage: (GRT) (GT ITC)
+Main Propulsion: (Mode) Aggregate Power: (hp) (kW)
+Vessel Service: Trading Area /Route & Conditions:
+Machinery Space Attendance (MAMS/PUMS): [MSM III.B6]
+Watch System (Two/Three Watch): [MSM III.B5.A.5]
+
+Section II: Credential Verification (Cross-reference crew list and MMCs with COI or SMD/SML to verify compliance with minimum safe manning.)
+Verify authenticity[1], validity, and service within any endorsement restrictions of:
+ MMC National Endorsement[2]: 1) Route; 2) Tonnage[3]; 3) Grade; 4) Trade Restriction; 5) Propulsion Mode; 6) Propulsion Power
+ Review COI/SMD Routes & Conditions of Operations Endorsements…...…..[MSM III Annex -18]
+ Persons other than the Minimum Operating Crew / Riding Gangs .....[MSM II.A.3.H.2 / MSM III.B1.H & J.6 ]
+ Verify MMC for all crew > 100 GRT unless excepted (Deckhands, B4.D).. ........[MSM III.B4.C.1]
+ Radar Observer…………………………………………………………… ……….. .[MSM III.B3.J]
+ ARPA…………………………………………………………………………... …..[MSM III.B3.K]
+ FCC License………………………………………………………… ………... ……[MSM III.B3.L]
+ TWIC (as applicable)…………...………………………………………….. ………[MSM III.B3.P]
+ Medical Certificate……………………………………………………….. .[MSM III.Annex -11, 12]
+ Lifeboatman (STCW VI/2)…………………………………...……… .[46 CFR 15.404(e) , (f) &(g)]
+ Stewards Department, Food Handler………………………………………….. …[MSM III.B4.B.1]
+ Maintenance Persons/Department…………………………………… ……….. ……[MSM III.B4.F]
+ MMC STCW Endorsement (as applicable):…………………….… ……….. ….[MSM III B3 & B4]
+II/1: OICNW ( >500 GT)
+II/2: Master & Chief Mate (>3,000 GT, >500 GT Seagoing)
+II/3: Master & OICNW (<500 GT Near Coastal)
+II/4: RFPNW ( >500 GT)
+III/1: OICEW ( >750 kW)
+III/2: Chief Eng & 2nd Eng [1st A/E] (>3,000 kW)
+III/3: Chief Eng & 2nd Eng [1st A/E] (750-3,000 kW)
+III/4: RFPEW ( >750 kW)
+ Basic Training (VI/1)……………………………………………….. ……………[MSM III.B4.B.1]
+ Security (STCW VI/5)…………………………………… ………………... .[MSM III.B3.M, N, O]
+
+Section III: Vessel Specific Service Requirements
+ Towing Vessel Endorsement/TOAR………………...… ……….. …………………[MSM III.B3.G]
+ Radio Officer/GMDSS (STCW IV/2)…………………………… ………... ……….[MSM III.B3.L]
+ Tankerman -PIC: (1) Dangerous Liquid and/or (2) Liquefied Gas (STCW V/1 -1 Oil & Chemical, V/1 -2 Liquefied Gas)…………………………..... [46 CFR 15.860]
+ Passenger (STCW V/2)……………………………………………………[ MSM III.B3.B & B4.B]
+ Pilotage ……………………………………………………………………………....[MSM III.B3.I]
+ High -Speed Craft Type -Rating…………………………………………...………...[MSM III.B2.T]
+ Trade Restricted MMC Endorsements…………….………………………………..[MSM III. C2.F]
+
+Section IV: Automation , Watches & Work/Rest Periods
+ COI or SMD/SML endorsed for MAMS/PUMS?........................................ .................[MSM III.B 6]
+ Verify watch schedule……………………………………. ..........................................[MSM III.B 5]
+ Review records of hours of work/rest……………………………………. ..................[MSM III.B 5]
+ PSTP[4] Approved by USCG (or ACS for ACP/MSP)…………………. …………....[MSM III.B6]
+ Periodic (i.e., annual) test records ………..…………………………………..….. [46 CFR 61.40 -6]
+1 Online MMC Verification Tool
+2 See MSM III.C2.
+3 See MSM III.B3.B. 1 & B.3
+4 Not limited to MAMS/PUMS, applies to automatically or remotely monitored or controlled systems.

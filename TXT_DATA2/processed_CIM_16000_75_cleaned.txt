@@ -1,0 +1,1832 @@
+MARINE SAFETY: CARRIAGE OF HAZARDOUS MATERIALS COMDTINST 16000.75
+
+A. INTRODUCTION
+
+The Coast Guard's concerns for hazardous materials safety include those solids, liquids, and gases (liquefied or under pressure) that are dangerous to human life and property. For purposes of hazard classification, hazardous materials are divided into three main categories: bulk liquids and liquefied gases, packaged cargoes, and bulk solids. The phrase "carried in bulk" refers to a commodity that is loaded or carried aboard a vessel without containers or labels and received and handled without mark or count.
+
+B. DEFINITIONS
+
+1.  Hazardous Materials
+
+The definition of hazardous materials depends on whether packaged or bulk cargoes are involved. In 49 CFR 171.8, a hazardous material is defined as “a substance or material that the Secretary of Transportation has determined is capable of posing an unreasonable risk to health, safety, and property when transported in commerce, and has designated as hazardous under section 5103 of Federal hazardous materials transportation law (49 U.S.C. 5103). The term includes hazardous substances, hazardous wastes, marine pollutants, elevated temperature materials, materials designated as hazardous in the Hazardous Materials Table (see 49 CFR 172.101), and materials that meet the defining criteria for hazard classes and divisions in Part 173 of Subchapter C of this Chapter.” This is a very broad definition. It includes many commodities that may not be allowed for shipment in bulk.
+
+2.  Bulk Materials
+
+    a. For the purpose of bulk transportation, 46 U.S.C. 2101(14) defines a hazardous material as “any liquid material or substance that is --
+
+        (1) Flammable or combustible;
+
+        (2) Designated a hazardous substance under Section 311(b) of the Federal Water Pollution Control Act (FWPCA), as amended (33 U.S.C. 1321); or
+
+        (3) Designated a hazardous material under section 5103(a) of title 49 [U.S.C].”
+
+    b. See 46 CFR 153.40 for a listing of materials the Coast Guard has found to be hazardous when transported in bulk under this authority.
+
+C. CONTROL OF PRODUCT SHIPMENT
+
+1.  Bulk Hazardous Liquids, Liquefied Gases, and Solids
+
+The regulations for shipments of bulk and packaged hazardous substances differ in terms of how a product may be shipped. Before a material may be shipped in bulk, it must be evaluated by the Hazardous Materials Standards Division, Commandant (CG-ENG-5). The Hazardous Materials Standards Division, Commandant (CG-ENG-5), determines whether the material in question may be shipped in bulk and, if so, the conditions of shipment. A bulk hazardous material that is not listed as regulated may still be prohibited from bulk shipment.
+
+2.  Products Shipped as Packaged Cargoes
+
+Products shipped as packaged cargoes are evaluated by the shipper, who should select the proper shipping name from 49 CFR, Part 172, Subpart B. The package rules state that a material that does not fit under any of the shipping names in 49 CFR Part 172, Subpart B, may be shipped under a "Not Otherwise Specified" (N.O.S.) category unless the regulations prohibit its shipment.
+
+3.  Evaluation of New Bulk Liquid Cargoes
+
+Commandant (CG-ENG-5) evaluates new liquid cargoes proposed for bulk shipment under the Criteria for Hazard Evaluation of Bulk Chemicals. The criteria include flammability, toxicity, reactivity, and corrosiveness. The Criteria for Hazard Evaluation of Bulk Chemicals are contained in the International Maritime Organization (IMO) Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk, Resolution A.212 (latest edition). Cargoes that are only hazardous in regards to flammability are regulated under 46 CFR Subchapter D. Cargoes with hazards in addition to or other than flammability are regulated under 46 CFR Parts 150-154.
+
+4.  Department of Transportation (DOT) Review
+
+Commandant (CG-ENG-5) evaluates solids carried in bulk (i.e., in cargo holds rather than in some type of container), ships' stores, cargoes under fumigation, bulk liquids, and liquefied gases). Hazardous Materials Standards Division, Commandant (CG-ENG-5), maintains the 46 CFR regulations concerning bulk liquids, liquefied gases, and bulk solids. The DOT Office of Hazardous Materials Transportation (OHMT) oversees the evaluation of packaged materials and their regulation under Title 49 CFR. Military explosives are regulated under 46 CFR Part 146.
+
+5.  Communications with Commandant (CG-OES)
+
+As new products are added almost daily, any published list of authorized cargoes is quickly outdated. To resolve any doubt about a particular material, contact Commandant (CG-ENG-5). If the cargo is a liquid or liquefied gas to be shipped in bulk or a bulk solid under Title 46 CFR, call Commandant (CG-ENG-5) at 202-372-1401 If the material is to be shipped as a packaged cargo under Title 49 CFR, call Commandant (CG-ENG-5) at 202-372-1401. Division personnel may be reached from 0700-1530 Eastern time, Monday-Friday. Should a question arise during nonworking hours, a representative of Commandant (CG-ENG-5) can be contacted through Headquarters Flag Plot at (202)
+
+6.  IMO Review
+
+Within the IMO --
+
+    a. The IMO Subcommittee on Bulk Chemicals (BCH) is responsible for the IMO Bulk Chemical Code and Gas Codes;
+
+    b. The Subcommittee on the Carriage of Dangerous Goods (CDG) is responsible for packaged cargoes and for the IMO International Maritime Dangerous Goods (IMDG) Code;
+
+    c. The Subcommittee on Containers and Cargoes (BC) deals with bulk solids.
+
+NOTE: See Figure F1-1 for a summary of references concerning hazardous materials safety.
+
+D. STATUTORY AUTHORITY
+
+The Secretary of DOT (SECDOT) regulates the transportation of hazardous materials under two statutes: the HMTA (49 U.S.C. 1801-1812) and Title II of Title 46, U.S.C. These statutes apply to foreign and U.S. vessels in U.S. waters. Under the authority delegated by the SECDOT, the Coast Guard administers and enforces the laws and regulations for the safe maritime transportation of hazardous materials. Under the HMTA, the Director of the OHMT is authorized to issue regulations for package shipments of hazardous materials. The Coast Guard advises the OHMT on the development of these regulations and enforces them, but may not permit exemptions from them. The Ports and Waterways Safety Act (PWSA), as amended, makes the Coast Guard responsible for the safety of waterfront facilities that handle hazardous materials. See MSM Volume II, Material Inspection, COMDTINST M16000.7A (series), Chapter B8 for a general discussion of facility inspections.
+
+USCG Marine Safety Manual, Vol. II: Materiel Inspection
+
+SECTION F: CARRIAGE OF HAZARDOUS MATERIALS
+
+CHAPTER F1: HAZARDOUS MATERIALS SAFETY
+
+FIGURE F1 -1: SUMMARY OF INFORMATION CONCERNING THE HAZARDOUS MATERIALS SAFETY PROGRAM
+
+|                                | Bulk Liquids and Liquefied Gases | Packaged Cargoes, Including Portable Tanks | Bulk Solids | Fumigation | Ship s' Stores |
+| :----------------------------- | :------------------------------- | :---------------------------------------- | :---------- | :--------- | :------------- |
+| COGNIZANT SECTION             | G-MSO                            | Bulk Cargo                                | Packaged Cargo | Bulk Cargo | Bulk Cargo     |
+| AGENCY WITH AUTHORITY        | Coast Guard                      | Office of Hazardous Materials Transportation (OHMT) | Coast Guard | Coast Guard  | Coast Guard    |
+| APPLICABLE LAWS               | 33 U.S.C. 1221                   | 46 U.S.C. Chapter 37 49 U.S.C. 1801        |             | 33 U.S.C. 1221 |                |
+|                                |                                  |                                           | 49 U.S.C. 1801  | 49 U.S.C. 1801 | 46 U.S.C. 3306  |
+|                                |                                  |                                           |               |              | 46 U.S.C. 4105 |
+|                                |                                  |                                           |               |              | 46 U.S.C. 4302 |
+| APPLICABLE REGULATIONS        | 33 CFR Subchapter O              | 46 CFR Subchapters D & O                   | 46 CFR Parts 64, 98, and 146          | 49 CFR Parts 171-179 | 46 CFR Part 148  | 46 CFR Part 147a | 46 CFR Parts 147 and 194 |
+| CORRESPONDING INTERNATIONAL CODE OR CONVENTION | IMO Bulk Chemical Code (Res. A.212) | Gas Carrier Code (Res. A.328) and Gas Carrier Code for Existing Ships  | IMO International Maritime Dangerous Goods Code and U.N. Transport of Dangerous Goods | IMO Code of Safe Practice for Solid Bulk Cargoes  | Maritime Safety Committee Circular 298 (MSC Circ. 298) |
+
+E. REGULATIONS
+1.  General
+
+The primary regulations governing the transportation of hazardous materials by vessels are:
+
+Citation Subject
+
+46 CFR Part 146 Vessels transporting military explosives
+
+46 CFR Part 147 Vessels carrying ships' stores which are hazardous materials
+
+46 CFR Part 148 Vessels carrying bulk solid hazardous materials
+
+46 CFR Part 150 Compatible stowage of bulk liquid hazardous materials and for vessels engaged in bulk hazardous waste incineration at sea
+
+46 CFR Part 151 Unmanned barges carrying hazardous materials in bulk
+
+46 CFR Part 153 Self-propelled ships carrying hazardous materials in bulk
+
+46 CFR Part 154 Self-propelled ships carrying liquefied gases in bulk
+
+49 CFR Parts 171-179 Packaged goods
+
+2.  Required Documentation
+
+Under 46 CFR Parts 153 and 154, the Coast Guard recognizes a Certificate of Fitness (COF) issued in accordance with the IMO Bulk Chemical Code, the International Bulk Chemical Code, the IMO Gas Code for New Ships, and the International Gas Carrier Code, together with the International Convention for the Safety of Life at Sea (SOLAS) certificates, as equivalent to a Coast Guard issued Certificate of Inspection (COI), with some exceptions. Issuance of these documents permits issuance of a Letter of Compliance (LOC) with 46 CFR Subchapter O Endorsement to foreign vessels without the need for Coast Guard plan review. Situations involving packaged cargo are addressed similarly. To the extent permitted by 49 CFR 176.11, a packaged cargo shipped on a vessel in accordance with the recommendations of the IMO IMDG Code is acceptable.
+
+USCG Marine Safety Manual, Vol. II: Materiel Inspection
+
+SECTION F: CARRIAGE OF HAZARDOUS MATERIALS
+
+CHAPTER 1: HAZARDOUS MATERIALS SAFETY
+
+NOTE: This does not mean that such vessels will meet all requirements of 46 CFR Parts 153- 154.
+
+############
+
+F. INTERNATIONAL CODES
+
+1.  Introduction
+
+a. The codes relative to the carriage of hazardous materials are:
+
+(1) IMO Chemical Code. The Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals i n Bulk ( the IMO Chemical Code) , IMO Assembly Resolution A.212(VII), adopted 12 October 1971 and the IMO International Bulk Chemical Code, IMO Resolution MSC 4(48), adopted 17 June 1983, a pplies to all ships with a keel laying date before 1 July 1986. The International Bulk Chemical Code applies to all ships with a keel laying date on or after 1 July 1986. Both the IMO Bulk Chemical Code and International Bulk Chemical Code were revised and reissued to cover requirements stemming from Annex II of the International Convention for the Prevention of Pollution From Ships, 1973, as m odified by the Protocol of 1978 (MARPOL 73/78). MARPOL Annex II entered into force on 6 April 1987. The revised IMO Bulk Chemical Code was adopted under Resolutions MEPC 20(22) and MSC 9(53). The revised International Bulk Chemical Code was adopted under Resoluti on MEPC 19(22).
+
+(2) IMO Gas Code. The Code For The Construction And Equipment Of Ships Carrying Liquefied Gases In Bulk ( the IMO Gas Code) , IMO Assembly Resolution A.328(IX), was adopted 12 November 1975. The IMO Gas Code applies to new ships ; defined in the Code ships with a keel laying date before 1 July 1986.
+
+(3) IMO International Gas Carrier Code. The IMO International Gas Carrier Code, IMO Resolution MSC 5(48), was adopted 17 June 1983. The International Gas Carrier Code applies to all ships with a k eel laying date on or after 1 July 1986.
+
+(4) IMO Gas Code f or Existing Ships. The Code for Existing Ships Carrying Liquefied Gases i n Bulk (the IMO Gas Code f or Existing Ships ), applies to those gas ships not covered by the Gas Code for New Ships.
+
+(5) IMDG Code. The IMDG Code addresses transportation of packaged hazardous materials.
+
+(6) List o f Bulk Materials Possessing Chemical Hazards. Appendix B of the Code of Safe Practice for Solid Bulk Cargoes, the List of Bulk Materials Possessing Chemical Hazards, addresses transportation of bulk hazardous solids.
+
+b. Some of these codes are international recommendations and are not binding under international law. However, several codes dealing with hazardous materials have been incorporated into internationa l law. These include the International Bulk Chemical Code and the International Gas Carrier Code, which are both made mandatory by reference in the 1983 amendments to SOLAS 74. With the implementation of Annex II of MARPOL 73/78 on 6 April 1987, the IMO Bulk Chemical Code and the International Bulk Chemical Code are mandatory under international law.
+
+2.  Application of Codes
+
+There are sometimes differences between the requirements of U.S. regulations and international codes. For example, f oreign vessels built to the standards of the IMO Chemical Code do not necessarily meet Coast Guard standards. It has been the Commandant's policy to adopt international codes such as the IMO Chemical Code as minimum standards and to establish higher standa rds only where essential safety concerns are involved. Because international codes are drafted by an international body, they may need to be vaguely worded to satisfy all member countries. In contrast, U.S. Coast Guard regulations must be as precisely worded and detailed as possible. For example, The Chemical Code requires that filling pipes extend to "near the bottom of the tank." Corresponding U.S. regulations require that filling pipes must extend to wi thin 4 inches or the fill pipe radius of the bottom of the tank. The intent is to provide specific guidance to ship designers as to what is an acceptable interpretation of "near the bottom of the tank." In this case, for a foreign vessel whose filling pipe terminates "near the bottom of the tank," its IMO COF would be accepted, although its condition may not strictly meet Coast Guard standards.
+
+############
+
+USCG Marine Safety Manual, Vol. II: Materiel Inspection
+
+SECTION F: CARRIAGE OF HAZARDOUS MATERIALS
+
+CHAPTER 1: HAZARDOUS MATERIALS SAFETY
+
+Sources for Copies of Codes
+
+IMO Secretariat, Publications Section New York Nautical Instrument
+
+4 Albert Embankment and Service Co.
+
+London SE1 75R 140 West Broadway
+
+United Kingdom New York, NY 10013
+
+TELEX 23588
+
+Baker, Lyman & Company Labelmaster
+
+308 Magazine Street 5724 N. Pulaski Road
+
+New Orleans, LA 70130 Chicago, IL 60646
+
+UNZ & Company Southwest Instrument Co.
+
+170 Broadway 235 West 7th Street
+
+New York, NY 10038 San Pedro, CA 90731
+
+G. IMO CHEMICAL CODE
+
+1.  Introduction
+
+The IMO Chemical Code, effective on 12 April 1972, is used for tankships carrying liquid chemicals in bulk. The IMO Chemical Code required extensive upgrading of existing vessels over a 6 -year period. (The IMO has defined an existing ship as one whose keel was laid before 12 April 1972.) With the exception of damage stability and midship deckhouse arrangement s, an existing vessel was required to meet the same standards as a new vessel as of 12 April 1978. See 46 CFR Part 153 for the Coast Guard's implementing regulations. Due to delays in publication, there is a contradiction between the IMO Code and the Coast Guard regulations. The Coast Guard regulations define an existing vessel as one for which was contracted for on or before 27 December 1977. Therefore, a vessel contracted for on or after 12 April 1972 and not later than 27 December 1977 may obtain a COI as an existing vessel under 46 CFR Part 153. However, the same vessel must be treated as a new vessel in order to receive an IMO COF.
+
+. Subdivision and Stability
+
+Da mage stability standards and protective location of cargo tanks for existing tankships are addressed in subsection 1.7.3(a) -(f) of the IMO Chemical Code and in 46 CFR 153.7(c), as follows:
+
+a. An existing single -hulled vessel that must have double -bottoms and side tanks installed in order to continue carrying Type II cargoes should be evaluated to ensure that its damage stability is not impaired by such modifications.
+
+b. An existing double -hulled vessel carrying Type II cargoes is exempt from damage stability evaluation and has less stringent requirements for bottom and side tank location clearances. Such a vessel must have a double -bottom height of at least 760mm.
+
+c. An existing Type III vessel that is being modified to carry Type II cargoes is requi red to meet the damage stability requirements of section 2.2.4 of the Code, but is not required to survive damage to the main machinery space. (A Type III vessel is a single- hulled vessel carrying cargoes requiring Type III containment.)
+
+d. Existing Type I vessels are required to meet the damage stability requirements for new ships, but may be allowed minor relaxations of side and bottom tank separation distances. In effect, these standards exempt existing vessels from damage stability evaluations, unless cargo tank configurations are modified.
+
+e. An existing Type III vessel is exempt from the Code's damage stability requirements.
+
+############
+3. Design Specifications
+
+As previously noted, the Commandant has waived a plan review for chemical tankers that have valid COFs. However, this does not mean that foreign vessels have the option of obtaining a COF or undergoing plan review. A foreign chemical tanker must have a valid COF to obtain an LOC unless its home administration does not issue IMO certificates. Except for unusual cases, chemical tankers holding LOCs have been designed and equipped in accordance with the IMO Code. Therefore, they should comply with the Code's operating requirements as well as 46 CFR Part 153. The IMO Code will be the primary reference for examination of foreign chemical tankers.
+
+4. Hull Type Designations
+
+The format and content of the IMO Chemical Code were based, to some extent, on the U.S. regulations for unmanned barges carrying bulk cargoes (46 CFR Part 151). The IMO Chemical Code’s designation of hull types, the table summarizing the minimum requirements, and the referencing of special requirements for individual cargoes will be familiar to users of the unmanned barge regulations. Like 46 CFR Part 151, the IMO Chemical Code identifies three hull types: Type I (very hazardous cargoes), Type II (moderately hazardous cargoes), and Type III (least hazardous cargoes). There is no direct correlation between ship and barge hull types; a cargo that must be carried in a Type I barge won’t necessarily be required to be carried in a Type I ship. The hull type designation provides the following information about a vessel:
+
+a. Extent of hypothetical damage a vessel can sustain and remain afloat in a state of positive equilibrium. This is a standard used by naval architects to calculate a vessel's survivability. This is an important factor in plan review, but is of little concern to the inspector.
+
+b. Cargo tank location within the hull. A Type II cargo must be carried in a tank located at a distance greater than the vessel's beam divided by 15, but not more than 6 meters above the baseline. In no case may the tank be closer than 760 mm to the vessel's side or bottom shell.
+
+c. Maximum quantity of cargo that can be loaded in a tank. Type I cargoes are limited to 1,250 cubic meters per tank; Type II cargoes to 3,000 cubic meters per tank. Type III cargoes are not restricted.
+
+NOTE: These are loading restrictions, not restrictions on tank sizes.
+
+5. Table of Minimum Requirements
+
+Chapter 6 of the Code contains a table that summarizes minimum and special requirements for certain products listed. The table uses several terms that require clarification:
+
+a. Tank vents. Tank venting is described as either controlled by a pressure-vacuum valve or safety relief valve or open through a gooseneck vent.
+
+b. Tank environmental control. This is not clear, as the word "yes" sometimes appears with no explanation of what is required. 46 CFR Part 153 should be consulted to determine appropriate requirements.
+
+c. Electrical instruments. Special requirements, identified by "SP," are not contained in the Code.
+
+d. Vapor detection. These are specified by "no detection," "flammable vapor detection," "toxic vapor detection," or the latter two. Detectors need not be permanently installed types, but may be reagent-tube-and-aspirator types.
+
+NOTE: For some toxic substances, toxic vapor detection equipment is not currently available. The "universal interpretation" of Section 3.11 of the Code permits the substitution of additional air supplies, which are specified in Paragraph 3.16-6(b) of the Code, when toxic vapor detection equipment is not commercially available. The COF should indicate when this substitution has been allowed.
+
+e. Fire protection requirements. The type of extinguishing medium that is most effective against fires involving particular cargoes (e.g., alcohol-resistant (polar solvent) foam, non-polar solvent foam, water spray, dry chemical, or nonspecific) is identified.
+
+(1) The Chemical Code provides standards for fixed deck foam systems aboard vessels contracted after 20 May 1980. These standards include foam monitor configuration, rates of foam production, and foam coverage.
+
+(2) Administrations may accept other configurations and foam production rates for vessels that carry a restricted number of cargoes. For vessels built prior to 20 May 1980, individual administrations must approve installations based on their own guidelines.
+
+f. Special requirements. The last column of the table references special requirements for individual products.
+
+6. Summary
+
+The IMO Chemical Code leaves many areas open to interpretation. The corresponding requirements in 46 CFR Part 153 are therefore more detailed than the IMO Chemical Code. Other Administrations may have regulations regarding the same IMO Chemical Code requirements that differ from the U.S. regulations in terms of the details. Because of the small differences that may occur, it is necessary for an inspector to consider both the IMO Chemical Code and the relevant regulations when inspecting a foreign chemical tanker. The IMO Chemical Code should be cited as the primary reference, with the regulations providing U.S. interpretation of the Code's requirements. U.S. regulations should not be used for a strict letter-for-letter inspection of a foreign vessel. NVIC 13-82 provides a convenient cross-reference between the IMO Chemical Code and 46 CFR Part 153.
+
+H. IMO GAS CODE FOR NEW SHIPS (IMO GAS CODE)
+
+1. Introduction
+
+After adoption of the Bulk Chemical Code, the IMO began development of a code for liquefied gas ships. At the outset, it was agreed that this new code would apply only to new ships, to avoid problems of upgrading existing ships. Because of difficulties that became apparent with the vagueness of the Chemical Code, because the United States contributed more detailed requirements for gas ships, and because the requirements did not have to accommodate existing vessels, the Gas Code is much more detailed than the Chemical Code. Greater specificity was a primary goal of the United States in developing the Gas Code; however, some degree of vagueness remains. The requirements of 46 CFR Part 154 are intended to minimize the effects of this vagueness.
+
+2. Comparison with the Chemical Code
+
+The IMO Gas Code has certain similarities to the Chemical Code and 46 CFR Part 153. The IMO Gas Code discusses four ship types rather than three; one of these is a special category of Type II ship, called a Type IIPG. Ships classed under the IMO Gas Code are referred to with a “G” at the end of the ship type to distinguish them from chemical tankers. The IMO Gas Code’s damage stability requirements are similar to those for chemical tankers, except that a greater final angle of heel after damage is allowed for gas ships. Type IIPG ships have more relaxed damage stability standards than Type IIG ships. The tank location requirements for Type IG and Type IIG/IIPG vessels are the same as for Type I and II chemical tankers. Type IIIG gas ships are required to have tanks at least 760 mm inboard of the hull, while there is no separation requirement for Type III chemical tankers. Also, there is no cargo limitation requirement for Type IG and IIG/IIPG cargoes, as exists for chemical cargoes. Generally, comparison of the IMO Gas and Chemical Codes reveals the Gas Code has much more detailed requirements for tank and piping design, materials, venting, electrical equipment, fire protection, and instrumentation.
+3. Minimum Requirements
+
+a. Chapter XIX of the IMO Gas Code contains a Table of Minimum Requirements and references to special requirements for individual cargoes.
+
+b. The IMO Gas Code specifies the ship type for each cargo; most require Type IIG/IIPG ships (in practice, there are no Type IIIG and few, if any, Type IG ships in use). Type IIPG ships, which are small vessels having pressure vessel tanks rated for at least 99.6 psig, may carry most cargoes that are permitted on a Type IIG ship. Cargoes with very low transport temperatures, such as methane and ethane, are exceptions.
+
+c. Pressurized cargoes. Cargoes that must be carried in pressure vessel tanks, or must have inerted or dried atmospheres above the cargo, are identified in Columns D and E of the Table of Minimum Requirements.
+
+d. Vapor detection. The vapor detection requirements are similar to those in the Chemical Code, except that flammable gas detectors and toxic vapor detectors for certain cargoes must be permanently installed, automatic monitors.
+
+e. Gauging. Gauging under the IMO Gas Code is the same as under the Chemical Code, except that there is no provision for an open gauge.
+
+f. Special requirements. The IMO Gas Code treats special requirements in a manner similar to the Chemical Code. The alkanes and alkenes (methane, propane, ethylene, etc.) have no special requirements because the Gas Code was drafted in anticipation of Liquefied Natural Gas (LNG) and Liquefied Petroleum Gas (LPG) ships. Thus, LNG and LPG are the "normal" cargoes, with special requirements in the Gas Code to accommodate cargoes with different properties.
+
+g. Chlorine. The IMO Gas Code (the first amendment, specifically) contains detailed requirements for the carriage of chlorine. As chlorine may not be carried on self-propelled vessels in U.S. waters, it is not included in 46 CFR 154.
+
+h. Anhydrous hydrogen fluoride. Anhydrous hydrogen fluoride may be added to the IMO Gas Code in the future. As anhydrous hydrogen fluoride may not be carried on self-propelled vessels in U.S. waters, it is not included in 46 CFR 154.
+
+4. Additional Requirements
+
+The detailed nature of the IMO Gas Code means that U.S. regulations correspond much more closely to it than to the Chemical Code. However, four issues that the United States considers to be important safety concerns went unresolved during the development of the IMO Gas Code. To address these issues, 46 CFR Part 154 exceeds the Code in the following areas:
+
+a. Specification of higher allowable stress factors for Type B and C independent tanks.
+
+b. Specification of lower design ambient temperatures for hull steel selection.
+
+c. Requirement of enhanced grades of steel for crack-arresting purposes in the deck stringer, the sheer strake, and the bilge strake; and
+
+d. Prohibition of cargo venting as a means of cargo temperature and pressure control.
+
+5. Control of Venting
+
+To carry any cargoes except methane, a vessel must have a refrigeration/re-liquefaction system or tanks designed to withstand the cargo's vapor pressure at 45°C. Any methane boil-off must be re-liquefied (to date, this has not proven economically feasible) or burned in the main propulsion system. Other means of disposal, such as incineration, are also permitted. Venting may be allowed under certain controlled operations such as gas trials. Emergencies may dictate control of cargo temperature and pressure by atmospheric venting.
+
+6. Application
+
+The IMO Gas Code applies only to new vessels.
+
+I. IMO Gas Code for Existing Ships
+
+1. Background
+
+Several IMO delegations were concerned that existing ships might be barred from some ports if they did not have some type of IMO certificate. Therefore, the IMO developed the Code for Existing Ships Carrying Liquefied Gases in Bulk (the Gas Code for Existing Ships) for those vessels not covered by the IMO Gas Code. The Gas Code for Existing Ships is similar to the IMO Gas Code, although some requirements are significantly relaxed. For example, requirements for cargo tank design, materials of construction, and piping design and construction are much less stringent under the Gas Code for Existing Ships. The Gas Code for Existing Ships also requires no damage stability evaluation. Basically, the Gas Code for Existing Ships embraces previous standards for gas ship construction without requiring major upgrading. It does not distinguish cargo and hull types, and subject vessels may carry the products listed in Chapter 19 of the Code. These products correspond to the Type II and III cargoes listed in Chapter 19 of the Gas Code for New Ships. Type I cargoes are intentionally excluded from the Gas Code for Existing Ships. Only ships designed and constructed to the IMO Gas Code may be considered for the carriage of such cargoes, including ethylene oxide, methyl bromide, and sulfur dioxide.
+
+2. Requirements
+
+The Gas Code for Existing Ships required some upgrading of existing ships, particularly for instrumentation and fire protection. These upgrades were required to have been completed by 31 October 1982. The note in the Gas Code for Existing Ships’ preamble that specifies that the Code "is not meant to replace any controls which may already be in operation" is applicable to the U.S. LOC Program. Because the Code generally sets a lower standard for gas ships than the U.S. LOC Program does, the Coast Guard has not fully adopted it. When the Gas Code for Existing Ships requires upgrading to a standard that exceeds current the U.S. regulations, the Coast Guard will adopt those provisions in 46 CFR Part 154.
+
+J. SHIPS NOT STRICTLY COVERED BY THE IMO GAS CODES
+
+The Gas Code for Existing Ships was primarily aimed at ships already in service. Although the provisions of the IMO Gas Code and the Gas Code for Existing Ships theoretically apply to all gas ships, there is a third category of vessels: those under construction when the IMO Gas Code was adopted, but to which it does not apply. The IMO's intent, as stated in Resolution A.329(IX), is that ships under construction should meet the IMO Gas Code as fully as possible, according to their stage of construction. Such ships would, of course, have to meet the requirements of the Gas Code for Existing Ships as a minimum.
+
+K. IMDG CODE
+
+1. Introduction
+
+The IMO developed the IMDG Code to aid administrations in applying the requirements of Chapter VII of the 1960 and 1974 SOLAS Conventions. The IMDG Code contains recommendations for classification, marking, labeling, packaging, placarding, stowage, and segregation of hazardous materials for maritime transportation. The IMDG Code’s information is similar to that found in the DOT Hazardous Materials Regulations (49 CFR Subchapter C).
+
+2. Application
+
+When packaged hazardous materials are shipped intermodally to the port area (i.e., by truck or rail to the vessel), the shipper may consult the Optional Hazardous Materials Table in 49 CFR 172.102. This table incorporates many of the IMDG Code's provisions. This is important to the shipper because it facilitates acceptance of the packages at the port of destination. Cargo must always be segregated and stowed in accordance with 49 CFR Subchapter C. IMO stowage and segregation requirements have been incorporated to the greatest extent possible in 49 CFR Table 172.102, Column 7(c), "Other Requirements." As indicated in 49 CFR 176.11, parts of the IMDG Code may be used in lieu of 49 CFR Subchapter C for domestic and international maritime shipment of packaged hazardous materials, except Class A and B explosives and radioactive materials.
+3. Alternate Arrangements
+
+Problems may be encountered in trying to comply with the stowage requirements of 49 CFR Subchapter C. Any such problems can be resolved by the Captain of the Port (COTP) through acceptance of alternate stowage procedures under 49 CFR 176.65.
+
+4. Format of the Code
+
+The IMDG Code is a five-volume loose-leaf publication. The IMDG Code’s introduction explains the Code’s purpose and application; identifies nine classes of dangerous goods; and gives general requirements for testing, shipping documents, classification, marking, labeling, packaging, freight container transport, portable tanks, stowage, and segregation. In the remainder of the IMDG Code, each class of dangerous goods is listed separately. The introduction for each class gives specific requirements that are particular to that class. Each commodity or group of commodities is listed on a separate page, with a limited description of the product and its properties, its chemical formula where appropriate, the United Nations (UN) classification number, and synonyms. Annex I of the IMDG Code, found in Volume I, contains recommendations with respect to hazardous materials packaging. IMDG Code Annex I uses a performance-test approach rather than detailed packaging specifications like those used by DOT. IMO packaging falls into three groups, with Group I packaging subject to the most stringent performance tests and Group III the least. Practically speaking, all hazardous materials must be packaged as required by 49 CFR Subchapter C unless they are intended to remain within the port area.
+
+5. Certificates of Competent Authority
+
+Often, the entry on the IMDG Code page for packaging is "Receptacles approved by the competent authority of the country concerned." Other areas of the IMDG Code require specific approval by the competent authority. In these cases, the OHMT will issue the proper certificate. These are not "exemptions" since they are in accordance with U.S. law. Competent authority certificates issued by the OHMT are intended primarily for use in foreign ports. Such certificates issued by foreign governments are valid in the United States when the IMDG Code authorizes the use of a competent authority certificate, but only in the port area. Shippers desiring competent authority certificates should contact the OHMT at (202) 366-4511.
+
+USCG Marine Safety Manual, Vol. II: Materiel Inspection
+
+SECTION F: CARRIAGE OF HAZARDOUS MATERIALS
+
+CHAPTER 1: HAZARDOUS MATERIALS SAFETY
+
+L. "Recommendations on the Safe Use of Pesticides in Ships"
+
+Recommendations on the Safe Use of Pesticides in Ships, IMO Maritime Safety Committee Circular 298, provides useful information on the safe use of pesticides and rodenticides aboard ships. It is of interest because of the possible health and safety hazards of fumigation to persons aboard. Coast Guard regulations for fumigation are contained in 46 CFR Part 147A (Interim Regulations for Shipboard Fumigation).
+
+M. INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978, RELATIVE THERETO (MARPOL 73/78).
+
+1. Authority
+
+MARPOL 73/78 is binding under international law and is implemented domestically in 33 U.S.C. 1901-1911.
+
+2. MARPOL Annex II
+
+Annex II of the MARPOL 73/78 Convention applies to noxious liquid substances carried aboard tankers. The criteria for designating noxious liquid substances are similar to the Environmental Protection Agency's criteria for identifying hazardous substances. MARPOL Annex II is mandatory; any country that ratifies the basic Convention must also accept Annex II (the United States is one such country). MARPOL 73/78 entered into force on 2 October 1983 and Annex II became effective on 6 April 1987. MARPOL Annex II’s primary intent is to limit and control the discharge of hazardous substances into the sea during normal operations, such as tank cleanings, and accidental pollution resulting from groundings and collisions. The IMO has developed equipment and operational standards for ensuring compliance with Annex II. These standards have been implemented in Titles 33 and 46 CFR. The final rule promulgating these standards was published in the Federal Register on 12 March 1987.
+
+3. Implementation of MARPOL Annex II
+
+MARPOL Annex II requires reception facilities to be provided for certain tank cleaning wastes. See NVICs 4-87 and 5-87; MSM Volume II, Material Inspection, COMDTINST M16000.7A (series), Chapter E1, COMDTINST M16450.28, and Guidance & Procedures for Administering & Enforcing the Noxious Liquid Substance (NLS) Waste Reception Facility Program, COMDTINST M16450.29 for guidance on implementing the regulations involving MARPOL Annex II.
+
+4. MARPOL Annex III
+
+Annex III of MARPOL 73/78 applies to harmful substances carried in packaged form. The United States has not yet ratified MARPOL Annex III.
+
+A. Introduction
+
+Combustible and flammable liquids are classed as hazardous materials. Further classification of hazardous materials is divided into two main areas: bulk shipments and packaged cargo. The applicability of regulations to cargo is determined by the cargo’s classification. This chapter provides guidance for the carriage of combustible and flammable cargoes in either packaged or bulk shipments. The remaining chapters of MSM Volume II, Material Inspection, COMDTINST M16000.7A (series), Section F, provide guidance for other hazardous materials shipments.
+
+B. Integral, Portable, or Fixed Independent Tanks
+
+These tanks may carry flammable or combustible products in bulk aboard cargo, miscellaneous, or passenger vessels in limited quantities, as permitted by the regulations found in 46 CFR 30.01-5, 70.05-30, 90.05-1, and 90.05-35.
+
+C. Definitions and Interpretations
+
+The determination of whether a cargo is a bulk or packaged shipment is of primary importance in identifying the proper authority and guidance for tank approvals, authorized products, and vessel operating requirements. Vessel inspection requirements are affected by the interpretations of principal purpose and limited quantities (these terms and their significance are explained in the following sections). The following criteria and definitions apply to the regulations for the use of portable and independent tanks.
+
+1. Packaged or Bulk Cargo
+
+Portable tanks, regardless of capacity, are deemed package cargo if the tank contents are not transferred aboard the vessel. (Tank approvals limit capacity.) The filling, discharge, or recirculation of cargo in a Marine Portable Tank (MPT) or independent tank on board a vessel is regarded as carriage in bulk.
+
+2. Combustible or Flammable Determinations
+
+If the cargo is carried as packaged cargo, use the definitions in 49 CFR 173.115. 46 CFR 30.10-15 and 30.10-22 apply to bulk shipments.
+
+3. Cargo or Passenger Vessel Designation
+
+Vessel type definitions for the carriage of packaged cargo are contained in 49 CFR 171.8. Offshore Supply Vessels (OSVs) are interpreted as cargo vessels for the purpose of packaged cargo regulations.
+
+4. Cargo
+
+Oil and other combustible or flammable liquids are considered cargo when transported to and offloaded at a destination. Fuel oil that a vessel carries in its own integral tanks, for its own use, is not subject to the requirements of 46 CFR 30.01-5. Exceptions to this definition include OSVs and some fishing vessels.
+
+5. Deadweight Tonnage (DWT)
+
+Deadweight Tonnage (DWT) is a measure of a vessel's carrying capacity. DWT is the difference in displacement between the vessel's deepest load waterline and its lightweight conditions. Deadweight capacity includes: crew and effects, passengers and luggage, provisions and stores, fresh water, fuel, ballast, and cargo. The lightweight condition is defined in 46 CFR 170.055. The vessel's deepest load waterline is the deepest draft permitted by the applicable regulations for the vessel.
+6. Limited Quantity
+
+Flammable and combustible cargo carried in bulk in an amount not to exceed 20 percent of the vessel's DWT is considered to be limited quantity. For Grade E drilling fluids (mud), the 20 percent volume may be computed using a specific gravity of 1.0.
+
+7. Principal Purpose
+
+When it is deemed that the principal purpose of a vessel is to carry combustible or flammable liquids in bulk, either in MPTs or independent tanks, the vessel must be certificated under Subchapter D. A vessel carrying less than 20 percent of its DWT generally is not deemed to be principally carrying bulk combustible or flammable cargo.
+
+D. Portable Tanks
+
+Portable tanks are approved containers designed to be loaded into, loaded on to, or temporarily attached to a vehicle or vessel. A portable tank is designed with approved handling arrangements, such as skids, lifting lugs, or intermodal container castings. Portable tanks may be handled or lifted full or empty and are treated as packaged containers. Transfer, fill, discharge, or recirculation of cargo to portable tanks other than MPTs while the tanks are on board a vessel is prohibited. Portable tanks for flammable and combustible liquids fall into four primary categories: Department of Transportation (DOT) specification tanks, special tanks, DOT-E (exemption) tanks, and MPTs.
+
+1. DOT Specification Tanks
+
+DOT specification tanks are DOT-51, DOT-57, IM-101, and IM-102 tanks regulated under 49 CFR Part 178.
+
+2. Special Tanks
+
+Special tanks are approved by Commandant (MSC) under 49 CFR 176.340. Special tanks are issued a Coast Guard letter of authorization for combustible liquids shipped as packaged cargo. One example of a special tank is a tank approved for combustible-oil based drilling mud, with an open-lid top that can be shut gas-tight.
+
+3. DOT- E (Exemption) Tanks
+
+Also called non-specification portable tanks, DOT-E (exemption) tanks may be used to transport regulated commodities when authorized by a Materials Transportation Bureau (MTB) exemption. These tanks are for packaged shipments only. See 49 CFR 107 for relevant exemption procedures. Although exemptions are issued by the MTB, the Coast Guard is consulted if the shipment involves marine transportation.
+
+4. MPTs
+
+Constructed and inspected in accordance with 46 CFR Part 64, MPTs are designed to be lifted while full of cargo (up to 55,000 pounds) and may be considered packaged. MPTs are also approved for bulk shipments and are designed for the transfer of cargo while on board the vessel. Pumping and piping equipment associated with filling or discharging an MPT must meet the applicable requirements of Subchapter F. Endorsement of the Certificate of Inspection (COI) is required for bulk shipments (See G.2 below).
+
+Approval of portable tanks constructed and inspected under 46 CFR 98.35 expired on 1 October 1984. No extensions or waivers are authorized.
+
+E. INDEPENDENT TANKS
+
+Independent tanks are authorized on miscellaneous vessels and OSVs for the carriage of Grade B and lower petroleum products. Independent tanks are approved by the Marine Safety Center (MSC) and the cognizant Officer in Charge, Marine Inspection (OCMI) for Grades D and E. Requests for the carriage of cargo classed higher than Grade D must be forwarded through the cognizant OCMI and District Commander (m) to Commandant (CG-CVC) for approval. The only size limitation for vessels requesting to carry this kind of cargo is a 20 percent deadweight capacity limitation. Independent tanks must only be loaded or offloaded while empty, and are always considered bulk shipments. The following is a list of conditions for the approval of fixed independent tanks.
+
+1. Design
+
+The fixed independent tank’s structure and design arrangements must be submitted to the MSC for approval. The tank may be designed as a gravity tank.
+
+2. Stability and Loading
+
+The vessel's owner or operator must submit stability and deck loading calculations to the MSC showing that the intact stability and structural arrangements of the vessel are adequate with the fixed independent tank on board. The calculations must cover all intended tank loading conditions for the route specified on the vessel's COI. The vessel's stability letter must be amended to indicate any limitations on the carriage of the fixed independent tank based on stability considerations.
+
+3. Venting
+
+The fixed independent tank must be fitted with a flame screen and pressure vacuum relief valve, or other suitable pressure relief device.
+
+4. Inspection
+
+The fixed independent tank must be gas-freed for internal inspection and hydrostatically tested at least every 4 years.
+
+5. Securing Devices
+
+The fixed independent tank must have adequate securing devices and be secured to the vessel both in accordance with conditions listed on the vessel's stability letter and to the satisfaction of the cognizant OCMI.
+
+6. Nameplate
+
+The fixed independent tank must have a durable nameplate permanently affixed to the tank structure in an accessible location listing --
+
+a. Manufacturer's name, date of manufacture, and serial number;
+b. Design pressure and test pressure in psig;
+c. Volumetric capacity in gallons;
+d. Maximum net weight and maximum gross weight in tons; and
+e. Hydrostatic test date.
+
+F. Authorized Products
+
+1. Portable Tanks
+
+Products that may be carried in portable tanks are specified in 49 CFR 173.119 and the IM tank table published by the MTB (for IM tanks only). Portable tanks approved under 49 CFR 176.340 may only be used for combustible liquids (flashpoint (FP) between 100 and 200° F) that have no other hazard.
+
+2. MPTs
+
+On cargo and passenger vessels, combustible liquids may be carried in MPTs. The carriage of flammable liquids (FP below 100° F) is limited by 49 CFR 173.119(a)(29) to cargo vessels engaged in offshore oil well drilling activities.
+
+3. Independent Tanks
+
+Vessels authorized under 46 CFR 30.01-05 and 90.05-35, may carry flammable and combustible liquids in bulk. Such vessels may also carry Grade B and lower in fixed independent tanks.
+
+G. VESSEL OPERATING REQUIREMENTS WHEN CARRYING PORTABLE OR FIXED INDEPENDENT TANKS
+
+1. Tonnage Measurement
+
+Independent tanks are subject to inclusion in gross tonnage if they meet certain size criteria and cannot be considered as deck cargo (freight). Addition or removal of such tanks on a vessel which has already been assigned gross and net tonnages could require vessel re-measurement and assignment of new tonnages. Refer to Navigation and Vessel Inspection Circular (NVIC) 11- 93 for details.
+
+2. COI Endorsement
+
+Except for portable tanks on small passenger vessels under 100 GT (Subchapter T vessels), vessels are not required to hold a COI in order to carry flammable or combustible liquids in packaged form. Vessels are required to have endorsements for all bulk combustible and flammable liquid cargo shipments. Such a vessel’s COI should be endorsed for all independent tanks and MPTs equipped with fill or discharge piping, as follows:
+
+a. For the carriage of fixed independent tanks, a vessel’s COI endorsement must include a list of specific cargoes permitted to be carried and a statement that the tank must be lifted on or off the vessel only when completely empty.
+b. For the carriage of bulk cargo in an MPT, a vessel’s COI endorsement must include a list of specific cargoes authorized and an authorization to transfer to and from the MPT.
+c. For the carriage of combustible cargo in integral tanks, a sample COI endorsement is "inspected for the carriage of Grade E combustible liquid drilling fluids in the following tanks: (specify each tank and capacity in gallons)."
+d. For Subchapter T vessels carrying packaged hazardous materials in portable tanks, a sample COI endorsement is: "Approved for the carriage, on open deck, of portable tanks containing hazardous materials as authorized by 49 CFR 172.101. For flammable or combustible liquids, additional fire protection is to be provided in accordance with 49 CFR 176.315. Tanks may not be discharged or filled on board. Not more than 16 passengers may be carried when portable tanks are not certified gas free."
+3. Firefighting
+
+A vessel's firefighting capabilities must meet the requirements of 46 CFR 98.30-37 and 98.30-39 for bulk carriage and 49 CFR 176.315 for packaged shipments. No endorsement COI is necessary for the extra firefighting equipment.
+
+4. Fixed Firefighting
+
+46 CFR 95.05-10(g) requires a fixed firefighting system to be installed in all tanks carrying combustible cargo. This has been shown to be impractical for drilling mud and other cargoes which could clog a fixed system. Further relaxation of this regulation has been granted to OSVs. In view of the high FP of Grade E cargoes and the tank arrangements on OSVs, this requirement may be relaxed on OSVs carrying Grade E cargoes at ambient temperatures. This requirement should not be relaxed for vessels carrying Grade D cargoes or for Grade E cargoes at elevated temperatures. Fixed firefighting requirements do not apply to MPTs or fixed independent tanks.
+
+5. Tank Fill/ Discharge
+
+Cargo may not be transferred or recirculated from or to portable tanks, other than approved MPTs, while the tanks are on board a vessel. MPTs are specifically designed to be transported either empty or full. Fixed independent tanks must be loaded and offloaded while on the vessel and can only be moved when completely empty. Pumping and piping equipment associated with MPTs and fixed independent tanks must meet the applicable requirements of Subchapters F and J.
+
+6. Stability
+
+The carriage of portable or independent tanks must be in accordance with the vessel's stability letter or booklet, regardless of any endorsement required on the COI.
+
+7. Stowage
+
+Portable tanks are restricted by 49 CFR 176.76(g)(3) to "on deck" stowage when containing flammable liquids or combustible liquids with a FP less than 141° F that are insoluble in water. Other combustible liquids in portable tanks may be stowed on deck or underdeck on passenger and cargo vessels.
+
+8. Tankerman
+
+A tankerman is not required when transferring to or from an OSV ’s fuel tank. A tankerman is required for transfer to, from or between MPTs, independent tanks, or integral cargo tanks.
+
+H. Vessel Type Requirements
+
+1. OSVs
+
+Special consideration was provided for OSVs in P.L. 96-378, now 46 U.S.C. 3710(a). However, the considerations of principal purpose and limiting quantities still apply to OSVs. An OSV may not carry more than 20 percent of its deadweight in bulk liquid cargo. Regardless of the subchapter under which they are certificated, OSVs are considered cargo vessels for the purposes of 49 CFR and may carry combustible or flammable liquids in approved portable tanks. Bulk combustible or flammable cargo is authorized under 46 CFR 90.05-35. The COI must be endorsed for cargo carried in bulk.
+
+2. Small Passenger (Subchapter T) Vessels/ Crew Boats
+
+For the purposes of 49 CFR Subchapter C, T-boats on domestic voyages are considered cargo vessels when carrying 16 or less passengers and passenger vessels when carrying more than 16 passengers (see 49 CFR 171.8 for the definitions of cargo vessel and passenger vessel). A vessel may carry hazardous materials in approved portable tanks only when operating as a cargo vessel and specifically authorized by COI endorsement. Transfer of cargo to or from a portable tank or other packaging on board the vessel (with or without passengers aboard) is not authorized.
+
+3. Subchapter I Barges
+
+Cargo barges certificated under Subchapter I may not carry combustible or flammable liquids in any quantity in bulk. They may carry MPTs if the tank is not equipped to transfer cargo.
+
+I. Special Products
+
+1. Drilling Fluids
+
+The composition of drilling fluids such as mud may vary depending upon use and source. Drilling mud with a FP greater than 200° F is not regulated as a hazardous material under 49 U.S.C. 1801-1812 (49 CFR 100-177). Because drilling fluids are considered a product and service unique to the offshore oil industry, the limited quantity is defined as 20 percent of the DWT at a specific gravity of 1.0, for OSVs carrying Grade E drilling fluids. ( For more information on this topic see MSM Volume II, Material Inspection,
+
+COMDTINST M16000.7A (series), Chapter A 1) for requirements when carrying Grade D and above cargoes.)
+
+a. Mud characteristics. There are two general categories of mud: water based and oil based.
+
+1. Water -based mud that does not contain any oil is not subject to the requirements of combustible liquids. Industry may designate mud as water based even though it contains oil, however, the mud would then be subject to the requirements of this chapter. Oil in any amount will subject the mud to the requirements of this chapter.
+
+2. Generally, mud containing oil is considered a Grade E combustible liquid. However, it may be classed even higher (such as for "spent" or recycled mud). It is the shipper's responsibility to know the characteristics of the mud.
+
+b. Carriage. Oil based mud must be carried in integral, portable, independent, or other approved tanks under the same considerations as other bulk combustible cargo. Oil based mud must not be carried in open hopper type tanks or in any other non- approved independent tanks.
+
+c. Quantity. Because of the densities of mud, special considerations should be given for stability of the vessel and sizing of independent tanks. The 20 percent deadweight limit is computed using a specific gravity of 1.0. Special consideration may be given by Commandant ( CG-CVC) for existing vessels to carry greater amounts.
+
+2. Oil Field Wastes
+
+Wastes, solids, cuttings, etc., that contain oil in any quantity are considered hazardous materials under the FWPCA. Materials that have been contaminated by oil, even if washed, processed, or otherwise diluted to a low combustibility hazard, are regulated as Grade E products if capable of leaving a sheen. Therefore, transportation in non-approved tanks or uninspected barges (such as open hopper) is not authorized.
+
+3. Lube Oil
+
+Lube oil and other Grade E products with an FP greater than 200° F are not regulated under 49 CFR when carried in packaged form.
+
+4. Methanol
+
+Methanol (Methyl Alcohol) is a Grade C flammable liquid that is used by the offshore oil industry. The carriage of methanol in either integral or fixed independent tanks on OSVs is authorized, provided the following conditions are met:
+
+a. Paragraph 11.H of this Chapter, Applicable Tank Vessel Requirements, applies.
+b. Paragraph 11.1 of this Chapter, Vessel Operating Requirements, applies.
+c. A B- V semi -portable fire extinguisher must be provided on the open deck and be capable of reaching the methanol cargo tanks, tank vents, and transfer connections.
+d. A fixed extinguishing system that meets the requirements of 46 CFR 34.05- 5 must be provided to protect methanol pump rooms.
+e. Portable fire extinguishers must be provided as denoted for cargo areas in 46 CFR Table 34.50- 10(a). If used, the foam extinguishing agent for semi -portable and portable fire extinguishers protecting methanol areas must be of the polar solvent (alcohol resistant) type.
+f. Methanol tanks may not be located vertically below the vessel's accommodations, service spaces, or navigating stations.
+
+A. CRITERIA FOR REGULATION
+
+The liquid chemicals regulated as hazardous materials under 46 CFR Subchapter O (Certain Bulk Dangerous Cargoes) all have one or more of the following properties:
+
+a. Unusual flammability (e.g., wider flammable limits, lower auto- ignition temperature), compared to normal petroleum products.
+b. Toxicity (chronic or acute).
+c. Corrosivity.
+d. Self-reactivity (polymerization).
+e. Instability or unusual reactivity.
+f. Pyrophoricity (auto- ignition).
+g. The potential to cause marine pollution (damage to marine resources, bio- accumulation, tainting of seafood, reduction of amenities).
+
+B. PRODUCT EVALUATION
+1.  Initial Review
+
+Before a new liquid product may be shipped in bulk, the shipper or manufacturer must submit a completed Characteristics of Liquid Chemicals Proposed for Bulk Water Movement, Form CG -4355, or the International Maritime Organization (IMO) equivalent, Circular Letter No. 944, "Characteristics of Liquid Chemicals Proposed for Marine Transport in Bulk," to the Hazardous Materials Standards Division, Commandant (CG-ENG). The Hazardous Materials Standards Division, Commandant (CG -ENG), will then evaluate the data on this form and other information in available literature about the product. Based on the properties of the product, Commandant (CG-ENG) will make a decision to place it in one of the following four categories:
+
+a. Flammable or combustible liquid regulated under 46 CFR Subchapter D.
+b. Hazardous or polluting materials regulated under 46 CFR Subchapter O.
+c. Too dangerous to be shipped in bulk.
+d. Unregulated.
+
+2. Authorization for Shipment
+
+Until a product has been evaluated and authorized for shipment, it is prohibited from bulk carriage. If the product is within the purview of Subchapter O, tentative minimum requirements for its safe carriage are developed. Commandant (CG-ENG) will advise the shipper, all District Commanders (p), and the Marine Safety Center, Commandant (CG-MSC) of these requirements by letter or telex. This facilitates movement of the product prior to adoption of the minimum requirements as a final rule. Eventually, the product will be included in 46 CFR Table 151.05; 46 CFR 153, Table I; or 46 CFR 154, Table I. If a product that is offered for shipment is not included within one of these categories and the shipper cannot produce written authorization for shipment, Commandant (CG -ENG) can be contacted by telephone (commercial (202) 372- 1401).
+
+3. Regulatory Control
+
+If the product has no significant hazards other than flammability or combustibility, it is regulated under 46 CFR Subchapter D. If the product possesses one or more of the properties listed in A of this chapter, it is regulated under Subchapter O.
+
+NOTE: The definitions of flammable and combustible in Subchapter D differ from those in 49 CFR Subchapter C. A list of products regulated by neither Subchapter D nor Subchapter O is given in Appendix I to 46 CFR Part 153. Cargoes that have been reviewed but are presently not permitted in bulk in U.S. waters are:
+
+a. Acrolein;
+b. Chlorine (on self-propelled vessels);
+c. Ethylenimine;
+d. Hydrofluoric acid;
+e. Hydrogen;
+f. Hydrogen chloride;
+g. Hydrogen fluoride;
+h. Methylcyclopentadienyl manganese tricarbonyl;
+i. Nitric acid (greater than 70 percent concentration);
+j. Nitrogen tetroxide;
+k. Oxygen;
+l. Phosphorus trichloride; and
+m. beta-Propiolactone.
+
+C. PRODUCT CLASSIFICATION
+
+1. General Requirements
+
+Generally, products should be shipped under one of the names in the four categories given in B.1 above, rather than under trade names. The only exceptions would be a mixture consisting solely of products listed in Subchapter D or unregulated products. Some characteristics that are of interest when classifying a particular product and developing minimum requirements for its carriage in bulk are as follows:
+
+a. Flashpoint.
+b. Vapor pressure.
+c. Flammable limits.
+d. Auto-ignition temperature.
+e. Temperature of carriage.
+f. Boiling and freezing points.
+g. Toxicity of liquid and vapor.
+h. Reactivity with itself, air, water, or materials of construction.
+i. Corrosivity to human skin and materials of construction.
+j. Marine pollution potential.
+
+These and other chemical and physical properties are evaluated to determine requirements for safe carriage, such as for hull type, temperature and pressure of carriage, vent height, gauging and venting types, firefighting media, materials of construction restrictions, and electrical class and group. The overriding principle used in developing these requirements is containment of the product, commensurate with its hazards.
+
+2. Sample Evaluations
+
+Caustic soda (sodium hydroxide).
+
+Caustic soda is highly corrosive to human skin. It is also nonflammable and nontoxic, has virtually no vapor pressure, and is not corrosive to mild steel. Caustic soda has minimum requirements for carriage in a single-hull vessel, with open gauging and venting, no specified vent height, no special firefighting media, and no special electrical equipment requirements. Aluminum is not allowed in construction due to its corrosion by caustic soda and the associated generation of hydrogen.
+
+Allyl chloride.
+
+Allyl chloride is highly flammable and toxic, becomes more corrosive when wet, and has a relatively high vapor pressure. Accordingly, the requirements for its carriage specify separation from the vessel's hull, closed gauging and controlled venting (pressure-vacuum valves), a high vent, and special firefighting media and electrical equipment. The pressure-vacuum valve is required to be set at or above 21 kilopascal (kPa) gauge (3 psig) to minimize the venting of cargo due to tank breathing.
+
+3. Awareness
+
+Data on the properties of these products is important to merchant mariners and to marine inspectors. For their own safety, marine inspectors must be aware of the properties of cargoes they handle while they are aboard a vessel. Also, particular cargo properties may influence the Officer in Charge, Marine Inspection (OCMI) requirements for correction of deficiencies found during routine inspections.
+
+4. Sources of Information
+
+A marine inspector can usually find all necessary information on product properties in the latest editions of the Chemical Data Guide for Bulk Shipment by Water, COMDTINST M16616.6, and the Chemical Hazards Response Information System (CHRIS) Manuals, COMDTINST M16465.11 and M16465.12. For more information on product properties or advice on certain requirements, Commandant (CG-ENG) may be contacted at (202) 267- 0103.
+
+D. POLYMERIZATION
+
+1. Introduction
+
+Certain chemical products, called monomers, are required to be inhibited to prevent polymerization during transportation. A polymerization reaction is generally exothermic (characterized by the release of heat) and usually leads to the formation of a solid. Depending on the rate of reaction, polymerization may occur violently, causing severe structural damage by over-pressurization, or very slowly, resulting only in blocked transfer lines. Unfortunately, it is not possible to know precisely which monomers will behave violently in specific instances. Accordingly, the possibility of cargo polymerization must always be viewed as a serious matter.
+
+2. Use of Inhibitors
+
+Inhibitors are chemicals added to the monomer to help prevent its self-reaction. The regulations identify which cargoes need inhibitors, although they do not specify types or amounts. They also require the shipper to furnish a cargo certificate identifying the inhibitor used, the amount, the duration of its effectiveness, any temperature limitations, and actions to be taken if the length of the voyage exceeds the duration of the inhibitor (see 46 CFR 153.912 and 154.1818).
+
+E. CHEMICAL TANKSHIPS
+
+1. Introduction
+
+The modern chemical tankship is a small, sophisticated vessel, usually of 20- 30,000 Deadweight Tons (DWT) and having up to 42 tanks. These tanks are often constructed of, or coated or lined with, stainless steel. Such protective measures enable the carriage of cargoes that normally attack mild steel and ensure product purity. Piping and pumping systems are more highly segregated on chemical tankships than on conventional tankships, and deep well or submerged pumps are used in lieu of the traditional pumproom. The tanks are generally smaller, since most chemical cargoes are shipped in relatively small parcels. The terms "parcel tankers" and "drugstore ships" are sometimes used to refer to this class of ships.
+2. Chemical Tankship Operations
+
+The nature of the chemical trade is such that chemical tankship operations differ somewhat from those of conventional petroleum product tank vessels. Because of the small size of most cargoes, the parcel tanker usually visits many ports, sometimes moving among several berths in each port on a voyage. Others, however, are dedicated to a particular cargo carried on a regular route. As a result, some parcel tankers are approved for only one or two products, although most may carry many products. In general, chemical tankships carry chemicals that are flammable and similar to petroleum products in some respects. Chemical tankships often carry clean products. Consequently, U.S. chemical tanks hips are certificated under 46 CFR Subchapter D and endorsed to carry products under 46 CFR Subchapter O. The requirements in 46 CFR Subchapter O supplement, rather than supersede, the require ments of 46 CFR Subchapter D, unless otherwise stated.
+
+3. Applicable Regulations
+
+The regulations for chemical tankships are contained in 46 CFR Part 153 (Safety Rules for Self -Propelled Vessels Carrying Hazardous Liquids). In accordance with the IMO Bulk Chemical Code, the provisions in 46 CFR Part 153 became fully effective for existing tankers on 12 April 1978. Existing tankers must comply with all provisions of the regulations except for the following:
+
+############
+Subject CFR Citation
+Damage stability 46 CFR 172.130 and 172.133
+Door location 46 CFR 153.202
+Tank location 46 CFR 153.230 and 153.231
+Accommodation space location 46 CFR 153.234
+
+4. Miscellaneous Considerations
+
+The damage stability requirements for existing chemical tankers are described in subpart F.4 of this chapter. Tank location requirements are relaxed for existing tankers, except that the distance between a Type II containment system and the vessel's bottom may not be less than 760mm (30 inches). These considerations are handled by the MSC and Commandant ( CG-ENG). However, marine inspector s will be concerned with the relaxed provisions for accommodation spaces and door locations. Currently, the regulations do not prescribe specific standards for accommodation spaces in midship deckhouses on existing parcel tankers. It has been found impractical to demand compliance with the door location requirements of 46 CFR 153.202 aboard existing ships. The Coast Guard and other IMO administrations have agreed to guideli nes for the treatment of midship houses and door locations on existing ships. These are provided in Subpart F.3 of this Chapter.
+
+F. SAFETY RULES FOR SELF-PROPELLED VESSELS CARRYING HAZARDOUS LIQUIDS (46 CFR PART 153)
+
+1. Introduction
+
+As with any regulations, several areas of 46 CFR Part 153 have been modified, interpreted, and clarified as problems in their application were encountered. The following guidance was developed to ensure uniformity in the interpretation and application of 46 CFR Part 153. Technical problems in the appli cation of these regulations should be brought to the attention of Commandant ( CG-ENG) at ( 202)
+
+2. Applicability
+
+Inquiries have been made concerning the application of 46 CFR Part 153 to a parcel tanker carrying cargoes regulated under 46 CFR Part 153 only in a limited area of the cargo containment/tank section of the vessel. Many people have erroneously supposed that 46 CFR Part 153 would not apply to areas of the cargo containm ent/tank section if subject cargoes were not carried in these areas. An extension of this logic would lead to the treatment of individual tanks and piping systems as separate zones, subject to either 46 CFR Part 153 or Subchapter D. This approach, however, is not what the Commandant intended. It is true that some situations may warrant special considerations and also that cargoes regulated under 46 CFR Part 153 may be carried in only some of a vessel’s the cargo tanks. However, 46 CFR Part 153 standards for fire protection, ballast piping and equipment, electrical equipment, personnel safety, and operational requirements must be applied to the entire cargo containment section of the vessel.
+
+3. Standards for Midship and After Deckhous es Aboard Existing Vessels (46 CFR 153.7(c)(3) -(5))
+
+46 CFR 153.7(c)(3), (4), and (5) make allowances for existing vessels that do not meet 46 CFR 153.234 requirements ( such as vessels with midship deckhouses). S uch vessels often cannot comply with 46 C FR 153.200 and 153.202 (General Vessel Arrangements) requirements. The IMO Chemical Code also makes allowances for existing vessels with midship deckhouses. As a result, existing chemical tankers with an accommodation space in a midship deckhouse within the boundaries of the cargo area may continue to operate with this arrangement. When a toxic cargo (those for which 46 CFR 153.526 is given as a special requirement in Table I of 46 CFR Part 153) or flammable cargo is carried in the cargo tanks below the midship house, the following standards must be applied:
+
+############
+
+a. Cargo tank and accommodation space boundaries. Accommodations are not allowed in the space bounded by the tops of the cargo tanks and the first deck of the midship deckhouse (referred to as the bridge space).
+
+b. No through deck penetrations. Cargo tank tops forming a boundary of the bridge space must be free of any through deck penetrations such as cargo tank hatches, Butterworth openings, deep well pumps, ullage openings, and sounding tubes.
+
+c. Deck penetrations. Electrical cables, pipe runs, and other penetrations in the first deck of the midship deckhouse, immediately above the cargo tank tops, are allowed if they are made gastight. Doors, hatches, and other access openings in this deck of the midship house are not permitted.
+
+d. Ventilation systems. When the bridge space is bounded by a bulkhead at either side at the fore or aft end, the ventilation system must meet the requirements of 46 CFR 153.312 and 110.15- 1(b)(16). The increased ventilation rate prescribed in 46 CFR 153.316 does not apply to the bridge space, regardless of the cargo carried.
+
+e. Electrical installations. Electrical installations within the bridge space must meet the requirements of 46 CFR Subchapter J.
+
+f. Non-welded fixed cargo piping joints. Except for approved connections to shut-off valves and expansion joints, runs of fixed cargo piping with non- welded joints are not permitted in the bridge space.
+
+g. Equivalencies. For existing vessels that are unable to meet the requirements of 46 CFR 153.200 and 153.202, the following measures are considered to provide an equivalent standard of safety and are acceptable in accordance with 46 CFR 153.10. These following measures apply to the carriage of any cargo listed in Table I of 46 CFR 153 in any tank on the vessel:
+
+(1) Portlights located on the forward bulkhead of the aft deckhouse accommodation and on the midship house bulkheads facing the cargo area, except for wheelhouse windows, must be fixed (i.e., incapable of being opened) and gastight.
+(2) Wheelhouse windows must meet the requirements of 46 CFR 153.200.
+(3) Doors in the forward bulkhead of the aft deckhouse accommodation with access to cargo tank deck must be permanently sealed.
+(a) Where existing arrangements preclude this, a suitable airlock arrangement at the door location must be provided. This installation must include a gastight, self-closing metal outer door and a substantially gastight , self -closing , inner door. This inner door must be at least a metal joiner door.
+
+(b) The airlock space between the doors must b e mechanically ventilated from a nonhazardous location and maintained at overpressure to the space outside the airlock.
+(c) An audible and visual alarm system must be provided to give warning on both sides of the airlock if both doors are open simultaneously.
+(4) Portlights on the side of the after deckhouse must also be fixed and gastight if they are located --
+(a) On the first deck (tier) above the cargo deck; and
+(b) Within 10 feet of the forward bulkhead, or within that distance aft of the forward bulkhead to the first side door, whichever is less.
+############
+
+(5) Doors located more than 2.4 meters above the cargo tank deck and facing the cargo tank area must be substantially gastight and self -closing. This provision applies to doors on the aft deckhouse acc ommodation, as well as the midship house (the Commandant has determined that solid metal or wooden joiner doors, except those having screens or louvers, will fulfill this requirement).
+(6) Because accommodations are not allowed in the bridge space, doors accessing the cargo tank deck from the bridge space are exempt from these requirements.
+
+h. Some existing chemical tankers have been constructed so that the after accommodation spaces partially extend over a cargo pumproom ( this forms the after end of the cargo tank area). If this pumproom services tanks that carry cargoes regulated under 46 CFR Part 153, the pumproom must meet the ventilation requirements of 46 CFR 153.312 and 153.316. The pumproom ventilation system must be in operation at the following times:
+
+(1) During all phases of cargo handling and transfer.
+(2) During tank cleaning and gas -freeing.
+(3) Whenever work involving equipment within the pumproom is undertaken.
+4.  Damage Stability Requirements for Existing Vessels
+
+a.  General. 46 CFR 153.7(c)(3) and (5) permit the endorsement of an existing vessel's cargo containment system as Type II or Type III if the vessel has a load line certificate and meets any additional requirements listed. Existing vessels are not required to meet the damage stability requirements of the IMO Chemical Code. Since 46 CFR Part 153 was developed from the Chemical Code, 46 CFR 153.7(c)(3) and (5) provide a similar waiver for existing vessels. Accordingly, such vessels need not meet the damage stability standards of 46 CFR 172.130, 172.133, and 153.231(b).
+
+b.  Endorsements for Type II containment. 46 CFR 153.7(c)(3) imposes tank shell separation requirements for the endorsement of Type II systems. A valid load line certificate does not guarantee that an existing vessel meets any particular damage stability standard, or that damage stability calculations were ever made. Consequently, the requirement for the load line certificate under 46 CFR 153.7(c)(3) and (5) should be considered in this context.
+
+c.  Requirements for conversions. 46 CFR 153.7(c)(4) stipulates that existing vessels undergoing conversions to upgrade to a Type II containment system by addition of double bottoms or wing tanks must meet the damage standards of 46 CFR 153.135 and 153.150 in all areas of the vessel, except the machinery spaces. Damage stability calculations are required for modifications of this nature and other structural modifications.
+
+5.  IMO Certificates
+
+A vessel that meets the definition of an existing vessel under 46 CFR 153.7(a)(2) and whose keel was laid after 12 April 1972 is considered a new vessel under the IMO Chemical Code. If the owner of such a vessel applies for an IMO Chemical Code Certificate of Fitness (COF), the vessel is required to meet the requirements of 46 CFR Part 153 and the recommendations of the IMO Chemical Code as applicable to new ships. (See 46 CFR 153.12.)
+
+6.  Hull Type Calculations and General Vessel Arrangements
+
+For existing vessels, see F.4 of this Chapter regarding damage stability standards and F.3 of this Chapter concerning standards for midship and aft deckhouses. (See 46 CFR 153.19, 172.130-150 and 46 CFR 153.200-202.)
+
+7.  Personnel Emergency and Safety Equipment
+
+a.  46 CFR 153.214(a). Under section 3.16.9 of the IMO Chemical Code, only one stretcher is required (see F.29 of this Chapter).
+
+b.  46 CFR 153.214(c). 46 CFR Part 153 contains no standards for evaluating first aid kits; any first aid equipment is sufficient to meet this requirement.
+
+8.  Access to Void Spaces
+
+Regulations regarding access to void spaces and cargo tank access are located in 46 CFR 153.217 and 46 CFR 153.254, respectively. A summary of the requirements follows.
+
+a.  General. In several cases, different criteria apparently have been applied to distinguish an access opening and an access trunk to a cargo tank or void space.
+
+(1) Access openings to void spaces and cargo tanks with 24-inch high coamings are not considered to be access trunks under 46 CFR 153.254(d). Access trunks are larger to account for internal projections, such as side-mounted ladders, that decrease the effective cross-sectional area of the opening.
+
+(2) Whether or not an access opening to a cargo tank or void space is considered an access trunk depends upon the placement of mounted ladders and the resultant cross-sectional area.
+
+b.  Access requirements. Horizontal access openings (e.g., hatches and manholes) must be of sufficient size to allow a person wearing a breathing apparatus to ascend or descend any ladder without obstruction.
+
+(1) Minor relaxations of these standards will be permitted for existing vessels if the existing horizontal access openings allow a person wearing a breathing apparatus to enter or leave a space freely.
+
+(2) Enlarging an access opening to the dimensions required under 46 CFR 153.254 might impair the structural integrity of the tank or space. The intent of this section will be met if such an access opening is enlarged as much as is possible without impairing the structural integrity of the space.
+
+9.  Type II Containment Systems
+
+See Subpart F.4 of this Chapter for more information concerning the damage stability requirements for existing vessels, or 46 CFR 153.231(b) for the relevant regulations.
+
+10. Fore and Aft Location
+
+See Subpart F.3 of this Chapter for more information or 46 CFR 153.234 for the relevant regulations.
+
+11. Piping System Design (46 CFR 153.280)
+
+Specifications and acceptable materials for piping systems are given in 46 CFR 56.60. Under 46 CFR 56.10-5(d), plastic pipe and Fiber Glass-Reinforced Plastic (FRP) pipe, such as "Bonstrand," must not be used in transfer systems for flammable or combustible cargoes. The Commandant has recognized the need for parcel tankers to load relatively small quantities of hazardous cargoes without using the usual manifold or pumproom arrangements. The Commandant considers direct loading with portable piping and hoses to be a suitable alternative. When loading larger quantities (i.e., when one cargo is loaded into more than two tanks), fixed piping is required. Direct loading through a fixed drop line or deep well pump stack from a portable piping system must comply with the following requirements:
+
+a.  All connections between hoses, pipes, fixed drop lines, and deep well pumps must be made in accordance with 33 CFR 156.130. Any connection between hose or pipe sections that have a reduced portable containment below must have a tightened bolt in each hole of the flange to secure the connections.
+
+b.  After disconnection, pipes and hoses must be drained and cleaned before removal from the containment area.
+
+c.  Not more than one "Y" piece may be used for each cargo loaded (i.e., not more than two tanks may be loaded with any one cargo using this method).
+
+d.  Hoses must meet the requirements of 33 CFR 154.500 or 46 CFR 153.940, according to the cargo being transferred. A portable hose line must not consist of more than four sections or exceed 100 feet in length.
+
+e.  Portable pipes must be constructed of materials in accordance with the requirements of 46 CFR Part 56.
+
+f.  When loading or discharging a cargo that is required by 46 CFR Part 153 to have closed or restricted gauging, the fixed drop line or deep well pump connection must have a stop valve. After transfer, the valve should be left in place, closed, and blanked.
+
+12. Cargo Filling Lines
+
+The cargo tank filling lines on existing vessels that terminate near the bottom of the tank will meet the intent of this provision, and do not warrant modification. See 46 CFR 153.282 for the relevant regulation.
+
+13. Emergency Shutdown Stations
+
+46 CFR 153.296(a) requires two emergency shutdown stations. Section 2.11.1 of the Chemical Code requires only that remote shutdown devices be installed for all cargo pumps and similar equipment (see F.29 below).
+
+14. Ventilation Standards and Rates
+
+For information about ventilation standards and rates, refer to the CFR (46 CFR 153.312 and 153.316) and see Subpart F.3 of this Chapter.
+
+15. Hoisting Arrangements
+
+The Chemical Code does not specify a minimum lifting capacity for the pumproom hoisting arrangement. Specifications prescribed by home administrations are acceptable for foreign vessels possessing COFs. For more information, see Subpart F.29 of this Chapter or 46 CFR 153.332 for the relevant regulations.
+
+16. Bilge Pumping
+
+For the U.S. regulations concerning bilge pumping systems, see 46 CFR 153.334(b)(2). The Chemical Code does not require a bilge alarm in cargo pumprooms. See Subpart F.29 of this chapter for more information.
+
+17. Venting System Outlets
+
+This provision does not refer to flame screens. Additionally, the IMO Chemical Code does not contain specifications for mesh flame screens. Whenever foreign vessels carry flammable or combustible cargoes, flame screens must be installed in accordance with 46 CFR 30.10-25, 32.55-20, and 35.30-10. (46 CFR 153.352)
+18. Venting System Flow Capacity
+
+Section 2.13.2 of the Chemical Code includes the standards of 46 CFR 153.358. The pressure differential specified in the Code is 20 kPa gauge (2.9 psig) in lieu of 28 kPa gauge (4.06 psig). The unit kPa equals 0.145 psi; see Appendix III to 46 CFR Part 153. A COF is sufficient to document that a foreign vessel meets these requirements. (46 CFR 153.358.)
+
+19. Venting System Restriction
+
+Rupture discs may be used in series with pressure-vacuum valves. (46 CFR 153.360)
+
+20. Required Closed Gauges
+
+Many foreign and U.S. parcel tankers use float type closed gauging devices as portable gauging equipment. The Coast Guard accepts portable closed gauging in lieu of a permanent installation provided it is installed and operated according to the gauge manufacturer's instructions. Some float type gauges require the installation of guide wires to ensure proper operation; others have been designed so that guide wires are not necessary. The manufacturer's installation and operating manual must be maintained aboard vessels equipped with these gauges for reference should a question arise over the need for guide wires. Vessels must also have documentation from the manufacturer confirming that gauges can be used without guide wires. 46 CFR 153.404(d) also contains specifications for cargo sampling systems (although it does not require such installations).
+
+############
+
+21. Heat Transfer Systems
+
+Foreign vessels must comply with the standards of their classification societies or home administrations. See Subpart F.29 of this Chapter for more information or 46 CFR 153.430 for the relevant regulations.
+
+22. Heat Transfer Fluid
+
+The heat transfer fluid requirements of 46 CFR 153.436 are intended to ensure that the heating medium and the cargo are compatible. Foreign vessels must comply with section 2.15.2 of the Chemical Code, which is equivalent to 46 CFR 153.436.
+
+23. Cargo Pressure or Temperature Alarms
+
+All foreign and U.S. vessels must meet either 46 CFR 153.438(a)(1) or (2) and 153.438(b). Section 2.15.5 of the Chemical Code refers only to a temperature measuring system.
+NOTE: Section 153.438(b) exceeds section 2.15.5 of the Code, which does not require an alarm on the bridge. The temperature and pressure sensing arrangements required by this section must be independent of other temperature or pressure sensing arrangements, in accordance with 46 CFR 153.438(c). Under 46 CFR Part 153, alarms are required only for cooling systems, while the IMO requires alarms if overcooling or overheating could result in a dangerous condition.
+
+24. Inert Gas Systems
+
+46 CFR 153.500, which relates to inert gas systems, is equivalent to section 2.19.3 of the Chemical Code with regard to inert gas generation (see Subpart F.29 of this Chapter for more information).
+
+25. Special Requirements for Unusually Toxic Cargoes
+
+46 CFR 153.525(c) specifies the placement of cargo pumps and valves for the carriage of unusually toxic cargoes. There are major differences between the 46 CFR 153.525(c) requirements and the IMO Chemical Code, which does not require pumps and valves for unusually toxic cargoes to be operable from the weather deck. Sections 2.10.4 and 4.13.3 of the Code address standards for pumps and valves, but do not impose a standard equivalent to 46 CFR 153.525(c). See F.29 of this chapter for more information.
+
+46 CFR 153.525(d) gives heat transfer system requirements for the carriage of unusually toxic cargoes. 46 CFR 153.525(d) corresponds to section 2.15.6 of the Chemical Code. Its intent is to minimize the contamination of potable water, feedwater, other cargoes, and fuel by toxic cargoes. The most common heating system on existing ships uses low-pressure steam produced by the main propulsion boilers or by cargo-heating boilers located in the engineroom. Condensate drainage from the cargo tank heating coils is returned to the feedwater system by an inspection tank. Section 2.15.6(c) of the Code provides for this type of heating system. Although systems that meet the requirements of 46 CFR 153.525(d)(1) or (2), or sections 2.15.6(a) or (b) of the Code, are preferable, the steam heating system previously described is acceptable if the heating coil drainage returns to an inspection tank located on deck, within the cargo containment area. The inspection tank must be fitted with a drain valve to facilitate sampling of returns for cargoes that are clear and soluble in water, and therefore virtually impossible to detect visually. If a vessel owner elects to use this or a similar system, they must demonstrate that the necessary safeguards have been incorporated in the design.
+
+############
+
+26. Toxic Vapor Detectors
+
+Vapor detection equipment may be unavailable for some cargoes to which 46 CFR 153.526 applies. If the required equipment is unavailable for a particular toxic cargo that is transferred through a pumproom, the requirements of 46 CFR 153.336(b) must be applied. A vessel carrying a toxic cargo that is not piped through pumprooms, but rather through in-tank pumps, need not have the additional vapor detection equipment required by 46 CFR 153.336(b) (see Subpart F.29 of this Chapter for more details). Questions concerning the commercial availability of toxic vapor detectors for specific cargoes should be directed to Commandant (CG-ENG).
+
+27. Special Requirements for Alkylene
+
+Water spray requirements for propylene oxide are found in Section 4.7.21 of the IMO Chemical Code. Under 46 CFR 153.530(p), the water spray system must operate automatically, while section 4.7.21 of the Code does not require automatic operation of the water spray system. All foreign and U.S. vessels that handle alkylene oxides must comply with 46 CFR 153.530(p). See Subpart F.29 of this Chapter for more details.
+
+28. Special Requirements for Acids
+
+Litmus paper or similar indicators will satisfy the acid-detection requirements of 46 CFR 153.554(c).
+
+29. Examination for Letter of Compliance (LOC)
+
+Foreign vessels must be examined for compliance with the IMO Chemical Code. Foreign flag vessels holding IMO Chemical Code COFs must still satisfy certain design and equipment requirements from 46 CFR Part 153. These requirements are as follows:
+
+a. A vessel transporting a cargo with vapor pressure that exceeds 100 kPa absolute at 37.8 oC must meet the requirements of 46 CFR 153.370, 153.371, and 153.438. (See 153.9(a)(2) and F.23 of this Chapter).
+b. A vessel transporting alkylene oxides must meet the requirements of 46 CFR 153.530 (b), (d) and (p)(1). (See 153.9(a)(1) and F3 of this Chapter.)
+
+The requirements of 46 CFR 153 Subpart C apply to all foreign flag vessels. For areas in which the Code’s intent is unclear, 46 CFR Part 153 must be used as guidance. Questions should be referred to Commandant (CG-CVC). (46 CFR 153.808.)
+
+30. Certificate Endorsements
+
+Under 46 CFR 153.900(a), before a U.S. vessel is permitted to carry a cargo listed in Table I of 46 CFR 153, the vessel must have either a Certificate of Inspection (COI), Form CG -841 or a COI Amendment specifically endorsed for each cargo. The endorsement must list each cargo by name and the cargo tank(s) in which carriage is permitted. Hull type classification must also be shown on the form as "TANKSHIP/HULL TYPE (I, II, or III, as appropriate)."
+
+31. Cargo Information Cards
+
+46 CFR 153.907 requires the master of a vessel to have onboard certain information about cargo carried. Possible sources of cargo information include the shipper or manufacturer of the chemical, the CHRIS Manuals, and the I.C.S. Tanker Safety Guide. The card may be printed on both sides. 46 CFR 153.907 will be revised to reflect this.
+
+############
+
+32. Protective Clothing Required
+
+The protective clothing requirement of 46 CFR 153.933 applies only to persons on the vessel forward of the after deckhouse, who are engaged in the jobs listed in 46 CFR 153.933. Therefore, this requirement would apply to terminal employees and personnel aboard the vessel who are engaged in any of those tasks.
+33. Entry into Spaces
+
+46 CFR 153.934(b) requires the master to ensure that personnel wear protective equipment with a self-contained breathing apparatus, if they enter cargo tanks, pumprooms, or void spaces that are not freed of toxic vapors or that lack sufficient oxygen to support life. This requirement applies to all cargoes listed in Table I of 46 CFR 153.
+
+34. Standards for Marking of Cargo Hose
+
+The requirements of 46 CFR 153.940 apply only to cargo hoses used to transfer cargoes listed in Table I of 46 CFR 153 to or from a parcel tanker, including terminal hoses that are involved in the transfer of Table I cargoes. See Subpart F.11 of this Chapter for more information.
+
+35. Connecting a Cargo Hose
+
+46 CFR 153.972 requires the person in charge of cargo transfer to use a hose that meets 46 CFR 153.940 requirements.
+
+36. Plugged Scuppers for Inorganic Acids (33 CFR 155.310)
+
+33 CFR 155.310 requires deck scuppers to be plugged as a condition for approving or continuing bulk liquid hazardous material cargo transfer operations.
+
+a. It had been suggested that this prohibition against open scuppers may be inappropriate for certain cargoes. For example, inorganic acids are considered very corrosive to ordinary ferrous metals and alloys. The spill or leak procedures cited in the Chemical Data Guide for Bulk Shipment by Water recommend that certain inorganic acids (e.g., phosphoric acid) be flushed with large amounts of water. It follows that if an inorganic acid spill occurred on deck and could not be washed off due to plugged scuppers, then the vessel's deck plating might be harmed.
+
+b. Following careful consideration of the matter, the Coast Guard determined that the prohibition against open scuppers is appropriate for inorganic acid carriers.
+
+(1) Inorganic acids are considered Noxious Liquid Substances (NLS) under MARPOL, Annex II (Regulations for the Control of Pollution by Noxious Liquid Substances in Bulk). Annex II regulates the discharge of NLS according to their category of hazard classification.
+
+(2) Under MARPOL Annex II, discharge of even the least harmful NLS, Category D, is prohibited unless it has been diluted to a concentration of 1 part of the substance in 10 parts of water. Therefore, scrupulous attention to duty during the cargo transfer process by cognizant personnel, in combination with the cargo discharge containment equipment required by 33 CFR 155.310(b)(3), are the primary means for protection from incidental spillage.
+
+(3) Unplugged scuppers would potentially allow the release of spilled acid directly into a waterway before it could be adequately diluted.
+
+c. Although inorganic acids do pose a corrosion hazard to ferrous materials, the potential for corrosion damage can be minimized by quickly diluting the spill or neutralizing it with appropriate agents. In only the most catastrophic scenarios might an untreated spill remain on deck long enough to cause significant damage to a vessel's deck plating. The possible environmental consequences resulting from an inadequately diluted inorganic acid spill entering a waterway through open scuppers greatly exceed the threat of structural damage to the vessel.
+
+d. Accordingly, the requirement to plug deck scuppers applies regardless of the cargo type being carried. In addition, although discharge of a diluted inorganic acid may be acceptable within the parameters established in MARPOL Annex II, responsible personnel should bear in mind the obligation to comply with the hazardous material discharge reportable quantities criteria in 33 CFR Subpart B.
+
+############
+
+G. CHEMICAL BARGES
+
+1. General
+
+46 CFR Part 151, which regulates barges carrying certain bulk dangerous cargoes, became effective on 1 June 1970. 46 CFR Part 151 required the upgrading of existing barges not previously certificated under 46 CFR Parts 36, 38, 39, 40, and 98. The operating requirements in 46 CFR Part 151 apply to all barges. The intent of these regulations is the same as those for ships; containment of products to a degree commensurate with their hazards. Barges carrying chemical products that are flammable or combustible are certificated under 46 CFR Subchapter D (Tank Vessels). Vessels carrying only nonflammable products can be certificated under Subchapter D or Subchapter I (Cargo and Miscellaneous Vessels), at the owner's preference. If the owner does not indicate a choice, the barge must be certificated under Subchapter D. The barge’s COI will then be endorsed for the carriage of specific cargoes under 46 CFR Part 151.
+
+2. Barges
+
+The regulations for barges carrying certain bulk dangerous cargoes follow the same general format those for ships (i.e., general requirements for all chemical barges and a table of minimum and special requirements for individual products). Commandant (CG-ENG) establishes tentative minimum requirements for new cargoes. The shipper, all District Commanders (m), and the MSC are notified of these by letter.
+
+3. Clarification
+
+Since 46 CFR Part 151 was published, some confusion has arisen in terms of interpretation and application. To clarify these points, and to specifically address manned barges, a regulatory project has been initiated to revise 46 CFR Part 151. In the interim, questions involving manned barges or other areas open to interpretation in 46 CFR Part 151 should be referred to Commandant (CG-ENG) at 202-267-0103. Questions regarding minimum requirements for cargoes that are not listed in 46 CFR Table 151.05 should be referred to Commandant (CG-ENG) at 202-267-0214. For an index for 46 CFR Part 151, see NVIC 5-71.
+
+H. COMPATIBILITY OF CARGOES (46 CFR PART 150, SUBPART A)
+
+1. General
+
+Cargo compatibility information is contained in 46 CFR Part 150, Subpart A, Compatibility of Cargoes. This subpart applies to all U.S. and foreign vessels subject to inspection. It gives a definitive answer to the question of whether two chemical cargoes are compatible and, therefore, whether they may be carried in adjacent tanks. Mixing of incompatible chemicals in a tank or pipe may cause a chemical reaction that generates significant heat or gas which can be very hazardous to personnel and property. 46 CFR 150.150 allows the Commandant to grant exceptions to the compatibility chart, according to experimental data submitted to support exception requests.
+
+2. Testing Procedures
+
+Appendix III describes the test procedure to be followed by a shipper or manufacturer developing cargo compatibility data. 46 CFR 150.160 requires the operator of a vessel carrying a cargo that is excepted under 46 CFR 150.150 but not listed in Appendix I, Exceptions to the Chart, to do the following:
+
+a. Verify that Commandant (CG-ENG) has authorized, by letter or message, the pairing of cargoes as an exception to the compatibility chart.
+
+b. Maintain a copy of the authorization letter or message aboard the vessel.
+
+############
+
+I. INSPECTION OF VESSELS CARRYING HAZARDOUS LIQUID CARGOES
+
+1. Introduction
+
+The amount and variety of unconventional, hazardous liquid cargo being transported in bulk by water is steadily increasing. Although the transportation and inspection hazards of petroleum products are generally well understood, newer commodities often have unusual properties, e.g., wide flammability limits, low ignition temperatures, foam incompatibility, or increased toxicity and reactivity. Marine safety personnel should be aware of special circumstances that may be involved in the shipment of hazardous materials in the marine environment.
+
+2. References Concerning Hazardous or Dangerous Cargoes
+
+All marine safety personnel who inspect vessels carrying hazardous/dangerous cargoes in bulk must become familiar with the chemical and physical properties of these products and the requirements of 46 CFR Parts 150, 151, 153, 154, and 154a. Chemical and physical property information can be obtained from the publications listed in subpart C.4 of this chapter.
+3. Venting Systems Inspection
+
+a. Solids shipped in molten form (sulphur, phenol). There are a number of products transported in tank vessels that may plug or coat flame screens and, in some instances, vent lines and pressure relief valves in cargo transfer piping.
+
+(1) One such class of chemicals includes solids shipped in molten form, such as sulfur or phenol. Hot vapors from these molten materials rise and can condense and solidify in cooler vent pipes, vent lines, and flame screens.
+(2) Plugged lines may eventually occur if such deposits are not cleaned when they build up. In severe cases, heating system trace lines may be necessary for cargo, relief, and vent lines.
+
+b. Monomer substances. Another class of chemicals that can cause similar problems is the monomers, i.e., styrene, ethyl acrylate, methyl methacrylate, and vinyl acetate.
+
+(1) Although these substances are inhibited in the liquid phase to help prevent self-reaction, the vapors are uninhibited and may polymerize (i.e., form chains of macro-molecules from smaller, reactive molecules) on the walls of the vent lines and flame screens.
+(2) Buildup can occur after several years of service, in some cases much faster. Overfilling of a tank or sloshing of product in the tank during a voyage can also deposit liquid in the horizontal runs of a vent system; the liquid will solidify after depletion of the inhibitor. Specialized inspection scopes have been devised which will allow detection of polymer deposits in vent lines and should be employed.
+
+c. Caution during inspections. Because of the potential problems of coated flame screens and blocked vent lines, these systems should be examined at each scheduled inspection to determine if chemical buildup is occurring.
+
+(1) Cleaning will be necessary if substantial coating is detected. Buildup caused by polymerization may be very difficult to remove, requiring special solvents, scraping, or exposure to high temperatures.
+(2) The owner or operator should be advised that an active maintenance program is needed to maintain safety equipment against polymer buildup.
+(3) Safety of personnel must also be considered. Toxic product vapors that condense or are heavier than air may fall to the deck and endanger personnel.
+(4) In many cases, the first loading and discharge of toxic cargoes should be witnessed by Coast Guard personnel, to ensure that all recognizable factors of personnel safety have been considered in the design of the system.
+
+d. Toxic cargoes. 46 CFR 151.50-5(e) requires toxic cargo vapors from gravity type tanks to be controlled by using a Pressure/Vacuum (PV) valve.
+
+(1) The minimum pressure setting of the PV valve is 0.21 kg/cm2 gauge (3 psig) but must not exceed the design pressure of the cargo tank. The intent of this requirement is to reduce the probability of the cargo tank venting during operations other than transfers.
+(2) The minimum setting of the PV valve and design pressure of the cargo tank should not be less than 0.21 kg/cm2 gauge (3 psig).
+(3) The installation of the proper PV valve should be verified for barges authorized to carry toxic cargoes in gravity type cargo tanks.
+(4) The pressure and vacuum setting of this PV valve should be entered in the Marine Safety Information System (Vessel File Cargo System product set).
+
+4. Carriage of Alkylene Oxides
+
+a. General concerns. The dangers presented by alkylene oxides, such as ethylene oxide or propylene oxide, are threefold:
+
+(1) They present a severe explosion hazard;
+(2) They are carried under a nitrogen pad because they polymerize in the atmosphere. Any residual cargo can react in this manner and foul piping and fittings; and
+(3) They are highly reactive, and may not be compatible with the alternate cargo. Saturated hydrocarbons (e.g., propane, butane, pentane, hexane) present no compatibility problems. However, alkylene oxides can react violently, sometimes explosively, with acids, bases, alcohols, aldehydes, amines, and other compounds.
+
+b. Tank cleaning standards. For the reasons described above, the importance of thorough cleaning of alkylene oxide tanks cannot be overemphasized.
+
+(1) Methods recommended for the satisfactory cleaning of such tanks are provided in NVIC 5-79, "Inerting and Tank Cleaning Procedures for Alkylene Oxide Containment Systems."
+(2) Under 46 CFR 153.1011(a), tanks being taken out of propylene oxide service or being returned to such service from carriage of other cargoes must be cleaned to the satisfaction of the marine inspector. Prior to inspection, the inspector should be familiar with the procedures planned for cleaning a particular tank.
+
+c. Alternate cleaning methods. Tank cleaning methods that differ from those outlined in NVIC 5-79 may be employed provided they are consistent with good cleaning practices, as outlined by a recognized authority, such as the National Fire Protection Association. In this regard, there should be no evidence of residue and a marine chemist certificate should be provided. When the cleaning is completed to the inspector's satisfaction and the tank is inerted, alkylene oxide may be loaded. See MSM Volume II, Material Inspection, COMDTINST M16000.7A (series), Chapter A5 concerning the role of the marine chemist.
+
+A. GENERAL CONSIDERATIONS
+
+1. Introduction
+
+Like bulk liquid chemicals, bulk liquefied gases are evaluated for shipment according to their particular properties. Liquefied gases have most of the same properties as liquid chemicals. The procedures outlined in MSM Volume II, Material Inspection, COMDTINST M16000.7A (series), Chapter F1 for evaluating new products and establishing minimum requirements are also used to evaluate bulk liquefied gases for shipment. Some gases, such as the alkanes (methane, ethane, propane, etc.), have flammability as their primary hazard. Others are nonflammable but highly toxic, such as chlorine and sulfur dioxide. Still others are corrosive, capable of polymerization, unstable, or incompatible with common materials of construction. Some combinations of liquefied gases are incompatible; others require inhibition, as do liquid chemicals. Most gases carried in bulk are designated as "cargoes of particular hazard" in 33 CFR 126.10 because of their potential ability to cause damage over large areas.
+
+2. Liquefaction Techniques
+
+When gases are carried in bulk, they are normally liquefied by compression, refrigeration, or both. Thus, they are carried in "unnatural" states, possessing tremendous amounts of potential energy. To contain them during carriage, their pressures or temperatures must be maintained. Under Coast Guard regulations, a cargo tank for gases must be able to withstand the vapor pressure of the cargo at 45°C or have reliquefaction equipment. The only exceptions to this rule are tanks that carry Liquefied Natural Gas (LNG) (methane) or nitrogen.
+NOTE: Nitrogen is not currently carried as a cargo, but is carried as an inert gas. Methane cannot be liquefied by pressure alone at temperatures above -82.2°C. Reliquefaction of methane is not currently practical on ships because the process requires very large refrigeration plants. Consequently, the boil-off vapors from LNG tanks are burned in the ship's boilers in order to control temperature and pressure within the cargo tanks without venting to the atmosphere.
+
+3. Determination of the Gaseous State
+
+The breakpoint between liquids and gases for purposes of the regulations is somewhat arbitrary. In the past, the breakpoint has been a Reid Vapor Pressure (RVP) of 276 kilopascal (kPa) absolute (40 psia). However, when the International Maritime Organization (IMO) developed the IMO Gas Code, certain products with RVPs below 276 kPa absolute were included. The Coast Guard regulations for gas ships now apply to cargoes with an RVP of 172 kPa absolute (25 psia) or higher. This includes the products that the IMO has included in the IMO Gas Code. The IMO Code has also been amended to allow the carriage of seven high vapor pressure chemicals previously allowed only on chemical tankers: propylene oxide, isoprene, isopropylamine, diethyl ether, monoethylamine, vinylethyl ether, and vinylidene chloride. All of these have an RVP between 101 and 172 kPa absolute. Although these products do not meet the definition of a liquefied gas, they have been considered for carriage on gas ships. Special requirements for their carriage are similar to those for chemical carriers. U.S. gas ship regulations will be revised in the future to include these products.
+4. Addressing the Carriage of LNG
+
+The Coast Guard has published a guide to LNG: Liquefied Natural Gas and Liquefied Petroleum Gas - Views and Practices, Policy and Safety, Commandant Instruction (COMDTINST) M16616.4. Ports that handle LNG ships have also published contingency plans concerning LNG incidents.
+
+B. NEW GAS SHIPS
+
+1. Introduction
+
+"New" gas ships are defined under the IMO Gas Code for New Ships and 46 CFR Part 154 as ships contracted after 31 October 1976, having a keel laid after 31 December 1976, or delivered after 30 June 1980. Any ship that meets the standards of this code, regardless of its age, may be issued a Certificate of Fitness (COF).
+
+2. Containment of Cargo
+
+The major difference between a gas ship and an ordinary tanker is the cargo containment system. Due to a wealth of available information about containment systems in use (mostly about LNG tanks), this is not discussed in detail here. An overview of the types of tanks used on gas carriers follows:
+
+a. Integral gravity tanks. These are similar to conventional tanks on ordinary tankers. They cannot be used for cargoes carried below -10°C without special approval, and are generally not approved for pressures above 24.5 kPa gauge (3.55 psig). As a result, they are rarely encountered on gas ships.
+
+b. Membrane tanks. As the name implies, these are very thin-walled tanks. They are not self-supporting and they must have a full secondary barrier, essentially another tank, surrounding the primary barrier. The primary and secondary barriers and the insulation are all supported by the inner hull of the vessel. These tanks are capable of withstanding very low pressures only, internally and externally. They are used primarily for carriage of LNG.
+
+c. Semi-membrane tanks. These are similar to membrane tanks. However, they are self-supporting when empty, and thus may be built apart from the ship's hull and subsequently lowered into it. They have not been widely used.
+
+d. Independent tanks. There are three types of independent self-supporting tanks, or tanks that can be built outside the ship's hull. They do not form part of the ship's hull and are not essential to hull strength.
+
+(1) Type A. These are prism-shaped tanks having internal or external stiffeners. They are required to have secondary barriers, and are very common on gas ships.
+
+(2) Type B. These tanks are very much like pressure vessels, except that the weight, rather than the vapor pressure, of the cargo is the predominant design parameter. They do not fully meet the design criteria for pressure vessels. However, their rounded forms are easier to analyze than Type A tanks. As a result, they are only required to have a partial secondary barrier, which is essentially an extremely large drip pan. The primary example of this type is the large spherical tank aboard an LNG ship. These tanks are designed to withstand about 207 kPa gauge (30 psig), although in practice the safety relief valves are set to relieve at pressures below 69 kPa gauge (10 psig).
+
+(3) Type C. True pressure vessels, these are very common in gas ships other than LNG carriers. They may or may not be refrigerated and insulated, and no secondary barrier is required.
+
+3. Regulatory Safety Factors
+
+All tank types except Type C independent tanks are heavily instrumented, with gas detection equipment in the hold and interbarrier spaces, temperature sensors, and pressure gauges. Hold spaces for tanks other than Types B and C must be inerted if the cargo is flammable. Hold spaces for Type B tanks or refrigerated Type C tanks may be filled with dry air with a dew point of -45°C or lower; ships with Type B tanks must be capable of inerting the largest hold space rapidly if a leak is detected. 46 CFR Part 154 requires higher safety standards than the IMO Gas Code, as outlined in the following subparagraphs:
+
+a. Design of type B and C tanks. U.S. regulations dictate that type B and C tanks must be designed with an allowable stress factor of A = 4.0. The IMO Gas Code makes provisions for indicating compliance with the U.S. standard by listing the allowable stress factors on the COF. U.S. and foreign vessels must meet this standard.
+
+NOTE: The IMO Gas Code permits the use of an A = 3.0 factor for some materials.
+
+b. Design ambient temperatures. Except for vessels with independent Type C tanks, the U.S. regulations require lower ambient design temperatures than the IMO Gas Code does. The vessel’s COF must show the design temperatures. A foreign ship will not be issued a Letter of Compliance (LOC) if it has not met the U.S. standard.
+
+c. Cargo tank pressure/ temperature control. U.S. regulations do not permit the same options as the IMO Gas Code for controlling cargo temperature and pressure by periodic venting or operational restrictions on voyage length or locale. Commandant (CG-ENG- 5) verifies that Coast Guard requirements are met, based on special classification society certification.
+
+d. Enhanced steel grades. Under 46 CFR Part 154, vessels are required to use enhanced grades of steel at the sheer strake, deck stringer, and bilge strake for crack arresting purposes.
+
+(1) The rules of some classification societies permit the construction of large LNG carriers with the entire outer shell made of Grade A steel. No strakes of material with enhanced notch toughness properties, to act as crack arresters, would be required.
+
+(2) Because of possible crack initiation from a spill of cryogenic liquid, the Coast Guard requires enhanced grades of steel with enhanced crack arresting properties in the sheer strake, the deck stringer, and the bilge strake. This requirement must also be met for LOC gas ships (there is no indication of this on the COF). Commandant (G-MTH-1) verifies that crack arresting steels have been used before accepting an LOC application, by requiring appropriate classification society certification.
+
+4. Relationship Between Regulations and the IMO Gas Code
+
+a. General. Other than the operating requirements and the higher standards described above, the U.S. regulations follow the IMO Gas Code as closely as possible. In fact, the regulatory sections were numbered to correspond to the chapters of the IMO Gas Code (e.g., 46 CFR 154.900 correspond to Chapter IX of the Code).
+
+(1) Because of the similarity, a valid IMO COF issued under the Gas Code for New Ships is generally accepted by the Coast Guard as evidence of compliance with all of 46 CFR Part 154, other than the special standards listed in B.3 of this Chapter.
+
+(2) The regulations contain certain operating requirements in addition to those in the IMO Gas Code, namely Subpart E of 46 CFR Part 154. These are applicable to foreign vessels, except as indicated.
+
+b. Certification of Compliance. Since a U.S. gas ship that complies with 46 CFR Part 154 will also meet the requirements of the IMO Gas Code, the Officer in Charge, Marine Inspection may issue the vessel a COF. The information needed to complete the COF must be supplied by the Marine Safety Center.
+
+(1) It is not mandatory for a U.S. ship to have a COF, but the owner will probably request one.
+
+(2) Liquefied gas ships are certificated under 46 CFR Subchapter D (Tank Vessels), and endorsed to carry specific cargoes under 46 CFR Part 154 (Subchapter O).
+
+(3) New gas ships may also be certificated to carry liquid chemicals under 46 CFR Part 153. They must, however, meet all requirements of 46 CFR Part 153 for such certification.
+
+C. EXISTING GAS SHIPS
+
+1. Criteria for Designation
+
+Every gas ship that does not meet the new ship definition in 46 CFR Part 154 is an existing gas ship. The Coast Guard recognizes that many of the gas ships that will be active for the next several decades were under construction or already contracted for at the inception of the Gas Code for New Ships. Although the IMO Gas Code does not strictly apply to these vessels, IMO urges all governments to apply the New Ship standards as far as reasonable and practicable, considering their stage of construction at the time of the IMO Gas Code's inception. This was accomplished by IMO Resolution A.329(IX). These vessels are issued an IMO A.329(IX) Certificate, which indicates that they meet the Gas Code for New Ships, except for the items listed in an enclosure to the A.329 COF. For convenience and common reference, these vessels are known as “A.329 ships.” A second category of existing gas ships includes those that were in service at the time the IMO Gas Code was written. Major changes to these vessels were not required or expected, due to the excellent safety record of gas ships. However, some upgrading of existing ships, particularly in firefighting equipment, has been required. IMO developed another code, the Gas Code for Existing Ships, to specifically address these ships. The required upgrades were included in this code, and compliance was required on a 2 or 6 year schedule, depending upon the extent of modification necessary for each specific upgrade. Since the Gas Code for Existing Ships was adopted in 1975, all upgrades, including those with a 6- year lead time, are now in force.
+2. Upgrading Standards
+
+The first few LNG ships built for U.S. registry are in the A.329 category and are treated in accordance with Resolution A.329(IX). These vessels’ COFs carry a few endorsements listing areas not in compliance with the Gas Code for New Ships, Resolution A.328(IX). IMO Resolution A.329(IX) requires that these ships comply in full with the Gas Code for Existing Ships. The Coast Guard is not adopting the Gas Code for Existing Ships in full, since some of its standards are lower than those required under U.S. regulations and the LOC Program. However, a future revision to 46 CFR Part 154 may require existing gas ships to meet all of the upgrading requirements specified by the Code. Once the regulations are amended they will detail the procedures and certification necessary for issuance and renewal of the LOC for existing vessels. The Coast Guard envisions that LOC vessels will be required to possess a COF prior to reissuance of an expired LOC. At the present time, 46 CFR Part 38 should be used as guidance for examinations of existing gas ships holding LOCs. In cases where a COF issued under the Gas Code for Existing Ships was used in part by Commandant (CG-ENG-5) for acceptance of a vessel, that code should also be used for guidance during an LOC examination.
+
+############
+
+D. BARGES CARRYING LIQUEFIED GASES
+
+1. Introduction
+
+The regulations for barges carrying liquefied gases with the primary hazard of flammability (e.g., the alkanes and alkenes) are found in 46 CFR Part 38. Regulations for barges carrying liquefied gases with different or additional hazards are found in 46 CFR Part 151. The latter group includes ammonia, chlorine, butadiene, and vinyl chloride.
+
+2. Chlorine Barges
+
+In the United States, chlorine may only be carried on barges. Because of its extremely dangerous nature, barges carrying chlorine are handled somewhat differently than most gas barges. Existing barges, acceptance of which was grandfathered under 46 CFR Part 151, have had wing tanks installed. These are called Type 1-S barges. Due to the unique operating procedures for chlorine transfer, the Commandant has allowed the quick-closing, remote-activated valves required by 46 CFR Part 151 to be kept ashore when not in use. This arrangement is possible because the chlorine industry, for the most part, uses standardized fittings so that fit-up is not a problem. The valves may be under the control of a tankerman located ashore, as no one is normally on the barge during transfer. If personnel are on the barge during transfer operations (but not during fit-up of hoses, etc.), at least one remote shutdown valve must be on the barge.
+
+3. LNG Barges
+
+To date, only one LNG barge has been built; it is presently not in LNG service. LNG barge designs are unique since they can neither refrigerate the cargo nor contain the vapor pressure of the cargo at 45°C, as barges carrying other gases are required to do. To ensure that LNG vapors are not vented under normal conditions, LNG barges must contain the boil-off for twice the voyage length or 45 days, whichever is greater.
+
+4. Liquefied Hydrogen and Oxygen Barges
+
+Currently, liquefied hydrogen and liquefied oxygen have been shipped by the National Aeronautics and Space Administration exclusively on barges operated as public vessels. No commercial barges have been approved to carry these cargoes.
+
+1. Introduction
+
+In the early 1960's, it was recognized that most bulk dangerous cargoes were being carried on foreign vessels. The 1960 International Convention for the Safety of Life at Sea (SOLAS) and the regulations in 46 CFR Subchapter D did not adequately address these ships. Accordingly, the Commandant established the Letter of Compliance (LOC) Program to ensure the safe operation of these vessels. The original LOC Program was limited to the integrity and operation of the cargo containment section of the vessel and related systems, such as firefighting equipment. It did not address aspects of ship design and equipment. Lifeboats, engine rooms, accommodations, and pollution prevention requirements were handled separately. This separation of functions led to some confusion on the part of ship owners and operators and Coast Guard inspectors. Under this program, masters were issued a LOC from the Commandant, a letter affirming their compliance with pollution prevention regulations (a "letter of compliance") from the Officer in Charge, Marine Inspection (OCMI), and a Tank Vessel Safety Letter. Not only were there different documents issued, but the vessels were often examined by several different Coast Guard boarding teams in the same port. To eliminate such redundancies, the Commandant adopted a revised LOC Program on 16 February 1978. Current aspects of this LOC Program are detailed in the discussion of the 46 CFR Subchapter O endorsement to the LOC in MSM Volume II, Material Inspection, COMDTINST M16000.7A (series), Chapter D6. Figure F5-1of this Chapter lists the regulations pertaining to and documents required by foreign tank vessels entering U.S. waters.
+
+############
+
+2. International Maritime Organization (IMO) Codes and Certificates
+
+a. Program rationale. The International Maritime Organization (IMO) Codes described in MSM Volume II, Material Inspection, COMDTINST M16000.7A (series), Chapter F1 have eliminated the need for Coast Guard plan review for most foreign vessels. However, this does not mean that the LOC Program has been abandoned.
+
+(1) Because IMO Certificates of Fitness (COFs) may be issued erroneously, and because some special U.S. requirements exceed IMO standards, the LOC Program remains necessary. In addition, the LOC is a vehicle for maintaining control over these vessels and ensuring compliance with IMO safety standards.
+
+(2) IMO Codes are recommendations, and are viewed by some administrations as strictly voluntary. Waivers, dispensations, and exemptions are common. For the Coast Guard to maintain the standard of safety established by the initial LOC Program, some control is necessary.
+
+(3) Because plan review is no longer conducted for most vessels, effective examination of vessels for issuance of a LOC has become more important. Codes, regulations, plan reviews, and certificates, no matter how well drafted and executed, will not replace a thorough examination. This is the primary reason for issuance of LOCs by the OCMI, rather than the Commandant.
+
+b. Requirements for certification. Some foreign ship owners elect to seek a LOC based on plan review, rather than based on possession of an IMO COF. To eliminate this practice, and to have other administrations assume greater responsibility for their ships, the possession of an IMO Certificate is becoming mandatory.
+
+(1) Under 46 CFR Part 153, a foreign chemical tanker must have a valid COF to obtain a LOC; the same requirement applies to new liquefied gas ships under 46 CFR Part 154.
+
+(2) At present, existing gas ships are not required to possess a COF and may apply for a LOC under Coast Guard plan review. Similarly, LOCs previously issued to existing gas ships based on plan review remain acceptable on that basis.
+
+(3) In practice, many gas ships now applying for LOCs submit IMO certification that documents areas of compliance and noncompliance with the Gas Codes for New and Existing Ships. In many cases, this eliminates the need for plan review. When the standards in the IMO Gas Code for Existing Ships are adopted into U.S. regulations, all existing gas ships will be required to possess a COF to obtain a LOC.
+
+NOTE: Because some administrations do not issue IMO COFs, their ships will not be able to obtain them. Such vessels must be examined as though they were U.S. vessels.
+
+FIGURE F5-1:
+APPLICABLE REGULATIONS AND REQUIRED DOCUMENTS FOR
+FOREIGN -FLAG TANK VESSELS ENTERING U.S. WATERS
+
+Coast Guard
+Regulations IMO Codes
+Documents
+
+Chemical /
+Liquefied Gas
+Unmanned
+Barges 46 CFR Part 151;
+46 CFR Parts 30-40; or 46 CFR Parts 90-109.
+
+None. Coast Guard-issued Letter of Compliance (USCG LOC).
+
+Chemical Tankships SOLAS2; 33 CFR Parts 155, 159, and 164; or 46 CFR Part 153.
+
+Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk, Res. A.212(VII) (IMO Chemical Code). USCG LOC; Certificate of Fitness3; Comms. Certificate4; Safety Equipment Certificate; Safety Construction Certificate; Load Line Certificate.
+
+Notes:
+
+############
+
+1 See 46 CFR 154.1 for definitions.
+
+2 A foreign flag vessel whose flag administration is not signatory to SOLAS must meet the requirements of 46 CFR, Subchapter D.
+
+3 A foreign flag vessel whose flag administration issues an IMO Certificate of Fitness must have this.
+
+4 Radiotelephony and Radiotelegraphy Certificates.
+
+FIGURE F5-1 (CONTD): APPLICABLE REGULATIONS AND REQUIRED DOCUMENTS FOR FOREIGN-FLAG TANK VESSELS ENTERING U.S. WATERS
+
+Coast Guard Regulations IMO Codes Documents
+
+New Gas Carriers1 SOLAS2; 33 CFR Parts 155, 159, and 164; and 46 CFR Parts 154.
+
+Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk, Res. A.328(IX) (IMO Gas Code for New Ships). USCG LOC; Certificate of Fitness3; Comms. Cert.4; Safety Equipment Certificate; Safety Construction Certificate; Load Line Certificate.
+
+Existing Gas Carriers1 SOLAS2; 33 CFR Parts 155, 159, and 164; and 46 CFR Part 38. IMO Code for Existing Ships Carrying Liquefied Gases in Bulk, or Recommendations Concerning Ships not covered by the Gas Co de for New Ships, Res. A.329(IX). LOC (Issued by USCG) Comms. Certificate4 Safety Equipment Certificate Safety Construction Certificate Load Line Certificate
+
+Notes:
+
+1 See 46 CFR 154.1 for definitions.
+
+2 A foreign flag vessel whose flag administration is not signatory to SOLAS must meet the requirements of 46 CFR, Subchapter D.
+
+3 A foreign flag vessel whose flag administration issues an IMO Certificate of Fitness must have this.
+
+4 Radiotelephony and Radiotelegraphy Certificates.
+
+3. Sequence of Determinations
+
+To identify regulations concerning hazardous liquids and gases carried in bulk that are applicable to a given vessel and cargo, a "decision tree" is provided in Figure F5-2. The user should start from the left side and gradually work to the right by answering the questions "yes" or "no" to identify the regulation(s) applicable to a particular vessel.
+
+B. CARRIAGE OF BULK HAZARDOUS SOLIDS
+
+1. General Procedures
+
+The requirements for marine shipment of bulk hazardous solids are found in 46 CFR Part 148 ( Carriage of Bulk Solid Materials that Require Special Handling ). Products that may be shipped in bulk are listed in 46 CFR 148.01-7. The properties of a material that make it hazardous are briefly described in Table 46 CFR 148.01-7(a). These regulations are somewhat similar to the bulk liquid regulations in 46 CFR Part 153 in that they provide general requirements for all hazardous solid cargoes and special requirements for individual materials. However, under 46 CFR 148.01-9, an unlisted cargo may not be transported without permission of Commandant ( CG-ENG- 5). This differs from the rules for bulk liquids in that it only applies if the shipper determines that the material meets the definition of a hazardous material in 49 CFR 171.8. If the material meets this definition and is not listed by name in Table 46 CFR 148.01-7, Commandant ( CG-ENG- 5) will review the properties of the material. If the material can be safely transported in bulk, the Coast Guard will issue a special permit describing the necessary procedures and handling requirements. This special permit must be maintained aboard the vessel whenever the hazardous material is being moved. Special permits are given expiration dates, usually 2 years from the date of issuance.
+
+############
+
+2. Communications with Headquarters
+
+There are relatively few materials listed in 46 CFR Part 148. Most bulk solid cargoes either do not meet the definition of a hazardous material in 49 CFR 171.8, or are shipped under special permit. When in doubt about a particular cargo, contact Commandant ( CG-ENG- 5) at (202) 372- 1401.
+
+C. CARRIAGE OF INTERMODAL PACKAGES AND PORTABLE TANKS
+
+1. Introduction
+
+49 CFR Subchapter C gives the Office of Hazardous Materials Transportation (OHMT), Department of Transportation (DOT), the authority for the regulation of packaged shipment of hazardous materials. The 49 CFR Subchapter C regulations for packaged hazardous materials pertain to any material that is loaded and offloaded in an intact container (drum, box, portable tank, barrel, tank truck, or railroad tank car). The Coast Guard has the responsibility to enforce these regulations on vessels, but may not issue, amend, waive, or issue exemptions to the regulations under 49 CFR 107. However, the Coast Guard does have the authority to issue certain approvals. Some of these approvals are issued by the Commandant (see 49 CFR 176.76( a) and 176.340), and others by the district commander (see 49 CFR 176.88). The Captain of the Port (COTP) can also approve alternative stowage procedures under 49 CFR 176.65. As these approvals are provided for in the regulations, they are not considered exemptions.
+
+2. Exemption Procedures
+
+Exemption procedures are contained in 49 CFR 107. Although only the OHMT can issue exemptions, they consult the Coast Guard if the shipment involves marine transportation. The regulations also provide for emergency exemptions in the case of severe economic loss or threat to life. In such a case, the shipper should contact Commandant ( CG-ENG- 5), which will forward the request to the OHMT. If a shipment is being made under the provisions of an OHMT exemption, the shipper must indicate the exemption number on all shipping papers and attach a copy of the exemption to the shipping papers.
+
+3. Application of Regulations
+
+a. The regulations include specific labeling requirements, both IMO classification and labeling, with corresponding DOT classification for shipment by other modes of transportation (49 CFR 171.12(b)). A summary of these requirements follows:
+
+(1) General. Under 171.12(b) and (f), hazardous materials may be shipped if any portion of the transportation is by vessel between points in a state or between states, or if they are prepared in accordance with the Optional Hazardous Materials Table in 49 CFR 172.102. This does not apply to Class A and Class B explosives or radioactive materials. The Optional Table is derived from the International Maritime Dangerous Goods (IMDG) Code. This option facilitates the shipment of hazardous materials in international trade. Accordingly, hazardous material may be transported by any mode under the proper shipping
+
+name, classification, and label specified by the Optional Table in 49 CFR 172.102, provided that the following are true:
+
+(a) The shipper includes the name of the DOT class that most closely corresponds to the material's IMO class in the description of the hazardous material (on the shipping documentation).
+
+(b) The hazardous material is otherwise shipped in accordance with the DOT regulations.
+
+(c) Column 1 of the hazardous material’s entry in the Optional Hazardous Material Table does not contain the letter "N." The letter "N" means that the entry is not an acceptable alternative and the material must be transported under the appropriate entry in 49 CFR 172.101.
+
+############
+
+(2) Exemption from Coast Guard control. Materials that are listed in the IMDG Code but not regulated by DOT are not subject to Subchapter C. Such materials are therefore exempt from Coast Guard enforcement action. To eliminate confusion in transporting such materials, shippers should include a notation on the shipping papers that the material is only regulated under the IMDG Code.
+
+(3) Example. Triisobutyl aluminum would be shipped domestically as "Pyrophoric liquid, n.o.s. (triisobutyl aluminum), flammable liquid, UN 2845." For import or export, under the provisions of 49 CFR 171.12(b), 172.102, 172.201(a)(4)(i), and 172.203(i)(2), it may be shipped as "Triisobutyl aluminum, flammable liquid, 4.2, UN 1930, spontaneously combustible." The package must have the "SPONTANEOUSLY COMBUSTIBLE" la bel. The "FLAMMABLE LIQUID" label may also be affixed, as provided by 49 CFR 172.401(a).
+
+NOTE: IMO placarding is accomplished with an enlarged "SPONTANEOUSLY COMBUSTIBLE" label. For domestic transportation, the IMO placard and a "FLAMMABLE" placard are acceptable.
+
+b. Transportation by water outside the United States. For the relevant regulations, see 49 CFR 172.203(i)(2)) and 49 CFR 172.302(b).
+
+(1) When a mixture contains more than one hazardous material, the technical name required in parentheses is the name of the constituent that is of the same hazard class as the total mixture.
+
+(2) If a mixture is labeled with any subsidiary labels, the technical name of the material that compels the use of the subsidiary label must also be shown.
+
+(3) When a mixture contains more than one material of the same hazard class, which results in that class or label being applied, only the technical name of the material that is the predominant reason for the class of label must be shown.
+
+(4) When a mixture contains more than one material of the same hazard class in approximately the same percentages, only the name of the material with the highest level of hazard in the class (e.g., lowest flashpoint, most toxicity, etc.) need be shown.
+
+c. Shipper's certification: See 49 CFR 172.204.
+
+(1) Carriage to the marine terminal. The highway common carrier, whether or not it is the initial carrier, must tender shipping papers to the marine terminal.
+
+(a) 49 CFR 171.2 provides that "no person may offer or accept a hazardous material for transportation...unless that material is properly classed, described, packaged, marked, labeled, and in the condition for shipment as required by [49 CFR Subchapter C] ."
+
+(b) In addition, 49 CFR 177.817(a) states tha t "a carrier may not transport a hazardous material unless it is accompanied by a shipping paper that is prepared in accordance with [49 CFR] 172.201, 172.202, and 172.203..."
+
+(c) Intermediate or interline motor carriers must accurately transfer all of the information required by 49 CFR 172.201, 172.202, and 172.203 (see 49 CFR 177.817) from the original shipping papers.
+
+(2) Marine shipment. The marine carrier may not transport hazardous materials without a certificate prepared in accordance with 49 CFR 172.204.
+
+(a) As the shipping papers presented by the interline motor carrier are not required to include this certificate, the marine carrier must obtain the shipper's certification from the shipper or the shipper's authorized representative.
+
+(b) Shippers often satisfy this requirement by preparing a dock receipt, which the shipper certifies and forwards to the carrier before shipment. In other cases, arrangements are made with motor carriers to provide a copy of a certified shipping paper when the shipment is delivered to the pier.
+
+############
+
+(c) Regardless of method, this certification is the shipper’s responsibility. A preprinted signature on the shipping document is not acceptable because it is made before the applicable conditions and acts have come into existence.
+
+d. Reuse of packaging (49 CFR 173.28). Much hazardous materials packaging is durable and can be reused, either for shipping or other uses. 49 CFR 173.28 places restrictions and requirements on the reuse of such packaging.
+
+(1) 49 CFR 173.28 requires that all old hazardous materials markings and labels are removed or obliterated before the packaging is used for other materials.
+
+(2) Except under certain specified conditions, 49 CFR 173.29(d) prohibits empty packaging bearing hazardous materials markings or labels from being used for transportation unless it contains some of the hazardous material for which the markings are required.
+
+(3) These restrictions apply even if the packaging is used for purposes other than transportation in the traditional sense. Offering such a package for sale is considered to be offering it for transportation.
+
+e. Consumer commodities (49 CFR 173.1200). Packages in compliance with these requirements may be combined in a strong overpack with a gross weight that exceeds 65 pounds. The overpack, when marked in accordance with 49 CFR 173.25, can be shipped as a consumer commodity. The 65-pound restriction is intended to limit the weight of individual packages, not the additional overpack (not required by 173.1200).
+
+f. Interchangeability of IMO and DOT requirements (49 CFR 176.11(a)). Hazardous materials, except for Class A and B explosives and radioactive materials, may be transported by vessel when to the material’s packaging, marking, labeling, classification, description, certification, and placarding complies with the IMDG Code. All hazardous materials must otherwise be stowed and carried in accordance with 49 CFR Subchapter C.
+
+(1) Differences in the stowage and segregation requirements of the DOT and IMO regulations are generally minor, and may be handled by the COTP through approval of alternate stowage procedures authorized by 49 CFR 176.65.
+
+(2) The word "may" indicates the optional nature of such authorization. For example, if a hazardous material is packaged in accordance with DOT but is described, labeled, etc., in accordance with the IMDG Code, it is acceptable for marine shipment.
+
+g. Motor vehicles and their equipment (49 CFR 176.905(1)). The term "equipment" includes any devices related to the functioning of a motor vehicle or other mechanized equipment. Each item will be considered on an individual basis, with the following general exceptions. Fire extinguishers are related to the functioning of vehicles in which they are carried because they are essential to fight any fires in the vehicle. By the same reasoning, tire inflators in vehicles also are directly related to their functioning. This does not include oxygen tanks, because they are not used directly in association with operation of the vehicle.
+
+(1) Motor vehicles themselves may be shipped as non -hazardous cargo, if --
+
+(a) Their fuel tanks are emptied;
+
+############
+
+(b) Their engines are run until they stall for lack of fuel;
+
+(c) Their battery cables are disconnected; and
+
+(d) No hazardous materials are stored in them.
+
+NOTE: Residual amounts of fuel left in motor vehicle tanks are acceptable. Stringent enforcement measures, such as the use of listening tubes, are not required for determination that a tank is empty.
+4. Intermodal Portable Tanks
+
+A portable tank is a container with a capacity of more than 110 U.S. gallons, which is designed to be loaded into or on, or temporarily attached to, a transporting vehicle or vessel. It may be equipped with skids, lifting lugs, or intermodal container corner castings to facilitate handling. Certain DOT and Coast Guard specification portable tanks are explicitly authorized by Subchapter C for the carriage of particular regulated commodities. When a regulated commodity is shipped in such a tank, the marking, labeling, and placarding requirements of 49 CFR Part 172 apply. Regulated commodities may be transported in non-specification portable tanks when authorized by OHMT exemption or a Coast Guard Letter of Authorization for combustible liquids (see 49 CFR 176.340). When inspecting a portable tank carrying a regulated commodity, the inspector should be alert to the following items:
+
+a. Evidence of any leakage from valves, attachments, or safety relief devices.
+
+b. Proof that hydrostatic testing has been performed within the prescribed period.
+
+c. Evidence that all required inspections have been performed in a timely manner.
+
+d. Evidence that securing and handling attachments are sound.
+
+e. Evidence of compliance with any special handling or stowage requirements dictated by regulations or exemptions.
+
+5. Radioactive Materials
+
+Radioactive materials are regulated under Subchapter C along with other packaged hazardous materials. For requirements radioactive materials shipments, see 49 CFR Part 173, Subpart I. The following pamphlets concerning radioactive materials have been published jointly by DOT and the Nuclear Regulatory Commission (NRC), and may be obtained from Commandant ( CG-ENG- 5):
+
+a. A Guide for the Inspection of Radioactive Material Shipments by Motor Vehicle or at Freight Facilities; and
+
+b. A Review of the Department of Transportation (DOT) Regulations for Transportation of Radioactive Materials.
+
+6. Liquid Materials Toxic by Inhalation
+
+There are special requirements for liquids that are toxic by inhalation. Any material that meets the toxicity criteria found in 49 CFR 173.3a is subject to these requirements.
+
+The following materials are known to be toxic by inhalation:
+Acetone cyanohydrin* Methyl bromide
+Acrolein, inhibited Methyl chloroformate
+Allyl alcohol Methylchloromethyl ether
+Allylamine* Methylhydrazine
+Bromine trifluoride Methyl isocyanate*
+n-Butyl isocyanate* Monochloroacetic acid, liquid
+Chlorine trifluoride Nickel carbonyl
+Chloroacetonitrile* Nitric Acid, red fuming
+Chloropicrin t-Octylmercaptan*
+Crotonaldehyde* Pentaborane
+Dimethylhydrazine, unsymmetrical Phosphorus oxychloride
+Ethyl chloroformate Phosphorus trichloride
+Ethylene chlorohydrin* Propionitrile*
+Ethyleneimine n-Propyl chloroformate*
+Ethyl isocyanate* Tetramethoxy silane*
+Isopropyl chloroformate* Tetranitromethane
+Mesitylene Titanium tetrachloride
+Methacrylonitrile Trimethoxy silane*
+
+All of these materials must have "Poison -Inhalation Hazard" as a description on the shipping papers and be in a packaging with a primary containment unit greater than 1 liter (49 CFR 172.203(k)(4)). The material’s packaging, which must have a primary containment unit greater than 1 liter, and packaging of less than 110 gallons, must also be marked "Inhalation Hazard" (49 CFR 172.301(a)). Furthermore, such packages must be labeled and placarded as poisons. In addition, those materials with an asterisk (*) in the above table are shipped as not otherwise specified materials. These must be transported in either a Poison A packaging or a packaging approved by the Director, OHMT, Transportation (Research and Special Programs Administration). The approval is in the form of a letter and approval number. Poison A packaging is any appropriate packaging listed in the Poison A materials packaging sections, 49 CFR 173.328 through 173.337. Other packaging is approved on an individual basis.
+
+D. CARRIAGE OF MARINE PORTABLE TANKS
+
+Marine Portable Tanks (MPTs) are liquid-carrying containers that are not permanently installed on the vessel. MPTs may be on or offloaded when filled or when empty, or filled and discharged while aboard a vessel. For the regulations for MPT use, see 46 CFR 98.30. MPTs are limited to carriage of certain listed cargoes (see 46 CFR 64.9, 90.05-35, and 98.30- 3). Authorization under 46 CFR 98.35 to carry combustible liquids aboard vessels in portable tanks constructed and inspected before 1 October 1974, was terminated on 1 October 1984. See MSM Volume II, Material Inspection, COMDTINST M16000.7A (series), Chapter F2 for further information on MPTs.
+
+E. CARRIAGE OF EXPLOSIVES
+
+1. Commercial Explosives
+
+Commercial explosives, like other packaged hazardous materials, are shipped under 49 CFR Subchapter C. The shipment of Class A explosives in intermodal freight containers requires special approval from Commandant ( CG-ENG- 5). See Paragraph E.3 of this Chapter for more details. The approval document specifies --
+
+a. The condition of the containers (new or like new, with nonmetallic, non- sparking interiors, free of protrusions, etc.);
+
+b. The handling equipment and sequence of operations to be employed; and
+
+c. Stowage, segregation, and firefighting.
+
+NOTE: Shipments of Class A explosives require COTP issued loading permits.
+
+Also, Class A and B explosives must be shipped under DOT regulations rather than IMO classification, even when they are shipped for export. See Paragraph E.4 of this Chapter for more information relating to import shipments.
+
+2. Military Explosives
+
+a. General requirements. Marine shipment of military explosives is regulated under 46 CFR Part 146. These regulations are closely tied to the commercial explosives regulations in 49 CFR; these regulations refer to the marking and labeling requirements of 49 CFR Part 172 and the exemption procedures of 49 CFR Part 107.
+
+(1) All shipments of military explosives, except those assigned to Coast Guard Class I (see 46 CFR 146.29-13) and those carried aboard public vessels, require loading permits from the COTP. The COTP may authorize, in writing, alternate stowage or handling methods based on equivalent safety (see 46 CFR 146.02-25(b)).
+
+(2) Most shipments of military explosives in intermodal freight containers must be approved by Commandant ( CG-ENG- 5) in the same manner as are shipments of commercial explosives (see 46 CFR 146.29.11(a)(16)).
+
+(3) All other deviations from regulatory transportation requirements must be in the form of an exemption approved by the Director, OHMT, DOT (see 46 CFR
+
+NOTE: Commandant (G -ENG) recognizes the problems arising from the existence of three regulatory codes applying to the transport of explosives. A rulemaking project is nearing completion which will incorporate the military explosives requirements into 49 CFR Part 176. This project will also incorporate the United Nations' scheme for classification and segregation of all for marine shipment, and should provide domestic and international harmony for all explosives.
+
+b. Definition. Military explosives are explosive substances and devices shipped by, for, or to the following:
+
+(1) Any department or agency of the U.S. Department of Defense; or
+
+(2) The government of any country whose defense is deemed vital to the defense of the United States.
+
+(a) The first of the above conditions is self -explanatory.
+
+(b) The second refers to a shipment of munitions or other explosives for which the U.S. State Department Office of Munitions Control has issued a License for Export of Defense Articles in accordance with 22 CFR Parts 123 and 126. The State Department's policy is to deny licenses for the export of defense articles to countries or areas with respect to which the United States maintains an arms embargo, or "whenever an export would not otherwise be in furtherance of world peace and the security and foreign policy of the United States" (22 CFR 126.1).
+
+c. Proper shipping name. The reference in 46 CFR 146.29- 14(c)(4) to "true shipping name...specified in 146.29- 100," is a regulatory anachronism which will be eliminated by the rulemaking action is effective, military explosives should be identified on the Dangerous Cargo Manifest by their DOT proper shipping name. Each military explosive is assigned a proper shipping name and hazard class on the basis of an examination and tests by a laboratory recognized under 49 CFR 173.86 or 46 CFR 146.20- 14, and approved by the Director, OHMT or a DOD agency authorized to approve explosives under those sections. The proper shipping name on the Dangerous Cargo Manifest should be the same as on the package and the shipping papers used to compile the manifest (46 CFR 146.05- 12(a), 146.29- 14(b)). Two sources for proper shipping names assigned to military explosives are the following:
+
+(1) Hazard Classification of United States Military Explosives and Hazardous Munitions, U.S. Army Defense Ammunition Center and School, Savanna, IL 61074- 9639, October 1988.
+
+(2) Navy Transportation Safety Handbook for Ammunition, Explosives and Related Materials, NAVSEA OP2165, Vol. 2, Commander, Naval Sea Systems Command, July 1986.
+
+d. Compliance with 49 CFR or the IMDG Code. If it is impracticable for a shipment of military explosives to comply with the handling, stowage, or segregation provisions of 46 CFR 146, the COTP may authorize alternative methods in writing (see 46 CFR 146.02- 25). Compliance with the equivalent provisions of 49 CFR Part 176 or the IMDG Code is appropriate. Authorizations for alternative handling, stowage, or segregation should be limited to one ship, one time, otherwise the shipper, carrier, or agent must obtain an exemption from the DOT OHMT per 49 CFR Part 107, Subpart B. Although the COTP may authorize any alternative that provides an equivalent level of safety, it is recommended that whenever 49 CFR or the IMDG Code is authorized, complete compliance with that code should be specified.
+
+e. Classification of military explosives. Figure F5 -3 is a supplement to the Classification, Handling, and Stowage Chart in 46 CFR 146.29- 100 which may be used to determine the Coast Guard stowage class of a military explosive based on its DOT proper shipping name and hazard class. It is the responsibility of the shipper to determine the DOT proper shipping name, hazard class, and Coast Guard stowage class of military explosives. In most cases, this information may be readily obtained from the DOD Joint Hazard Classification System or various DOD manuals and publications.
+
+FIGURE F5 -3:
+
+COAST GUARD STOWAGE CLASSES OF MILITARY EXPLOSIVES
+
+This figure serves as a link between the DOT Hazard Classification system in 49 CFR Subchapter C and the Coast Guard s towage classification system in 46 CFR 146.29. The DOT -authorized proper shipping names that apply to military explosives items are listed alphabetically. A stowage planner may use the shipping papers description to determine an item’s stowage class. Each line entry contains a DOT proper shipping name, a DOT explosives class, and one or more applicable Coast Guard stowage classes. An example of an item with multiple shipping classes listed would be something like a mmunition for cannon with smoke projectile, which may fall into Class II- D, II -E, or II -F, depending whether its smoke -making component is phosphorus, hexachloroethane, sulfur trioxide/chloro -sulphonic acid, or titanium tetrachloride. For entries that list more than one Coast Guard stowage class, the planner must have or obtain additional information concerning the construction or explosive composition of the particular item. When more than one stowage class is listed, the class definitions, descriptions, and examples in the chart, 46 CFR 146.29- 100, should be consulted to determine the applicable stowage class.
+
+DOT Proper Shipping Name DOT Explosive Class Coast Guard Stowage Class
+Actuating cartridge, explosive C I
+Ammunition, chemical, explosive with Poison A material A XI-A, XI -B
+Ammunition, chemical, explosive with Poison B material A XI-A, XI -B
+Ammunition, chemical, explosive with irritant material A XI-B
+Ammunition for cannon with empty projectile B II-B
+Ammunition for cannon with explosive projectile A IV
+Ammunition for cannon with gas projectile A XI-A, XI -B
+Ammunition for cannon with illuminating projectile A IV
+Ammunition for cannon with incendiary projectile A IV
+Ammunition for cannon with inert loaded projectile B II-b
+Ammunition for cannon with smoke projectile A II-D, II -E, II-F
+Ammunition for cannon with solid projectile B II-B
+Ammunition for cannon with tear gas projectile B XI-B
+Ammunition for small arms with explosive projectile A IV
+Ammunition for small arms with incendiary projectile A IV
+Black powder A IX-A
+Black powder igniter with empty cartridge bag C I
+Booster, explosive A VIII, X -A
+Burster, explosive C X-A
+Cannon primer C I, III
+Cartridge bags, empty with black powder igniter C I
+Cartridge, practice ammunition C I, II-B, II-C
+Chemical ammunition, non-explosive (See NOTE A) Irritant XI-B
+
+DOT Proper Shipping Name DOT Explosive Class Coast Guard Stowage Class
+Chemical ammunition, non -explosive Poison A XI-A, XI -B
+Chemical ammunition, non -explosive Poison B XI-A, XI -B
+Combination fuse C III
+Combination primer C I, III
+Cord, detonating A I, VIII
+Cord, detonating (See NOTE B) C I
+Delay electric igniter C II-C
+Detonating fuse, Class A explosive A VI, VIII
+Detonating fuse, Class C explosive C I, III
+Detonating primers, Class A explosive A VIII
+Detonating primers, Class C explosive C III
+Detonators, Class A explosive (See NOTE C) A VIII
+Detonators Class C explosive C VIII
+Electric squib C II-C
+Empty cartridge bag with black powder igniter C I
+Empty cartridge case, primed C I
+Explosive bomb A II-E, II-G, II -J, VIII, X-A, X -B, XI -A, XI -B
+Explosive cable cutter C I
+Explosive mine A IV, VII, X -A, X -B, XI-A, XI -B
+Explosive power device, Class B B II-B
+Explosive power device, Class C C I
+Explosive projectile (See NOTE D) A II-D, V, VII, X -A, X -B, XI -A, XI -B
+Explosive release device C I
+Explosive rivet C I
+Explosive torpedo A X-A, X -B
+Fireworks, common C II-C
+Fireworks, special B II-B, II-C, II-D, II -E, II-G, II -J
+Flexible linear shaped charge, metal clad C VIII
+Fuse igniter C II-C
+Fuse, instantaneous C II-C
+Fuse lighter C I, II-C
+Fuse mild detonating, metal -clad C III
+Fuse safety C I
+Fuze, combination C III
+
+DOT Proper Shipping Name DOT Explosive Class Coast Guard Stowage Class
+Fuze, detonating A VI, VIII
+Fuze, detonating, Class C explosive C I
+Fuze, detonating, radioactive A VI, VIII
+Fuze, percussion C I, III, VIII
+Fuze, time C I, III, VIII
+Fuze, tracer C III
+Grenade, empty primed C I
+Grenade, hand or rifle, explosive A II-J, IV
+Grenade, tear gas (See NOTE A) Irritant XI-B
+Grenade (with incendiary material) B II-J
+Grenade (with Poison A material) Poison A XI-A, XI -B
+Grenade (with Poison B material) Poison B II-D, II -E, II-F
+Grenade (with smoke charge) C II-D, II -E, II-F
+Hand signal device C II-C
+High explosive A IX-A, IX -B
+High explosive liquid A IX-A, IX -B
+Igniter C I, II-C, II-D, II -J
+Igniter cord C I
+Igniter, fuse, metal -clad C III
+Igniter, jet thrust (JATO) A IX-A
+Igniter, jet thrust (JATO) B III
+Igniter, rocket motor A IX-A
+Igniter, rocket motor B III
+Initiating explosive A IX-C
+Jet thrust unit A X-C
+Jet thrust unit B II-B
+Low explosive A IX-A
+Percussion cap C I, III, VIII
+Percussion fuze C I, III, VIII
+Propellant explosive A II-A, IX -A
+Propellant explosive in water B IX-A
+Propellant explosive in water, unstable condemned, or deteriorated (See NOTE E) B IX-A
+Propellant explosive, liquid B IX-A
+Propellant explosive, solid B II-A, IX -A
+Rocket ammunition with empty, inert or solid loaded projectile A II-B
+Rocket ammunition with empty projectile B II-B
+Rocket ammunition with explosive projectile A IV, X -C, X -D
+
+DOT Proper Shipping Name DOT Explosive Class Coast Guard Stowage Class
+Rocket ammunition with gas projectile A XI-A, XI -B
+Rocket ammunition with illuminating projectile A IV
+Rocket ammunition with incendiary projectile A IV
+Rocket ammunition with inert loaded projectile B II-B
+Rocket ammunition with smoke projectile A II-D, II -F
+Rocket ammunition with solid projectile B I-B
+Rocket engine, liquid B II-B, X -E
+Rocket head A II-D, VII, X -A, X -B, XI-A, XI -B
+Rocket motor A X-C
+Rocket motor B II-C
+Safety fuse C I
+Safety squib C II-C
+Signal flare C II-C
+Small -arms ammunition C I
+Small -arms ammunition (for personal care or household use) (See NOTE F) ORM -D I
+Small -arms ammunition, irritating cartridge C I
+Small -arms primer C I
+Smoke candle C II-C, II-D, II -E, II-F
+Smokeless powder for small -arms Flam. Sld. IX-A
+Smoke pot C II-C, II-E
+Smoke signal C II-C
+Starter cartridge B II-A
+Starter cartridge C I, II-C
+Supplementary charge (explosive) A IX-B
+Torpedo, railway B II-C
+Tracer C II-C
+Tracer fuze C III
+
+NOTES:
+A. The hazard class formerly identified as "Poison C" is now "Irritating Material."
+B. Replaces former description "Cordeau detonant."
+C. Replaces former descriptions "Blasting caps," "Blasting caps with safety fuse," and Electric blasting caps."
+D. The DOD publications from which Figure 29- 3 was compiled list no DOD ammunition items in Coast Guard Stowage Class V. However, such items may exist. If a DOD agency ships explosive projectiles containing "Explosive D" (ammonium picrate), CG Class V may be used.
+E. The hazard of propellant explosive (smokeless powder) in water, even when unstable, condemned, or deteriorated is flammability, not mass detonation. Therefore, its DOT hazard class is Class B explosive.
+F. Small arms ammunition, DOT Class C explosive, in the forms, quantities, and packagings specified in 49 CFR 173.1201, may be reclassified as "Consumer Commodity" (DOT Class ORM -D). Although no known DOD ammunition item is classed as ORM- D, it is possible that small arms ammunition so classed might be shipped on board a vessel with military explosives. When is the case, Coast Guard Class I applies for stowage purposes.
+3. Commandant Approvals for Shipment of Explosives
+
+The following information concerns requirements for explosives, including approvals issued by Commandant (CG-ENG) for equipment used in handling and transporting military and Class A explosives.
+
+a. The shipment of explosives by cargo vessel is regulated by 46 CFR Part 146 (military explosives) and 49 CFR 171-179 (all other types of explosives). The following provisions of these regulations authorize Commandant (CG-ENG) to approve certain equipment used in handling or transporting military and Class A explosives:
+
+(1) 46 CFR 146.29-42 and 49 CFR 176.76(a): Authorizes Commandant (CG-MTH) to approve transport vehicles and freight containers for the transportation of military and Class A explosives.
+
+(2) 49 CFR 176.78(d): Prohibits use of power-operated industrial trucks in holds and compartments containing explosives, unless approved by Commandant (CG-522).
+
+(3) 49 CFR 176.150(b): Authorizes Commandant (CG-ENG) to approve the construction, handling, and stowage of portable magazines with capacity exceeding 110 cubic feet.
+
+b. To implement the above regulations, Commandant (CG-ENG) issues a Commandant Coast Guard Approval (CGA), an approval that may be issued to a shipper, a carrier, or, for an import shipment, a consignee.
+
+(1) A person whose shipment of explosives would be affected by any of the above regulations should apply in writing or by Telex to Commandant (CG-MTH), U.S. Coast Guard, Washington, DC 20593-0001 (Telex No. 892427) for an approval.
+
+(2) A shipper should have a valid CGA in hand when applying for a permit to handle designated dangerous cargo, i.e., military or Class A explosives, under 33 CFR 126.17 and 49 CFR 176.100.
+
+(3) Figures F5-4 and F5-5 provide a sample CGA and a list of CGAs that are currently in effect.
+
+c. CGAs issued since 1983 for the transportation of military or Class A explosives in freight containers and portable magazines have an open-ended expiration provision. Most other CGAs expire 2 years after their date of issue. The person or organization in whose name a CGA is issued may not transfer that CGA to another person or organization. If a company changes its name, address, or corporate affiliation, it must apply for a new or amended CGA.
+
+d. OCMIs and COTPs should ensure that shippers, carriers, and others responsible for shipments of explosives are aware of the requirements concerning CGAs, and when a CGA is required, that the shipment is made in accordance with its terms.
+
+FIGURE F5-4: SAMPLE COMMANDANT COAST GUARD APPROVAL
+NUMBER 012-85
+
+In accordance with Title 49 Code of Federal Regulations, Subpart 176.76, and Title 46 Code of Federal Regulations, Subsection 146.29-11(c)(16), approval is hereby granted to Ewing Energy Corporation, 10000 Main Street, Dallas, TX 75240, for the shipment of Class A and military explosives in freight containers subject to the following conditions:
+
+1. VESSELS: "Containership" or "Trailership" as defined in 49 CFR 171.8, or any "Cargo Vessel" as defined in 49 CFR 171.8 which has been specifically modified for the carriage of freight containers or can accommodate on deck stowage thereof.
+
+2. PORTS: Any "Designated Waterfront Facility" as specified in 33 CFR 126.05(a), for which the captain of the port has issued the permit required in 33 CFR 126.17.
+
+3. CONTAINERS: "Freight containers," as defined in 49 CFR 171.8, must meet the following physical requirements as determined by visual inspection. For a shipment entering the United States from a foreign country, Ewing Energy Corporation or their authorized agent must provide the captain of the port with a written certification that the containers meet these requirements.
+
+############
+a. Only closed freight containers may be used for the carriage of Class A and military explosives under the terms of this approval. Closed freight containers are defined as containers which totally enclose the contents by permanent structures. An open freight container which is covered by a tarpaulin or similar fabric or plastic cover is not considered a closed freight container.
+
+b. Freight containers shall be clean enough, inside and out, to permit detailed inspection and ensure freedom from any residue of previous cargoes.
+
+c. Freight containers shall be structurally sound and weathertight. Major defects in the main structural members that affect the structural integrity of the freight container are unacceptable. Main structural members consist of top and bottom side rails, top and bottom end rails, door sill and headers, corner posts, corner fittings, and floor crossmembers. Major defects are defined as holes, tears, fractures, or cracked or suspect welds. Dents or bends in a surface of main structural members exceeding 0.75 inch (19mm) in depth, regardless of length, are unacceptable. More than two splices per bottom or top side rail, more than one splice in the top or bottom end rail or door header, and any splice in the door sill or corner posts are unacceptable. Butt-welded, inset splices are the only acceptable repairs when splicing is permitted in main structural members. Dimensional distortion that does not permit proper engagement of lifting or tie-down devices is unacceptable.
+
+d. There shall be no wastage of metal (or signs of wastage that may have been covered with paint or otherwise concealed) in any structural component. Deterioration in any component of a freight container, whether of ferrous or nonferrous material construction, such as rusted-out metal in sidewalls or disintegrated fiberglass, is unacceptable. Normal wear, including oxidation (rust), and minor damage that does not affect the structural integrity or weathertightness of the freight container are acceptable. Lap-welded or buck-riveted patches in the walls, roof, floor, and doors are acceptable if neatly made and weathertight and not affecting the structural integrity of the container.
+
+e. Each container must bear, in addition to a manufacturer's data plate, a CSC Safety Approval Plate; or, if in transportation between points within the United States as defined in 49 CFR 171.8, a decal or other certification showing that the container was built to, and met the requirements of, the International Convention for Safe Containers or the rules of a recognized classification society. These organizations are: American Bureau of Shipping; Germanischer Lloyd; Registro Italiano Navale; Nippon Kaiji Kyokai; Lloyd's Register of Industrial Services; Bureau Veritas; Det Norske Veritas; Register of Shipping of the USSR; and Polish Register of Shipping. A certification by a recognized inspection organization that is not listed here may also be acceptable and may be verified by Commandant (CG-MTH-1), U.S. Coast Guard, phone 202-267-1577.
+
+f. The interior of the container shall be a nonmetallic surface free of protrusions and nonsparking in nature. Floors shall be wood or wood-covered. Steel and aluminum containers shall be lined with a minimum of 1/4- inch plywood. Metal parts of fiberglass containers shall be covered with a minimum of 1/4- inch plywood. All linings shall extend from the floor to the height of the lading or higher.
+
+############
+
+g. Cargo placed in each container shall be adequately blocked, braced, and secured in conformance with the requirements of 49 CFR 176.76(a)(2) and to the satisfaction of the captain of the port. [NOTE: Paragraphs 3(h) and 3(i) apply to Roll-On, Roll-Off service only.]
+
+h. Each container used for the carriage of explosives in Roll-On, Roll-Off service shall be permanently attached to a chassis (i.e., a trailer vehicle) or secured to a container chassis specifically designed to accommodate freight containers. Freight containers on flat bed trailers are prohibited.
+
+i. Closed van trailers manufactured and tested in accordance with Association of American Railroads (AAR) Specification No. M-931, and meeting the structural requirements contained in Paragraph 3, excluding Subparagraph 3(e), are authorized for the carriage of explosives and do not require a CSC Safety Approval Plate or a classification society decal.
+4.  INSPECTION:
+
+    a.  For a shipment originating in the United States, the captain of the port or an authorized representative may inspect the loaded containers before they are placed on the vessel. Containers which exhibit defects or damage to any of the structural, supporting, or lifting components, or containers in which the lading is not properly secured, will not be permitted on board the vessel.
+    b.  For a shipment entering the United States from a foreign nation, the captain of the port or an authorized representative may inspect the loaded containers before they are unloaded from the vessel. Containers which exhibit defects or damage to any of the structural, supporting, or lifting components, or containers in which the lading is not properly secured, may be prohibited from removal from the vessel.
+
+5.  CARGO GEAR: Except in the case of an emergency, cargo gear which is used to load, off-load, or handle freight containers of explosives is limited to cargo gear which has been specifically designed or modified for the handling of freight containers. The Safe Working Load of the cargo gear shall be verified by a valid certificate issued by a recognized testing or regulatory agency. The Safe Working Load must be equivalent to or greater than the weight of the heaviest explosives-laden freight container to be transferred by such gear. Prior to the handling of any freight container loaded with explosives using ship's equipment, the master of the vessel or an authorized representative, or the Officer in Charge of a Coast Guard Explosives Loading Detail, if assigned, shall inspect the cargo gear to ensure that it is in safe working condition. In the case where shore-based equipment is used, the Terminal Operator or an authorized representative, or the Coast Guard Officer in Charge shall conduct the inspection to ensure that the cargo gear is in safe working condition. In the event that a valid certificate indicating the Safe Working Load for cargo gear is not available, or if any discrepancies are discovered in the inspection of the cargo gear, it must be dynamically tested with an inert proof load equivalent to at least 150 percent of the weight of the heaviest container to be transferred. In no case shall this 150 percent proof load exceed the weight of the proof load used in the prior certification of the cargo gear.
+
+6.  HANDLING: The handling of the containers of explosives during either loading or unloading operations must be scheduled such that the containers are moved in and out of the port area as quickly as possible. Storage of containers of explosives in the port area is not permitted except as specifically authorized by the captain of the port and the local port authority.
+
+7.  STOWAGE/SEGREGATION:
+
+    a.  On containerships, containers of explosives may be stowed and secured "on deck" or "under deck away from heat" as defined in 49 CFR 176.63. When below deck stowage is utilized, the containers must be the last cargo to be stowed under the deck, and the hatches must be closed immediately after stowage is completed and before continuing loading of containers in other hatches or on deck.
+    b.  On cargo vessels which are not containerships, containers of explosives must be stowed and secured "on deck" only, except that these containers may be stowed below deck, away from heat, in holds only which have been modified specifically for the carriage of containers in cellular guides or the equivalent. Stowage in other than cellular guides shall be to the satisfaction of the captain of the port.
+    c.  On trailerships, "on deck" stowage may be in accordance with 49 CFR 176.76(e). Container chassis units must be secured to structural portions of the body of the vessel to the satisfaction of the captain of the port. Tiedowns and lashings to the units will be made to proper fittings provided on the units.
+    d.  The on deck stowage locations for any vessel described above must be such that the containers of explosives are protected from boarding seas by ship's structures, other containers, or artificial barriers, to the greatest extent possible.
+    e.  The segregation requirements of 49 CFR 176 apply to shipments by vessel. If the commodities being shipped require segregation, the separation shall be equal to or greater than the requirements for "separated from" segregation defined in 49 CFR 176.83. Containers shall be effectively secured to prevent movement during the voyage.
+
+8.  FIREFIGHTING/EMERGENCY ACTION: Firefighting equipment capable of reaching and piercing the containers loaded with explosives must be readily accessible to each container during unloading operations. Fire hoses shall be laid out and charged during handling operations.
+
+9.  REPORTING REQUIREMENTS: Any incident occurring while shipping Class A and military explosives under the terms of this approval shall be reported in accordance with 49 CFR 171.16. In addition, a copy shall be immediately forwarded to the Commandant (G -ENG), U.S. Coast Guard, Washington, DC
+
+10. In addition to any special requirements prescribed herein, all applicable DOT Regulations, 49 CFR 171- 179, apply to shipments of Class A and military explosives in freight containers or transport vehicles.
+
+11. A copy of this approval must be on board each vessel transporting Class A and military explosives under the provisions of this approval.
+
+12. EXPIRATION DATE: This approval remains in effect unless withdrawn, superseded by a revised approval, or the regulations are amended to cover the provisions of this approval.
+
+AUTHORIZED BY:
+A. B. CEE / Date
+Commander, U.S. Coast Guard
+Chief, Hazardous Materials Branch
+Marine Technical and Hazardous Materials Division
+By direction of the Commandant
+
+FIGURE F5 -5: COMMANDANT COAST GUARD APPROVAL (CGA) IN EFFECT 01APR89
+
+CGA # COMPANY * CGA # COMPANY *
+Rev. 1 Nissho Iwai 2 004-80,
+American Corp.
+Rev. 3 Petty -Ray 2
+Div., Geosource,
+Inc.
+Rev. 1 Zim Container 1 006-81,
+Service.
+Rev. 1 Olin Corp. 1
+Rev. 2 Alaska Explosives 1 013-81,
+Ltd.
+Rev. 1 Government 1
+of Portugal
+Rev. 1 Kerr Steamship Co. 1 018-81,
+Rev. 2 Schlumberger 1
+Well
+Services
+Rev. 2 Dept. of Defense 1 020-81,
+Rev. 2 Atlas Powder 1
+International
+Ltd.
+Rev. 1 Norton Lilly and 1 005-82,
+Co.
+Rev. 1 Atlas Powder 1
+Co.
+008-82 Matson Agencies, 1 011-82,
+Inc.
+Rev. 1 Pacific 1
+Powder Co.
+Rev. 1 Barber Steamship 1 018-82,
+Lines
+Rev. 1 Baker Sand 1
+Control
+Rev. 2 Pacific Powder Co. 2 003-83,
+Rev. 2 U.S. 1
+International
+Mgt & Mktg
+Rev. 1 Goex, Inc. 1 006-83,
+Rev. 1 Ensign 1
+Bickford
+Rev. 1 Hercules, Inc. 1 011-83,
+Rev. 1 German 1
+Military Representati
+ve
+013-83 Coonies 1 014-83 Action
+Explosives, Inc.
+Manufacturin
+g Co.
+015-83 Expro Chemical 1 001-84 Pengo
+Products
+International
+002-84 Austin Powder 1 004-84 Gearhart
+Industries
+005-84 Alaska Explosives 2 006-84 Koek Freight
+Co.
+
+CGA # COMPANY * CGA # COMPANY *
+007-84 Berg Boat Co. 1 008-84 E. I. Du Pont
+de Nemours
+& Co.
+009-84 ASCA Marine Inc. 1 010-84,
+Rev. 1 Nat’l 1
+Shipping
+Lines of
+Saudi Arabia
+011-84 Petro – Systems, 1 012-84 N.L.
+Inc.
+McCullough
+Industries
+013-84 Pakistan National 1 001-85 Sherwood
+Shipping Corp.
+International
+Corp.
+002-85 Accurate 1 003-85,
+International
+Rev. 1 Transatlantic 1
+a Agency
+USA
+004-85 Braintree 3 005-85,
+Companies
+Rev. 1 Nedlloyd 1
+Lines
+006-85 Pacific Powder Co. 4 007-85 Jet Research
+Center, Inc.
+008-85 Southwest 1 001-86 Satin Air
+Explosives
+Freight
+002-86 Israel Military 1 003-86 Southwest
+Industries
+Explosives
+004-86 Thermex Energey 1 005-86 Lykes Bros.
+Corp.
+Steamship
+Co.
+006-86 Government Supply 1 007-86 Farrell Lines 1
+Co.
+008-86 Phillips -Parr, Inc. 1 009-86 Ireco, Inc. 1
+010-86 Puerto Rico Marine 1 011-86 Mitsui
+Management
+O.S.K. Lines
+012-86 Scol Shipping 1 001-87 Beaufort
+(N.A.)
+Shipping,
+Inc.
+002-87 MacDonnel - 1 003-87 Ridgeway
+Douglas Aerospace
+International, Ltd.
+004-87 C.C.C. Georgia, 1 005-87 ETI
+Inc.
+Explosive Technologies
+Int’l
+
+CGA # COMPANY * CGA # COMPANY *
+006-87 ETI Explosive 2 007-87 ETI
+Technologies Int’l
+Explosive
+Technologies
+Int’l
+008-87 Texas Instruments, 1 009-87 M. L.
+Inc.
+Marketing
+Company
+010-87 Navigest, Inc. 1 011-87 Embassy of
+Australia
+012-87 Trojan Corporation 1 013-87 Johns
+Hopkins
+University
+014-87 Empremar Line 1 001-88 Alaska
+Explosives,
+Ltd.
+002-88 Solar Int’l Shipping 1 003-88 LTV
+Agency
+Missiles and
+Electronics
+004-88 Atlas Powder Co. 4 005-88 Hardrock
+Construction
+Co.
+006-88 Woods Hole 2 007-88 Western
+Oceanographic
+Atlas
+Institute
+International
+008-88 Marine Specialty, 1 009-88 Pan Oceans,
+Inc.
+Inc.
+010-88 Alaska Explosives, 1 011-88 Demex
+Ltd.
+International,
+Ltd.
+012-88 Marine Specialty, 2 013-88 Raytheon
+Inc.
+Company
+014-88 Dock Express 1 015-88 Kintetsu
+Contractors, Inc.
+Intermodal
+(U.S.A.)
+016-88 Loral Hycor, Inc. 1 017-88 Fire Art
+Corporation
+018-88 Western State 1 019-88 Zai Chem,
+Energy Co.
+Inc.
+001-89 Hogg Robinson 1 002-89 Naval
+(G.F.A.), Ltd.
+Weapons Sta, Concord,
+CA
+003-89 Old Dominion 3 004-89 Guiberson
+Stevedoring Corp.
+Div., Dresser
+Industries,
+Inc.
+005-89 Royal Ordnance, 1 006-89 Otter Creek
+plc.
+Chemical
+Corp.
+*NOTES:
+1.  Freight container for military or Class A explosives
+2.  Oversize portable magazine
+3.  Industrial truck for use in explosives hold
+4.  Class A explosives in rail freight car
+
+4.  Import Shipments of Explosives
+
+Import shipments of military, Class A, and Class B explosives must be in complete compliance with the applicable provisions of 46 and 49 CFR. The option of complying with the IMDG Code does not extend to these shipments. An import shipment of military or Class A explosives in a freight container or oversize portable magazine must be in compliance with a CGA issued by Commandant (CG-ENG).
+
+5.  Testing and Approval of Explosives ("EX" Numbers)
+
+Every non-military explosive transported within the United States must have been tested and approved in accordance with 49 CFR 173.86 or 171.19. Military explosives must have been tested and approved in accordance with 46 CFR 146.20-13. If a COTP has any doubt about the proper shipping name or hazard classification of an explosives shipment, the shipper may be requested to provide documentation of the approval. Approvals issued by the DOT's OHMT are identified by a seven-digit number prefixed by the letters "EX." Approvals issued by other agencies have been grandfathered and remain valid. Figure F5-6 provides a sample OHMT explosives classification approval letter. COTPs should ensure that foreign shippers, importers, or their agents are aware of this requirement and have obtained a valid OHMT approval before attempting to import explosives of foreign origin.
+
+FIGURE F5 -6: SAMPLE OHMT EXPLOSIVES CLASSIFICATION APPROVAL
+
+April 30, 1987
+Mr. J. R. Ewing Ewing Energy Corporation 10000 Main Street Dallas, TX 75240
+Dear Mr. Ewing:
+Based on the documentation submitted by Ewing Energy Corporation in accordance with Sections 173.86 and 173.114a, Title 49, Code of Federal Regulations, the new explosive products listed below have been approved for shipment and are hereby classified as follows:
+
+Reference Product Designation Description Hazard Class
+EX-8604670 001-3700-473 Detonators Class A explosives
+EX-8604671 001-3700-453 Detonators Class A explosives
+
+Only explosives and explosive devices as described in the recommending agency report are authorized.
+Should you have any questions regarding these classifications, please call this office at (202) 366 -4514.
+
+Sincerely,
+X. Y. Zee Chief, Approvals Branch Office of Hazardous Materials Transportation
+
+6.  Segregation of Containerized Explosives
+
+49 CFR 176.83(a) prohibits the stowage of incompatible explosives in the same hold or compartment. On containerships, this prohibition may be impracticable when it is necessary to stow freight containers containing incompatible explosives. In this case, a COTP may authorize as alternative stowage "separate from" segregation in accordance with 49 CFR 176.83(d)(3)(ii)(A), which provides an equivalent level of safety.
+
+F. SHIPS' STORES
+
+1.  Introduction
+
+Hazardous materials used as ships' stores (i.e., other than as fuel for the main propulsion plant) are regulated under 46 CFR Part 147. The term “ships' stores” does not apply only to small containers. Some vessels have large, boxed deck tanks for such stores (e.g., a deck tank carrying nitrogen as an inert gas supply).
+
+2.  Authorization for Carriage
+
+A hazardous material may be carried on board a vessel as a ships' store if it is labeled according to 46 CFR 147.30 and if it is not prohibited in 46 CFR Part 147, Subpart B. Certain materials, including flammable liquids not addressed in 46 CFR Part 147 Subpart B, Class A Explosives, and Class A Poisons must be approved for carriage by Commandant (CG-ENG- 5). A list of materials approved under this provision may be obtained from Commandant (CG-ENG- 5). Waivers of any of the carriage requirements in 46 CFR Part 147 may also be obtained from Commandant (CG-ENG- 5) as detailed in 46 CFR 147.9.
+
+G. FUMIGATION
+
+Interim regulations for shipboard fumigation are located in 46 CFR 147A. They apply to foreign and U.S. vessels as described in 46 CFR 146.02-2.
+NOTE: These regulations are under review, having been found inadequate to address unmanned barges, LASH or SEABEE type barges carried aboard ship, and intermodal freight containers.
+
+The rules for these particular applications are contained in two special permits: SP 2-75 and SP 52-75. Questions should be directed to Commandant (CG-ENG- 5).
